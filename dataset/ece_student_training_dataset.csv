@@ -1,0 +1,2002 @@
+student_name,"skills",years_of_experience,cgpa,projects,label
+Aditya Patel,"IoT, MATLAB, Signal Processing",0.5,6.61,Robotics Arm,0
+Rahul Naidu,"C Programming, PCB Design, MATLAB",2,5.95,IoT Weather Station,0
+Vikram Gupta,"IoT, VLSI Design, Signal Processing",1.4,7.3,FPGA Based Design,0
+Sai Kumar,"MATLAB, PCB Design, Verilog",1.5,5.3,FPGA Based Design,0
+Krishna Verma,"MATLAB, VLSI Design, IoT",1.5,5.78,IoT Weather Station,0
+Rahul Sharma,"VLSI Design, Signal Processing, C Programming",1.7,6.48,Smart Home Automation,0
+Krishna Singh,"IoT, MATLAB, C Programming",1,5.16,Robotics Arm,0
+Aditya Iyer,"VLSI Design, MATLAB, IoT",0.2,5.53,Wireless Communication Model,0
+Vihaan Sharma,"Signal Processing, Verilog, VLSI Design",1.2,6.97,Wireless Communication Model,0
+Arjun Reddy,"Signal Processing, C Programming, Verilog",1.6,7.37,Signal Analyzer,0
+Rahul Sharma,"C Programming, VLSI Design, MATLAB",1,6.06,AI Based Fault Detection,0
+Aarav Yadav,"C Programming, MATLAB, Signal Processing",1.6,6.15,Image Processing System,0
+Sai Yadav,"Signal Processing, C Programming, Verilog",1,5.47,Smart Home Automation,0
+Sai Kumar,"PCB Design, VLSI Design, Signal Processing",1.5,6.88,AI Based Fault Detection,0
+Kiran Iyer,"PCB Design, C Programming, Signal Processing",0.2,5.74,IoT Weather Station,0
+Vikram Sharma,"Signal Processing, IoT, MATLAB",1.4,5.86,FPGA Based Design,0
+Kiran Patel,"C Programming, Verilog, MATLAB",1.1,5.1,Robotics Arm,0
+Kiran Singh,"VLSI Design, C Programming, IoT",1.4,7.22,Robotics Arm,0
+Rahul Iyer,"C Programming, MATLAB, VLSI Design",1.5,7.08,Smart Home Automation,0
+Vikram Sharma,"VLSI Design, Signal Processing, PCB Design",1.7,5.49,FPGA Based Design,0
+Sai Iyer,"MATLAB, VLSI Design, Signal Processing",1.6,5.46,Image Processing System,0
+Rohan Verma,"IoT, VLSI Design, Verilog",0.4,5.97,Wireless Communication Model,0
+Arjun Sharma,"C Programming, MATLAB, Signal Processing",0.1,5.99,Wireless Communication Model,0
+Kiran Sharma,"IoT, C Programming, MATLAB",0.7,7.1,Robotics Arm,0
+Vikram Reddy,"MATLAB, Signal Processing, IoT",1.8,6.07,Smart Home Automation,0
+Rohan Kumar,"VLSI Design, PCB Design, IoT",1.4,5.93,FPGA Based Design,0
+Rahul Verma,"C Programming, Verilog, PCB Design",0.9,7.28,AI Based Fault Detection,0
+Vihaan Reddy,"PCB Design, Verilog, IoT",1.2,6.48,AI Based Fault Detection,0
+Rohan Naidu,"MATLAB, VLSI Design, IoT",1.6,6.52,Signal Analyzer,0
+Aditya Yadav,"MATLAB, C Programming, Signal Processing",1.8,5.46,FPGA Based Design,0
+Sai Yadav,"Verilog, IoT, C Programming",0.4,7.02,AI Based Fault Detection,0
+Rohan Gupta,"Verilog, C Programming, PCB Design",1.2,6.22,Signal Analyzer,0
+Sai Kumar,"Verilog, VLSI Design, PCB Design",0.8,5.36,Signal Analyzer,0
+Kiran Naidu,"Signal Processing, IoT, Verilog",1.3,5.48,Smart Home Automation,0
+Aarav Naidu,"MATLAB, Verilog, C Programming",1.4,6.98,AI Based Fault Detection,0
+Rahul Iyer,"Signal Processing, Verilog, PCB Design",0.7,7.13,IoT Weather Station,0
+Arjun Iyer,"PCB Design, VLSI Design, Verilog",0.7,6.34,IoT Weather Station,0
+Rohan Singh,"Signal Processing, VLSI Design, PCB Design",1.4,6.32,Robotics Arm,0
+Aarav Yadav,"MATLAB, Signal Processing, C Programming",1.2,5.13,Wireless Communication Model,0
+Vihaan Verma,"IoT, MATLAB, C Programming",0.6,5.18,FPGA Based Design,0
+Sai Iyer,"PCB Design, Verilog, IoT",0.4,6.73,Smart Home Automation,0
+Arjun Sharma,"VLSI Design, PCB Design, Signal Processing",1.4,6,AI Based Fault Detection,0
+Aditya Yadav,"Signal Processing, IoT, MATLAB",1.5,6.52,AI Based Fault Detection,0
+Sai Verma,"PCB Design, C Programming, MATLAB",1.7,6.69,AI Based Fault Detection,0
+Rahul Singh,"PCB Design, Signal Processing, IoT",0.8,6.34,Wireless Communication Model,0
+Vikram Reddy,"IoT, Verilog, VLSI Design",0.4,6.49,Image Processing System,0
+Sai Singh,"IoT, PCB Design, VLSI Design",0.5,6.76,Image Processing System,0
+Kiran Patel,"MATLAB, IoT, PCB Design",0.1,5.62,Image Processing System,0
+Rohan Naidu,"Signal Processing, IoT, Verilog",0.5,7.31,Image Processing System,0
+Krishna Naidu,"PCB Design, IoT, Verilog",2,5.77,Robotics Arm,0
+Vihaan Iyer,"C Programming, VLSI Design, PCB Design",0.1,6.28,IoT Weather Station,0
+Rohan Kumar,"C Programming, IoT, Signal Processing",1.1,7.28,FPGA Based Design,0
+Rohan Iyer,"C Programming, Signal Processing, MATLAB",0.5,6.6,Image Processing System,0
+Vihaan Patel,"PCB Design, MATLAB, Signal Processing",0,6.2,FPGA Based Design,0
+Arjun Kumar,"Signal Processing, MATLAB, C Programming",0.3,6.66,Smart Home Automation,0
+Sai Iyer,"Verilog, PCB Design, Signal Processing",1.1,6.24,IoT Weather Station,0
+Aarav Patel,"Verilog, VLSI Design, IoT",0.9,6.6,FPGA Based Design,0
+Aarav Gupta,"PCB Design, Signal Processing, IoT",0.6,6.92,IoT Weather Station,0
+Sai Iyer,"VLSI Design, IoT, PCB Design",1.8,7.14,FPGA Based Design,0
+Arjun Kumar,"VLSI Design, MATLAB, PCB Design",0.4,5.6,AI Based Fault Detection,0
+Kiran Kumar,"C Programming, PCB Design, VLSI Design",1.5,5.77,FPGA Based Design,0
+Rahul Yadav,"Signal Processing, MATLAB, PCB Design",1.7,5.39,IoT Weather Station,0
+Krishna Yadav,"Verilog, C Programming, PCB Design",1.9,5.64,AI Based Fault Detection,0
+Aditya Yadav,"C Programming, IoT, PCB Design",0.6,6.9,Smart Home Automation,0
+Kiran Singh,"Signal Processing, MATLAB, C Programming",1.3,7.39,IoT Weather Station,0
+Vihaan Naidu,"MATLAB, VLSI Design, IoT",0.4,5.47,Robotics Arm,0
+Rahul Iyer,"IoT, Signal Processing, VLSI Design",0.1,6.48,AI Based Fault Detection,0
+Vihaan Reddy,"VLSI Design, PCB Design, Verilog",1.1,7.1,Robotics Arm,0
+Sai Sharma,"Signal Processing, IoT, VLSI Design",1.8,6.19,Signal Analyzer,0
+Vikram Iyer,"VLSI Design, MATLAB, Signal Processing",1.8,5.11,AI Based Fault Detection,0
+Sai Iyer,"MATLAB, Signal Processing, IoT",1.9,6.26,Image Processing System,0
+Vikram Sharma,"Signal Processing, C Programming, VLSI Design",0.3,7.1,AI Based Fault Detection,0
+Vihaan Verma,"Verilog, Signal Processing, PCB Design",0.7,7.02,AI Based Fault Detection,0
+Rohan Patel,"C Programming, IoT, Verilog",1,6.54,Smart Home Automation,0
+Vihaan Verma,"C Programming, Verilog, MATLAB",1,5.94,Image Processing System,0
+Vikram Reddy,"C Programming, MATLAB, VLSI Design",1.3,7.23,Smart Home Automation,0
+Vikram Naidu,"VLSI Design, PCB Design, IoT",1.9,7.31,Signal Analyzer,0
+Vikram Gupta,"PCB Design, Verilog, VLSI Design",0.6,6.46,Wireless Communication Model,0
+Rahul Sharma,"MATLAB, IoT, C Programming",1.3,6.21,FPGA Based Design,0
+Rahul Iyer,"VLSI Design, C Programming, PCB Design",1.6,6.24,Signal Analyzer,0
+Arjun Kumar,"PCB Design, IoT, Verilog",0.1,5.19,Robotics Arm,0
+Rahul Iyer,"C Programming, MATLAB, IoT",2,5.05,IoT Weather Station,0
+Vihaan Kumar,"VLSI Design, Verilog, C Programming",0.3,5.72,FPGA Based Design,0
+Rohan Reddy,"Signal Processing, PCB Design, MATLAB",1.1,6.64,Robotics Arm,0
+Rahul Gupta,"C Programming, IoT, Signal Processing",0.5,7.18,Image Processing System,0
+Vikram Yadav,"Verilog, Signal Processing, MATLAB",1.8,5.37,Image Processing System,0
+Arjun Reddy,"PCB Design, IoT, Signal Processing",1.2,6.26,Signal Analyzer,0
+Vikram Singh,"VLSI Design, MATLAB, PCB Design",1.4,7.35,FPGA Based Design,0
+Aditya Sharma,"VLSI Design, PCB Design, MATLAB",0.6,5.55,Wireless Communication Model,0
+Sai Naidu,"Verilog, Signal Processing, PCB Design",1.7,5.02,AI Based Fault Detection,0
+Aarav Sharma,"Signal Processing, C Programming, PCB Design",1,6.49,Signal Analyzer,1
+Krishna Iyer,"PCB Design, Verilog, VLSI Design",1.6,6.2,Robotics Arm,0
+Rohan Yadav,"PCB Design, VLSI Design, MATLAB",0.2,5.89,Wireless Communication Model,0
+Krishna Patel,"IoT, MATLAB, VLSI Design",0.3,5.2,FPGA Based Design,0
+Aditya Gupta,"MATLAB, C Programming, PCB Design",0.2,5.47,Image Processing System,0
+Krishna Sharma,"MATLAB, VLSI Design, Signal Processing",1.5,5.48,AI Based Fault Detection,0
+Rohan Naidu,"MATLAB, IoT, C Programming",1.9,6.91,AI Based Fault Detection,0
+Vihaan Iyer,"MATLAB, Verilog, Signal Processing",1.2,7.01,Image Processing System,0
+Kiran Patel,"VLSI Design, PCB Design, C Programming",1.3,7.03,IoT Weather Station,0
+Arjun Iyer,"MATLAB, PCB Design, IoT",1.5,6.99,Smart Home Automation,0
+Krishna Patel,"Verilog, Signal Processing, PCB Design",0.2,5.68,Robotics Arm,0
+Aarav Gupta,"Verilog, PCB Design, IoT",1.2,5.28,Robotics Arm,0
+Rahul Singh,"C Programming, IoT, PCB Design",1.8,7.25,FPGA Based Design,0
+Aarav Reddy,"IoT, Verilog, C Programming",1.6,6.47,Signal Analyzer,1
+Aditya Gupta,"IoT, Signal Processing, C Programming",0.3,6.69,IoT Weather Station,0
+Arjun Verma,"Signal Processing, MATLAB, C Programming",0,6.09,Robotics Arm,0
+Vikram Verma,"PCB Design, Signal Processing, Verilog",0.9,5.46,AI Based Fault Detection,0
+Rahul Iyer,"VLSI Design, C Programming, MATLAB",1,7.27,FPGA Based Design,0
+Aarav Singh,"IoT, PCB Design, Signal Processing",0.7,5.28,Signal Analyzer,0
+Arjun Kumar,"VLSI Design, C Programming, PCB Design",1.2,5.59,Smart Home Automation,0
+Rohan Verma,"Verilog, Signal Processing, IoT",1,6.36,Image Processing System,0
+Kiran Reddy,"IoT, VLSI Design, Verilog",1.3,6.94,AI Based Fault Detection,0
+Rahul Reddy,"PCB Design, IoT, Signal Processing",1.7,6.15,FPGA Based Design,0
+Kiran Reddy,"C Programming, MATLAB, VLSI Design",1.1,7.32,FPGA Based Design,0
+Krishna Kumar,"MATLAB, Signal Processing, Verilog",1.9,5.75,Signal Analyzer,0
+Aditya Naidu,"Verilog, VLSI Design, IoT",0.1,5.64,AI Based Fault Detection,0
+Rahul Yadav,"PCB Design, Signal Processing, Verilog",1.9,5.2,IoT Weather Station,0
+Krishna Yadav,"Verilog, C Programming, Signal Processing",1.1,6.05,Robotics Arm,0
+Krishna Patel,"Verilog, C Programming, Signal Processing",0.9,6.42,Wireless Communication Model,0
+Vihaan Gupta,"Verilog, VLSI Design, C Programming",0.5,6.34,Wireless Communication Model,0
+Vihaan Yadav,"C Programming, MATLAB, Verilog",0.4,7.24,Signal Analyzer,0
+Aditya Singh,"IoT, PCB Design, Verilog",1.6,5.05,AI Based Fault Detection,0
+Krishna Iyer,"PCB Design, IoT, Verilog",2,6.77,FPGA Based Design,0
+Aditya Patel,"VLSI Design, MATLAB, Verilog",1.8,5.65,FPGA Based Design,0
+Kiran Singh,"C Programming, Signal Processing, IoT",0,7.21,Robotics Arm,0
+Rohan Patel,"C Programming, Signal Processing, MATLAB",0.4,7.3,Image Processing System,0
+Krishna Yadav,"Signal Processing, IoT, Verilog",0.8,7.33,Image Processing System,0
+Aarav Kumar,"PCB Design, IoT, Verilog",0.4,6.47,AI Based Fault Detection,0
+Rahul Sharma,"PCB Design, Verilog, C Programming",0.5,7.34,Image Processing System,0
+Rohan Sharma,"C Programming, Verilog, IoT",1.2,5.91,IoT Weather Station,0
+Vihaan Verma,"MATLAB, VLSI Design, IoT",1.1,5.82,Smart Home Automation,0
+Vihaan Patel,"VLSI Design, C Programming, IoT",0.6,7.16,FPGA Based Design,0
+Aarav Verma,"MATLAB, Verilog, C Programming",1.4,6.04,Robotics Arm,0
+Vihaan Reddy,"VLSI Design, PCB Design, Signal Processing",0.6,6.37,Wireless Communication Model,0
+Sai Sharma,"Signal Processing, PCB Design, VLSI Design",0.7,7.15,Wireless Communication Model,0
+Rahul Verma,"C Programming, IoT, MATLAB",0.2,5.36,Signal Analyzer,0
+Vihaan Yadav,"C Programming, Signal Processing, PCB Design",1.7,5.83,FPGA Based Design,0
+Kiran Kumar,"C Programming, Signal Processing, IoT",0.1,5.92,AI Based Fault Detection,0
+Sai Naidu,"Verilog, PCB Design, C Programming",0.9,5.66,Robotics Arm,0
+Vihaan Reddy,"Signal Processing, C Programming, MATLAB",0.8,6.28,Smart Home Automation,0
+Sai Reddy,"Signal Processing, MATLAB, IoT",0,7.05,Smart Home Automation,0
+Vikram Reddy,"VLSI Design, IoT, C Programming",0.5,5.99,IoT Weather Station,0
+Rohan Gupta,"MATLAB, C Programming, VLSI Design",0.6,6.79,IoT Weather Station,0
+Sai Kumar,"PCB Design, Signal Processing, MATLAB",1.7,6.74,Signal Analyzer,0
+Vihaan Verma,"C Programming, Verilog, MATLAB",0.3,5.03,Robotics Arm,0
+Aditya Iyer,"VLSI Design, PCB Design, Verilog",0.4,7.08,IoT Weather Station,0
+Sai Kumar,"PCB Design, VLSI Design, C Programming",1.4,5.87,Signal Analyzer,0
+Krishna Gupta,"Signal Processing, Verilog, C Programming",0.7,5.68,AI Based Fault Detection,0
+Aditya Patel,"Signal Processing, C Programming, Verilog",1,5.38,IoT Weather Station,0
+Rahul Kumar,"PCB Design, IoT, VLSI Design",1.4,5.15,Image Processing System,0
+Arjun Naidu,"MATLAB, C Programming, Signal Processing",0.9,5.7,Wireless Communication Model,0
+Krishna Singh,"Signal Processing, IoT, MATLAB",0.8,6.61,Robotics Arm,0
+Aditya Yadav,"VLSI Design, IoT, Signal Processing",1.8,7.32,Signal Analyzer,1
+Sai Iyer,"Signal Processing, VLSI Design, MATLAB",1.2,5.94,Smart Home Automation,0
+Vihaan Gupta,"Verilog, VLSI Design, C Programming",1.5,6.17,AI Based Fault Detection,0
+Rahul Gupta,"MATLAB, Verilog, VLSI Design",0.5,6.28,Smart Home Automation,0
+Aditya Reddy,"Signal Processing, IoT, C Programming",0.4,5.11,Smart Home Automation,0
+Vikram Gupta,"VLSI Design, IoT, MATLAB",1.8,6,AI Based Fault Detection,0
+Kiran Singh,"Verilog, Signal Processing, IoT",1.2,6.83,Smart Home Automation,0
+Aditya Sharma,"IoT, VLSI Design, PCB Design",0.1,6.04,Wireless Communication Model,0
+Vihaan Gupta,"Signal Processing, C Programming, Verilog",1.7,5.39,Smart Home Automation,0
+Sai Reddy,"PCB Design, C Programming, Signal Processing",0.5,5.67,IoT Weather Station,0
+Rahul Gupta,"MATLAB, C Programming, Signal Processing",1.6,7.31,Signal Analyzer,0
+Sai Gupta,"IoT, C Programming, VLSI Design",1.3,7.16,IoT Weather Station,0
+Vihaan Iyer,"Verilog, PCB Design, C Programming",0.6,5.94,Signal Analyzer,0
+Rohan Kumar,"MATLAB, PCB Design, Signal Processing",0.2,5.46,Wireless Communication Model,0
+Vikram Naidu,"Verilog, MATLAB, C Programming",1.3,6.93,Robotics Arm,0
+Aditya Sharma,"Signal Processing, PCB Design, Verilog",1.1,5.05,AI Based Fault Detection,0
+Kiran Sharma,"IoT, Signal Processing, C Programming",0.7,6.43,FPGA Based Design,0
+Rohan Patel,"Signal Processing, Verilog, VLSI Design",0.3,7.02,IoT Weather Station,0
+Aditya Gupta,"Verilog, MATLAB, PCB Design",0.3,7.35,Image Processing System,0
+Rohan Singh,"IoT, C Programming, Signal Processing",0.5,6.58,Signal Analyzer,0
+Vihaan Kumar,"C Programming, MATLAB, Verilog",1,6.98,Signal Analyzer,0
+Rohan Gupta,"Verilog, Signal Processing, IoT",0.6,6.38,AI Based Fault Detection,0
+Vihaan Reddy,"PCB Design, MATLAB, IoT",0.1,5.13,Smart Home Automation,0
+Rahul Naidu,"IoT, PCB Design, VLSI Design",1.4,5.65,AI Based Fault Detection,0
+Rohan Reddy,"Verilog, Signal Processing, PCB Design",1,5.31,FPGA Based Design,0
+Krishna Patel,"Signal Processing, IoT, VLSI Design",1.4,5.76,IoT Weather Station,0
+Arjun Reddy,"MATLAB, Signal Processing, PCB Design",1.4,5.75,Robotics Arm,0
+Vihaan Verma,"MATLAB, Verilog, VLSI Design",0.8,6.93,Wireless Communication Model,0
+Sai Yadav,"PCB Design, Signal Processing, VLSI Design",1.4,7.37,IoT Weather Station,0
+Rahul Singh,"VLSI Design, MATLAB, Verilog",0.6,5.01,AI Based Fault Detection,0
+Kiran Iyer,"Verilog, MATLAB, Signal Processing",1.6,6.84,IoT Weather Station,0
+Aarav Iyer,"VLSI Design, PCB Design, MATLAB",1.9,6.96,Image Processing System,0
+Aditya Sharma,"PCB Design, Verilog, C Programming",0.7,5.67,Smart Home Automation,0
+Krishna Singh,"PCB Design, VLSI Design, C Programming",1.4,7.13,Signal Analyzer,0
+Aditya Yadav,"PCB Design, VLSI Design, Signal Processing",0.3,5.59,IoT Weather Station,0
+Krishna Verma,"C Programming, VLSI Design, IoT",0.1,5.15,IoT Weather Station,0
+Rohan Reddy,"Signal Processing, MATLAB, Verilog",2,5.87,FPGA Based Design,1
+Rohan Yadav,"Verilog, PCB Design, VLSI Design",0.8,7.28,Robotics Arm,0
+Rahul Reddy,"PCB Design, VLSI Design, MATLAB",1.2,6.42,AI Based Fault Detection,0
+Vihaan Kumar,"VLSI Design, IoT, MATLAB",0.8,5.77,FPGA Based Design,0
+Rohan Yadav,"PCB Design, Verilog, IoT",0.7,6.74,FPGA Based Design,0
+Vihaan Reddy,"PCB Design, VLSI Design, Signal Processing",0.6,5.62,Robotics Arm,0
+Aarav Iyer,"Signal Processing, IoT, C Programming",0.3,6.94,Image Processing System,0
+Rahul Sharma,"PCB Design, VLSI Design, C Programming",1.1,5.57,Smart Home Automation,0
+Rohan Singh,"IoT, C Programming, VLSI Design",1.2,6.08,Signal Analyzer,0
+Sai Naidu,"C Programming, VLSI Design, IoT",0.2,6.23,Robotics Arm,0
+Aditya Patel,"Signal Processing, PCB Design, MATLAB",1,6.89,Signal Analyzer,0
+Sai Kumar,"Verilog, IoT, Signal Processing",1.1,5.83,IoT Weather Station,0
+Rohan Iyer,"MATLAB, PCB Design, Verilog",0.9,5.32,IoT Weather Station,0
+Aditya Iyer,"VLSI Design, IoT, C Programming",0.6,5.62,FPGA Based Design,0
+Aditya Reddy,"MATLAB, Signal Processing, C Programming",1.5,6.58,Wireless Communication Model,0
+Vikram Naidu,"MATLAB, IoT, PCB Design",1.2,5.97,Signal Analyzer,0
+Aditya Patel,"PCB Design, VLSI Design, Verilog",0.1,6.4,Smart Home Automation,0
+Krishna Gupta,"C Programming, Verilog, Signal Processing",0.9,6.31,Wireless Communication Model,0
+Vihaan Patel,"MATLAB, PCB Design, Signal Processing",0.1,6.91,Wireless Communication Model,0
+Sai Iyer,"Verilog, Signal Processing, IoT",0.4,7.26,Robotics Arm,0
+Sai Naidu,"VLSI Design, Verilog, C Programming",1.7,5.99,Robotics Arm,0
+Krishna Singh,"MATLAB, Verilog, C Programming",0.5,5.41,Signal Analyzer,0
+Rohan Yadav,"MATLAB, IoT, C Programming",1.4,6.87,Wireless Communication Model,0
+Rahul Yadav,"IoT, MATLAB, Signal Processing",0.8,6.77,Wireless Communication Model,0
+Vikram Reddy,"C Programming, MATLAB, Signal Processing",1.5,6.48,Wireless Communication Model,0
+Aditya Verma,"Verilog, MATLAB, PCB Design",1.3,7.3,Wireless Communication Model,0
+Kiran Reddy,"PCB Design, VLSI Design, MATLAB",0.1,6.37,AI Based Fault Detection,0
+Vihaan Verma,"C Programming, VLSI Design, IoT",1.8,6.15,FPGA Based Design,0
+Kiran Sharma,"Verilog, VLSI Design, IoT",0.2,6.9,Wireless Communication Model,0
+Kiran Naidu,"C Programming, Signal Processing, Verilog",0.3,5.52,Signal Analyzer,0
+Sai Singh,"VLSI Design, C Programming, Signal Processing",0.1,6.33,Wireless Communication Model,0
+Rahul Yadav,"PCB Design, C Programming, VLSI Design",1.8,5.35,Smart Home Automation,0
+Kiran Yadav,"PCB Design, C Programming, VLSI Design",0.2,5.23,Image Processing System,0
+Krishna Gupta,"IoT, Signal Processing, PCB Design",1.6,6.32,FPGA Based Design,0
+Vihaan Singh,"Signal Processing, MATLAB, C Programming",0.1,5.55,Image Processing System,0
+Rahul Verma,"MATLAB, VLSI Design, PCB Design",1.1,7.32,IoT Weather Station,0
+Sai Reddy,"MATLAB, Signal Processing, Verilog",0.4,6.64,Signal Analyzer,0
+Sai Reddy,"C Programming, Signal Processing, Verilog",0,6.19,Smart Home Automation,0
+Rohan Verma,"MATLAB, IoT, C Programming",1.1,6.83,IoT Weather Station,0
+Rahul Singh,"IoT, MATLAB, Signal Processing",1.5,5.73,Robotics Arm,0
+Rohan Patel,"VLSI Design, Verilog, PCB Design",1.2,6.16,Signal Analyzer,0
+Vihaan Yadav,"Signal Processing, PCB Design, MATLAB",1.5,5.89,AI Based Fault Detection,0
+Vikram Kumar,"PCB Design, Signal Processing, MATLAB",0.3,7.29,Wireless Communication Model,0
+Kiran Sharma,"IoT, MATLAB, C Programming",1.6,7.24,IoT Weather Station,0
+Rohan Singh,"IoT, MATLAB, Signal Processing",0.4,6.55,Robotics Arm,0
+Arjun Naidu,"MATLAB, VLSI Design, IoT",0.1,7.34,Signal Analyzer,0
+Rahul Sharma,"Verilog, VLSI Design, IoT",1.1,5.69,Signal Analyzer,0
+Rohan Naidu,"MATLAB, IoT, PCB Design",0.5,5.58,Smart Home Automation,0
+Krishna Kumar,"VLSI Design, IoT, Signal Processing",1.6,6.56,FPGA Based Design,0
+Aarav Patel,"VLSI Design, IoT, C Programming",0.3,6.37,AI Based Fault Detection,0
+Aditya Yadav,"Signal Processing, PCB Design, IoT",0.1,7.26,Robotics Arm,0
+Vikram Kumar,"MATLAB, VLSI Design, IoT",1,5.45,IoT Weather Station,0
+Aditya Yadav,"MATLAB, VLSI Design, IoT",0.5,5.01,FPGA Based Design,0
+Arjun Singh,"C Programming, VLSI Design, PCB Design",1.1,6.11,FPGA Based Design,0
+Arjun Reddy,"Signal Processing, Verilog, VLSI Design",1,7.32,Robotics Arm,0
+Sai Gupta,"C Programming, Signal Processing, IoT",1,7.32,Image Processing System,0
+Vihaan Patel,"Verilog, IoT, Signal Processing",0.2,5.23,Signal Analyzer,0
+Rahul Patel,"C Programming, VLSI Design, Signal Processing",0.6,6.42,Image Processing System,0
+Rahul Verma,"Verilog, VLSI Design, Signal Processing",0,5.29,AI Based Fault Detection,0
+Rohan Reddy,"C Programming, IoT, Verilog",0.9,6.36,Wireless Communication Model,0
+Krishna Reddy,"Signal Processing, PCB Design, IoT",1.6,5.44,IoT Weather Station,1
+Kiran Patel,"VLSI Design, MATLAB, PCB Design",1.6,6.14,Signal Analyzer,0
+Vihaan Yadav,"C Programming, MATLAB, VLSI Design",1.4,7.27,IoT Weather Station,0
+Kiran Patel,"Signal Processing, MATLAB, Verilog",0.8,5.52,Robotics Arm,0
+Sai Patel,"PCB Design, IoT, MATLAB",0.3,6.36,Robotics Arm,0
+Vikram Reddy,"MATLAB, Signal Processing, PCB Design",1.9,5.37,Signal Analyzer,0
+Aarav Sharma,"PCB Design, IoT, Verilog",0.2,6.05,IoT Weather Station,0
+Aarav Gupta,"PCB Design, VLSI Design, Verilog",1.3,7.05,Signal Analyzer,0
+Rahul Yadav,"PCB Design, C Programming, MATLAB",1.4,5.15,IoT Weather Station,0
+Kiran Kumar,"VLSI Design, IoT, MATLAB",2,5.25,AI Based Fault Detection,0
+Aditya Singh,"C Programming, Signal Processing, PCB Design",1.3,5.95,IoT Weather Station,0
+Krishna Patel,"Signal Processing, Verilog, MATLAB",1.4,5.34,AI Based Fault Detection,0
+Sai Naidu,"VLSI Design, Verilog, PCB Design",1.7,5.81,Robotics Arm,0
+Kiran Kumar,"PCB Design, C Programming, IoT",1.2,6.43,AI Based Fault Detection,0
+Krishna Patel,"MATLAB, C Programming, IoT",0.9,6.83,Wireless Communication Model,0
+Rohan Singh,"VLSI Design, PCB Design, Signal Processing",0.3,6.8,IoT Weather Station,0
+Aarav Patel,"Verilog, C Programming, Signal Processing",0.6,6.41,Robotics Arm,0
+Arjun Naidu,"Signal Processing, VLSI Design, IoT",1.6,6.9,IoT Weather Station,0
+Kiran Verma,"Verilog, IoT, C Programming",1.6,7.05,IoT Weather Station,0
+Vikram Singh,"Signal Processing, VLSI Design, C Programming",0.6,7.02,FPGA Based Design,0
+Sai Sharma,"C Programming, Verilog, MATLAB",0.6,5.3,Image Processing System,0
+Kiran Yadav,"Verilog, IoT, C Programming",1.5,5.17,Wireless Communication Model,1
+Arjun Yadav,"Verilog, IoT, PCB Design",0.3,6.9,Robotics Arm,0
+Aarav Iyer,"PCB Design, MATLAB, VLSI Design",0.2,6.03,FPGA Based Design,0
+Krishna Reddy,"MATLAB, VLSI Design, Verilog",1.8,5.53,Wireless Communication Model,0
+Kiran Iyer,"PCB Design, MATLAB, C Programming",0.8,6.48,Image Processing System,0
+Vihaan Sharma,"Verilog, C Programming, MATLAB",0,5.88,Robotics Arm,0
+Krishna Gupta,"PCB Design, VLSI Design, C Programming",1,7.25,Wireless Communication Model,0
+Kiran Iyer,"MATLAB, Verilog, IoT",0.7,6.08,FPGA Based Design,0
+Arjun Kumar,"Signal Processing, C Programming, PCB Design",0.7,5.35,Smart Home Automation,0
+Arjun Patel,"PCB Design, Verilog, VLSI Design",0.8,6.18,Robotics Arm,0
+Rahul Reddy,"Signal Processing, MATLAB, VLSI Design",1.8,6.52,Wireless Communication Model,0
+Kiran Reddy,"C Programming, IoT, MATLAB",0.2,6.47,Signal Analyzer,0
+Rahul Singh,"VLSI Design, MATLAB, PCB Design",1.4,5.01,Signal Analyzer,0
+Rohan Patel,"MATLAB, Verilog, VLSI Design",0.1,5.85,FPGA Based Design,0
+Sai Yadav,"Signal Processing, C Programming, VLSI Design",1.9,7.27,IoT Weather Station,0
+Krishna Yadav,"PCB Design, Signal Processing, VLSI Design",0.1,6.91,Robotics Arm,0
+Vikram Naidu,"PCB Design, C Programming, Signal Processing",0.5,6.72,AI Based Fault Detection,0
+Aarav Sharma,"MATLAB, C Programming, Signal Processing",1.5,5.23,Signal Analyzer,0
+Rohan Gupta,"C Programming, Signal Processing, PCB Design",0.6,5.55,AI Based Fault Detection,0
+Aditya Yadav,"Signal Processing, PCB Design, VLSI Design",0.6,5.14,AI Based Fault Detection,0
+Arjun Reddy,"C Programming, Verilog, VLSI Design",1.8,5.15,FPGA Based Design,0
+Sai Sharma,"Signal Processing, IoT, PCB Design",1.7,5.11,Image Processing System,0
+Aditya Singh,"Verilog, C Programming, PCB Design",1.6,6.95,Signal Analyzer,0
+Vihaan Patel,"IoT, C Programming, Verilog",1.9,6.92,AI Based Fault Detection,0
+Rahul Kumar,"IoT, C Programming, PCB Design",1.7,5.73,IoT Weather Station,0
+Aditya Gupta,"IoT, VLSI Design, Verilog",1.9,5.64,Image Processing System,0
+Rohan Sharma,"C Programming, MATLAB, VLSI Design",0.8,6.79,Image Processing System,0
+Rohan Sharma,"MATLAB, VLSI Design, PCB Design",1.5,7.18,Robotics Arm,0
+Aarav Gupta,"Signal Processing, MATLAB, Verilog",1.3,5.37,Wireless Communication Model,0
+Arjun Gupta,"C Programming, Signal Processing, IoT",0.9,6.8,Wireless Communication Model,0
+Vihaan Kumar,"VLSI Design, Signal Processing, PCB Design",1.3,7.18,Image Processing System,1
+Krishna Iyer,"IoT, VLSI Design, Signal Processing",0.9,7.11,AI Based Fault Detection,0
+Arjun Gupta,"C Programming, MATLAB, IoT",1.1,5.74,FPGA Based Design,0
+Rohan Sharma,"VLSI Design, Signal Processing, PCB Design",1.1,6.29,FPGA Based Design,0
+Vikram Yadav,"C Programming, IoT, MATLAB",1.7,5.64,Signal Analyzer,0
+Rohan Patel,"PCB Design, C Programming, MATLAB",1.1,5.24,Signal Analyzer,0
+Rohan Yadav,"IoT, Signal Processing, MATLAB",0.3,5.14,FPGA Based Design,0
+Aarav Kumar,"C Programming, PCB Design, Verilog",1.2,6.02,Signal Analyzer,0
+Kiran Gupta,"MATLAB, VLSI Design, Verilog",1,6.75,Wireless Communication Model,0
+Kiran Gupta,"Verilog, IoT, PCB Design",1,5.87,Smart Home Automation,0
+Krishna Verma,"Signal Processing, VLSI Design, IoT",1.7,6.23,Wireless Communication Model,0
+Rohan Singh,"C Programming, VLSI Design, MATLAB",1.8,5.63,AI Based Fault Detection,0
+Aditya Kumar,"VLSI Design, Signal Processing, IoT",1.3,7.32,Robotics Arm,0
+Aditya Sharma,"Signal Processing, PCB Design, VLSI Design",1.8,6.44,FPGA Based Design,0
+Vikram Sharma,"VLSI Design, Signal Processing, Verilog",0.6,7.29,Signal Analyzer,0
+Aditya Iyer,"PCB Design, Signal Processing, VLSI Design",0.2,6.29,Image Processing System,0
+Aarav Iyer,"MATLAB, IoT, VLSI Design",0.4,7.33,Robotics Arm,0
+Krishna Singh,"PCB Design, Verilog, VLSI Design",1.8,5.89,FPGA Based Design,0
+Arjun Iyer,"Signal Processing, IoT, PCB Design",0.7,5.14,Wireless Communication Model,0
+Aditya Gupta,"Verilog, VLSI Design, MATLAB",1.6,6.98,Image Processing System,0
+Rahul Kumar,"Signal Processing, VLSI Design, C Programming",0.1,6.48,Signal Analyzer,0
+Kiran Singh,"MATLAB, C Programming, VLSI Design",0.9,6.12,Signal Analyzer,0
+Vihaan Yadav,"PCB Design, VLSI Design, Signal Processing",0.2,6.73,Robotics Arm,0
+Vikram Iyer,"Verilog, Signal Processing, IoT",1.7,5.82,AI Based Fault Detection,0
+Vihaan Verma,"MATLAB, VLSI Design, C Programming",2,6.57,AI Based Fault Detection,0
+Vikram Sharma,"Signal Processing, IoT, MATLAB",1.1,5.05,Image Processing System,0
+Aarav Singh,"MATLAB, VLSI Design, PCB Design",0.4,5.45,Wireless Communication Model,0
+Sai Singh,"Verilog, IoT, VLSI Design",0.7,6.64,Smart Home Automation,0
+Sai Reddy,"Signal Processing, PCB Design, C Programming",1.3,5.5,Wireless Communication Model,0
+Rahul Singh,"Signal Processing, PCB Design, C Programming",1.6,5.75,IoT Weather Station,0
+Sai Reddy,"IoT, PCB Design, Verilog",1.7,5.5,Wireless Communication Model,0
+Kiran Patel,"C Programming, IoT, PCB Design",0.6,7.18,IoT Weather Station,0
+Aditya Naidu,"Verilog, C Programming, Signal Processing",0.5,7.05,Wireless Communication Model,0
+Vihaan Yadav,"C Programming, MATLAB, Verilog",0.9,5.21,IoT Weather Station,0
+Aditya Naidu,"Verilog, Signal Processing, PCB Design",1.5,5.49,Signal Analyzer,1
+Rohan Iyer,"VLSI Design, PCB Design, Verilog",0.5,5.47,FPGA Based Design,0
+Vikram Patel,"MATLAB, IoT, Verilog",0.8,5.5,Smart Home Automation,0
+Rohan Patel,"Verilog, VLSI Design, Signal Processing",0.7,7.2,Signal Analyzer,0
+Aarav Gupta,"Verilog, Signal Processing, C Programming",0.9,7.34,Signal Analyzer,0
+Rahul Verma,"C Programming, Verilog, Signal Processing",1.2,6.41,Robotics Arm,0
+Arjun Kumar,"IoT, VLSI Design, Verilog",0.2,5.24,Signal Analyzer,0
+Aditya Verma,"MATLAB, PCB Design, Verilog",0.8,6.59,IoT Weather Station,0
+Kiran Verma,"Verilog, C Programming, IoT",1.1,6.72,Wireless Communication Model,0
+Aarav Yadav,"C Programming, PCB Design, Verilog",0.7,5.26,Image Processing System,0
+Sai Sharma,"IoT, PCB Design, C Programming",2,7.09,Smart Home Automation,1
+Rohan Gupta,"VLSI Design, MATLAB, Signal Processing",1,5.23,AI Based Fault Detection,0
+Vikram Sharma,"Signal Processing, VLSI Design, IoT",1.8,7.26,Signal Analyzer,0
+Kiran Sharma,"Verilog, PCB Design, C Programming",1.3,6.72,AI Based Fault Detection,0
+Sai Gupta,"Signal Processing, C Programming, PCB Design",1.6,5.41,Smart Home Automation,0
+Arjun Naidu,"MATLAB, PCB Design, Signal Processing",1.8,6.63,Signal Analyzer,0
+Rahul Kumar,"IoT, Signal Processing, MATLAB",1.2,5.37,AI Based Fault Detection,0
+Rahul Singh,"PCB Design, Signal Processing, C Programming",0.2,7.25,Image Processing System,0
+Sai Gupta,"MATLAB, Verilog, PCB Design",1.8,7.26,FPGA Based Design,0
+Vikram Singh,"Signal Processing, Verilog, PCB Design",1.3,5.66,Wireless Communication Model,0
+Krishna Patel,"C Programming, Signal Processing, MATLAB",0.7,6.73,Signal Analyzer,0
+Kiran Verma,"Verilog, MATLAB, Signal Processing",0.2,5.49,IoT Weather Station,0
+Aarav Reddy,"VLSI Design, IoT, PCB Design",0.8,5.37,Smart Home Automation,0
+Kiran Reddy,"IoT, Signal Processing, Verilog",0.9,6.04,IoT Weather Station,0
+Arjun Reddy,"C Programming, VLSI Design, MATLAB",1.2,5.81,Robotics Arm,0
+Aarav Singh,"Signal Processing, PCB Design, VLSI Design",0.5,6.28,Wireless Communication Model,0
+Vikram Iyer,"VLSI Design, IoT, Signal Processing",1.1,5.44,IoT Weather Station,0
+Vihaan Iyer,"C Programming, VLSI Design, Verilog",1.8,6.84,Smart Home Automation,0
+Aditya Yadav,"IoT, Signal Processing, MATLAB",1.3,6.18,IoT Weather Station,0
+Krishna Sharma,"Verilog, Signal Processing, VLSI Design",1.9,7.03,FPGA Based Design,0
+Vihaan Reddy,"Signal Processing, PCB Design, Verilog",1.7,6.64,Signal Analyzer,0
+Sai Gupta,"VLSI Design, MATLAB, Signal Processing",1.3,6.38,Robotics Arm,0
+Kiran Singh,"IoT, Verilog, MATLAB",1.2,5.89,Robotics Arm,0
+Arjun Verma,"VLSI Design, PCB Design, MATLAB",0.7,5.24,Smart Home Automation,0
+Kiran Singh,"Signal Processing, VLSI Design, MATLAB",1.9,5.98,AI Based Fault Detection,0
+Vihaan Singh,"VLSI Design, IoT, Signal Processing",1.2,5.66,Wireless Communication Model,0
+Krishna Reddy,"C Programming, MATLAB, VLSI Design",1.1,5.53,FPGA Based Design,0
+Rohan Iyer,"VLSI Design, IoT, C Programming",0.4,6.83,Image Processing System,0
+Aarav Sharma,"Signal Processing, VLSI Design, C Programming",0.3,5.14,AI Based Fault Detection,0
+Aditya Naidu,"VLSI Design, IoT, Signal Processing",1.8,5.13,IoT Weather Station,0
+Kiran Yadav,"Signal Processing, MATLAB, C Programming",0.6,5.94,Wireless Communication Model,0
+Rahul Iyer,"IoT, C Programming, Verilog",0.9,7.23,Image Processing System,0
+Sai Reddy,"PCB Design, VLSI Design, MATLAB",0.2,5.62,AI Based Fault Detection,0
+Krishna Singh,"VLSI Design, MATLAB, PCB Design",1,5.15,Image Processing System,0
+Vikram Singh,"Verilog, PCB Design, VLSI Design",1.6,5.16,Signal Analyzer,0
+Krishna Kumar,"Signal Processing, VLSI Design, C Programming",1,5.51,Image Processing System,0
+Sai Gupta,"IoT, Verilog, PCB Design",1.5,5.86,Signal Analyzer,1
+Kiran Yadav,"IoT, PCB Design, C Programming",0.3,5.6,IoT Weather Station,0
+Aarav Sharma,"VLSI Design, IoT, C Programming",0.3,7.06,Smart Home Automation,0
+Vikram Reddy,"MATLAB, VLSI Design, Verilog",1.4,7.17,Robotics Arm,0
+Vikram Yadav,"Signal Processing, C Programming, PCB Design",0.1,6.39,FPGA Based Design,0
+Kiran Verma,"Signal Processing, PCB Design, C Programming",1.9,5.29,Wireless Communication Model,0
+Rahul Reddy,"Verilog, Signal Processing, C Programming",1.5,5.6,Robotics Arm,0
+Kiran Kumar,"MATLAB, Verilog, C Programming",1.2,6.69,IoT Weather Station,0
+Rohan Sharma,"Signal Processing, C Programming, IoT",0.1,5.36,Signal Analyzer,0
+Kiran Iyer,"IoT, Signal Processing, PCB Design",0.8,6.57,Robotics Arm,0
+Aarav Yadav,"Verilog, C Programming, PCB Design",1.8,5.61,IoT Weather Station,0
+Vihaan Verma,"C Programming, MATLAB, Signal Processing",0.6,5.15,Image Processing System,0
+Kiran Reddy,"PCB Design, MATLAB, Signal Processing",1.1,5.44,Image Processing System,0
+Rahul Iyer,"MATLAB, IoT, C Programming",0.5,6.84,AI Based Fault Detection,0
+Rahul Patel,"PCB Design, Verilog, Signal Processing",0.5,5.65,IoT Weather Station,0
+Vikram Verma,"Verilog, VLSI Design, C Programming",0.4,5.36,Smart Home Automation,0
+Vikram Iyer,"VLSI Design, Signal Processing, Verilog",1.5,6.2,Robotics Arm,0
+Rahul Patel,"IoT, C Programming, MATLAB",0.9,5.26,Wireless Communication Model,0
+Aditya Iyer,"MATLAB, VLSI Design, Verilog",1.8,7.11,IoT Weather Station,1
+Vikram Gupta,"MATLAB, PCB Design, Signal Processing",1.8,6.39,Robotics Arm,0
+Vihaan Kumar,"MATLAB, VLSI Design, Verilog",1.8,7.33,Image Processing System,0
+Rohan Gupta,"MATLAB, C Programming, VLSI Design",2,5.58,FPGA Based Design,0
+Rohan Singh,"VLSI Design, PCB Design, Signal Processing",1.6,6.2,FPGA Based Design,0
+Kiran Reddy,"IoT, VLSI Design, PCB Design",0.8,6.85,Robotics Arm,0
+Arjun Reddy,"MATLAB, C Programming, IoT",1.7,6.55,AI Based Fault Detection,0
+Aditya Kumar,"IoT, C Programming, Signal Processing",0.9,5.35,Signal Analyzer,0
+Rahul Singh,"C Programming, VLSI Design, Verilog",1.5,7.12,AI Based Fault Detection,0
+Aditya Yadav,"VLSI Design, MATLAB, PCB Design",0.3,6.23,Smart Home Automation,0
+Vikram Yadav,"Signal Processing, Verilog, VLSI Design",1.5,5.83,Wireless Communication Model,0
+Vihaan Verma,"Signal Processing, C Programming, VLSI Design",0.1,6.75,Wireless Communication Model,0
+Vikram Patel,"Signal Processing, PCB Design, Verilog",0.3,6.33,FPGA Based Design,0
+Aarav Gupta,"Signal Processing, VLSI Design, PCB Design",1.7,5.98,AI Based Fault Detection,0
+Aditya Gupta,"VLSI Design, IoT, PCB Design",0.1,6.48,Wireless Communication Model,0
+Vikram Kumar,"VLSI Design, MATLAB, PCB Design",1,6.11,Smart Home Automation,0
+Rahul Naidu,"VLSI Design, IoT, Verilog",1.5,6.77,Robotics Arm,0
+Sai Singh,"C Programming, VLSI Design, IoT",1.3,5.01,AI Based Fault Detection,0
+Rahul Singh,"Signal Processing, IoT, PCB Design",1,5.98,Robotics Arm,0
+Aditya Reddy,"VLSI Design, Signal Processing, IoT",0.3,6.25,IoT Weather Station,0
+Rahul Gupta,"C Programming, MATLAB, Signal Processing",1.7,7.38,Smart Home Automation,0
+Krishna Sharma,"MATLAB, PCB Design, VLSI Design",1.7,6.74,IoT Weather Station,0
+Rohan Kumar,"VLSI Design, C Programming, MATLAB",0.7,7.2,Robotics Arm,0
+Vihaan Patel,"C Programming, VLSI Design, Verilog",1,6.89,AI Based Fault Detection,0
+Rohan Singh,"C Programming, Signal Processing, PCB Design",1.3,6.66,Image Processing System,0
+Arjun Yadav,"Verilog, Signal Processing, VLSI Design",1.4,5.06,IoT Weather Station,0
+Sai Reddy,"C Programming, Signal Processing, IoT",0.3,5.15,Image Processing System,0
+Arjun Singh,"MATLAB, IoT, VLSI Design",2,6.31,FPGA Based Design,0
+Krishna Naidu,"C Programming, IoT, Signal Processing",1.6,6.2,IoT Weather Station,0
+Arjun Reddy,"VLSI Design, IoT, Verilog",1.7,6.63,FPGA Based Design,0
+Arjun Yadav,"MATLAB, C Programming, IoT",1,6.53,Signal Analyzer,0
+Aarav Sharma,"Signal Processing, C Programming, IoT",1.2,5.87,FPGA Based Design,0
+Krishna Verma,"VLSI Design, C Programming, PCB Design",0.2,6.08,Robotics Arm,0
+Aditya Sharma,"Signal Processing, IoT, MATLAB",0.8,7.11,Wireless Communication Model,0
+Sai Singh,"PCB Design, Verilog, Signal Processing",0.5,5.15,Wireless Communication Model,0
+Sai Yadav,"Verilog, PCB Design, IoT",0.4,6.78,Image Processing System,0
+Arjun Kumar,"Signal Processing, IoT, C Programming",1.3,6.62,Signal Analyzer,0
+Aarav Verma,"C Programming, Signal Processing, VLSI Design",0.5,6.09,Signal Analyzer,0
+Aditya Verma,"MATLAB, Verilog, VLSI Design",0.9,5.81,Robotics Arm,0
+Vikram Naidu,"Verilog, IoT, PCB Design",1.8,5.21,FPGA Based Design,0
+Rahul Kumar,"VLSI Design, C Programming, MATLAB",0.2,6.23,Image Processing System,0
+Sai Reddy,"VLSI Design, PCB Design, C Programming",0.6,5.78,Robotics Arm,0
+Rahul Verma,"VLSI Design, C Programming, PCB Design",1.6,7.25,Signal Analyzer,1
+Krishna Singh,"C Programming, VLSI Design, PCB Design",0.7,7.08,Robotics Arm,0
+Aditya Gupta,"PCB Design, C Programming, VLSI Design",0.6,5.63,Wireless Communication Model,0
+Rohan Singh,"C Programming, MATLAB, Verilog",1.8,5.83,AI Based Fault Detection,0
+Aditya Singh,"C Programming, VLSI Design, PCB Design",1,5.17,IoT Weather Station,0
+Krishna Singh,"IoT, PCB Design, MATLAB",1.4,7.39,FPGA Based Design,0
+Vihaan Reddy,"MATLAB, C Programming, Signal Processing",1.6,5.07,Wireless Communication Model,0
+Kiran Gupta,"MATLAB, Signal Processing, VLSI Design",0.2,6.43,AI Based Fault Detection,0
+Aditya Verma,"PCB Design, VLSI Design, Signal Processing",1.8,5.91,Smart Home Automation,0
+Vihaan Gupta,"VLSI Design, IoT, Signal Processing",1.7,7.22,AI Based Fault Detection,0
+Sai Singh,"VLSI Design, Signal Processing, IoT",1,6.21,Robotics Arm,0
+Vihaan Iyer,"PCB Design, C Programming, Verilog",1.2,5.87,FPGA Based Design,0
+Krishna Patel,"PCB Design, MATLAB, Verilog",0.6,5.56,FPGA Based Design,0
+Kiran Iyer,"PCB Design, Signal Processing, C Programming",1.7,5.59,Smart Home Automation,0
+Vikram Gupta,"IoT, VLSI Design, Signal Processing",1,5.79,Smart Home Automation,0
+Vikram Naidu,"VLSI Design, Signal Processing, Verilog",1.4,6.76,Robotics Arm,0
+Sai Gupta,"VLSI Design, Verilog, Signal Processing",0.1,6.62,AI Based Fault Detection,0
+Arjun Kumar,"Signal Processing, C Programming, PCB Design",1.4,5.35,Image Processing System,0
+Rahul Reddy,"PCB Design, VLSI Design, Verilog",1.7,6.05,Smart Home Automation,0
+Rohan Patel,"Signal Processing, PCB Design, VLSI Design",1.9,6.19,IoT Weather Station,0
+Vikram Verma,"VLSI Design, MATLAB, PCB Design",0.8,7.2,Image Processing System,0
+Rohan Naidu,"VLSI Design, PCB Design, IoT",1.8,5.79,Smart Home Automation,0
+Krishna Sharma,"PCB Design, VLSI Design, MATLAB",2,5.51,AI Based Fault Detection,0
+Aditya Gupta,"C Programming, MATLAB, Signal Processing",1.4,6.65,Wireless Communication Model,0
+Sai Naidu,"IoT, VLSI Design, PCB Design",1.8,6.3,Robotics Arm,0
+Vihaan Sharma,"VLSI Design, PCB Design, IoT",1.3,6.2,IoT Weather Station,0
+Aarav Singh,"Signal Processing, Verilog, PCB Design",1.9,5.26,AI Based Fault Detection,0
+Kiran Reddy,"Signal Processing, C Programming, Verilog",1,5.65,Image Processing System,0
+Kiran Yadav,"PCB Design, Verilog, Signal Processing",0.3,5.79,Signal Analyzer,0
+Aarav Gupta,"MATLAB, PCB Design, VLSI Design",0.8,6.29,IoT Weather Station,0
+Arjun Sharma,"PCB Design, VLSI Design, C Programming",0.7,5.55,Smart Home Automation,0
+Kiran Gupta,"VLSI Design, Signal Processing, C Programming",1.5,6.09,Robotics Arm,0
+Kiran Sharma,"MATLAB, Verilog, PCB Design",0.6,6.26,Image Processing System,0
+Rahul Naidu,"C Programming, VLSI Design, PCB Design",1.5,5.39,Smart Home Automation,0
+Rahul Yadav,"Verilog, PCB Design, Signal Processing",1.3,6.65,AI Based Fault Detection,0
+Kiran Gupta,"MATLAB, Signal Processing, C Programming",1.8,6.13,Wireless Communication Model,1
+Kiran Gupta,"C Programming, PCB Design, Verilog",0.1,5.93,Robotics Arm,0
+Rahul Naidu,"PCB Design, VLSI Design, Signal Processing",1.9,5.95,Signal Analyzer,0
+Arjun Reddy,"Verilog, VLSI Design, Signal Processing",0.5,7.11,FPGA Based Design,0
+Aarav Patel,"PCB Design, MATLAB, C Programming",0.5,6.49,Signal Analyzer,0
+Vihaan Naidu,"C Programming, VLSI Design, MATLAB",0.4,5.2,Smart Home Automation,0
+Rohan Verma,"Signal Processing, MATLAB, C Programming",1.9,5.43,IoT Weather Station,0
+Rahul Kumar,"MATLAB, Signal Processing, PCB Design",0.2,6.01,Signal Analyzer,0
+Rohan Iyer,"Signal Processing, C Programming, Verilog",0.6,5.99,Smart Home Automation,0
+Vihaan Patel,"Verilog, PCB Design, MATLAB",0.6,7.1,Smart Home Automation,0
+Sai Verma,"IoT, PCB Design, Verilog",1.4,6.77,Signal Analyzer,0
+Aditya Sharma,"Verilog, IoT, Signal Processing",0.7,6.36,Signal Analyzer,0
+Aditya Gupta,"IoT, PCB Design, VLSI Design",1.5,6.67,Signal Analyzer,0
+Rahul Kumar,"Signal Processing, MATLAB, VLSI Design",1.2,5.84,AI Based Fault Detection,0
+Kiran Patel,"Signal Processing, C Programming, MATLAB",1.8,7.2,Robotics Arm,0
+Rohan Gupta,"Signal Processing, C Programming, MATLAB",0.5,6.69,Smart Home Automation,0
+Krishna Patel,"C Programming, PCB Design, IoT",0.9,6.63,Smart Home Automation,0
+Krishna Patel,"IoT, Signal Processing, PCB Design",0.6,5,Robotics Arm,0
+Krishna Verma,"Signal Processing, VLSI Design, Verilog",0.8,5.61,AI Based Fault Detection,0
+Kiran Yadav,"Verilog, VLSI Design, C Programming",0.6,6.29,IoT Weather Station,0
+Rahul Yadav,"Signal Processing, PCB Design, VLSI Design",1.9,6.42,IoT Weather Station,0
+Sai Yadav,"IoT, PCB Design, Verilog",1.7,5.63,Robotics Arm,0
+Arjun Sharma,"C Programming, IoT, VLSI Design",0.3,6.83,IoT Weather Station,0
+Arjun Patel,"MATLAB, PCB Design, Verilog",0,6.07,Signal Analyzer,0
+Aarav Reddy,"C Programming, MATLAB, IoT",1.5,5.54,IoT Weather Station,0
+Vihaan Patel,"IoT, VLSI Design, Signal Processing",0.6,7.3,AI Based Fault Detection,0
+Vihaan Reddy,"VLSI Design, C Programming, PCB Design",0.8,6.28,FPGA Based Design,0
+Rahul Reddy,"IoT, VLSI Design, PCB Design",1,5.49,IoT Weather Station,0
+Vikram Iyer,"C Programming, PCB Design, Verilog",0.4,5.3,FPGA Based Design,0
+Rahul Singh,"IoT, VLSI Design, Verilog",2,5.24,Signal Analyzer,0
+Aarav Singh,"VLSI Design, PCB Design, MATLAB",0.6,6.85,AI Based Fault Detection,0
+Vikram Naidu,"VLSI Design, MATLAB, PCB Design",1.5,6.73,Image Processing System,0
+Aditya Yadav,"VLSI Design, MATLAB, Signal Processing",1.2,7.02,Signal Analyzer,0
+Vikram Iyer,"IoT, Signal Processing, Verilog",1.8,6.32,FPGA Based Design,0
+Aarav Verma,"PCB Design, Signal Processing, MATLAB",1.2,5.54,IoT Weather Station,0
+Vihaan Kumar,"C Programming, Signal Processing, PCB Design",1.1,6.91,Smart Home Automation,0
+Kiran Singh,"VLSI Design, Verilog, IoT",1.1,5.26,Signal Analyzer,0
+Sai Gupta,"C Programming, Verilog, PCB Design",1.8,5.55,Image Processing System,0
+Rohan Reddy,"VLSI Design, MATLAB, PCB Design",1.3,5.06,FPGA Based Design,0
+Rahul Sharma,"C Programming, PCB Design, VLSI Design",0.3,5.48,AI Based Fault Detection,0
+Aarav Naidu,"C Programming, Verilog, MATLAB",1.4,5.11,Wireless Communication Model,0
+Arjun Sharma,"Signal Processing, IoT, PCB Design",0.1,5.74,Image Processing System,0
+Sai Naidu,"MATLAB, C Programming, VLSI Design",0.5,6.99,FPGA Based Design,0
+Vihaan Singh,"Verilog, C Programming, IoT",0.8,7.2,AI Based Fault Detection,0
+Vikram Sharma,"MATLAB, IoT, VLSI Design",0.9,6.68,Robotics Arm,0
+Kiran Gupta,"MATLAB, Verilog, VLSI Design",1.5,7.23,Smart Home Automation,0
+Rohan Singh,"MATLAB, VLSI Design, Signal Processing",1.9,6.61,Wireless Communication Model,0
+Krishna Iyer,"PCB Design, VLSI Design, MATLAB",1.6,7.02,Image Processing System,0
+Arjun Sharma,"IoT, VLSI Design, C Programming",1.7,6.29,AI Based Fault Detection,0
+Sai Naidu,"MATLAB, C Programming, PCB Design",1,6.61,Smart Home Automation,0
+Rahul Kumar,"IoT, C Programming, Verilog",1.4,6.82,IoT Weather Station,0
+Vihaan Iyer,"Verilog, VLSI Design, MATLAB",0.1,5.26,FPGA Based Design,0
+Aditya Naidu,"Signal Processing, PCB Design, Verilog",0.1,5.4,Wireless Communication Model,0
+Aditya Patel,"C Programming, MATLAB, PCB Design",0.8,7.27,Smart Home Automation,0
+Rohan Singh,"VLSI Design, MATLAB, C Programming",1.3,5.48,Wireless Communication Model,0
+Rohan Kumar,"MATLAB, C Programming, Verilog",1.3,5.4,AI Based Fault Detection,0
+Aarav Gupta,"Verilog, VLSI Design, C Programming",0.4,5.38,Smart Home Automation,0
+Rohan Singh,"MATLAB, C Programming, PCB Design",0.8,5.22,Signal Analyzer,0
+Arjun Naidu,"PCB Design, MATLAB, VLSI Design",1,6.23,Robotics Arm,0
+Aarav Patel,"C Programming, Signal Processing, PCB Design",1.5,6.42,Image Processing System,0
+Rahul Gupta,"Verilog, Signal Processing, VLSI Design",0.3,6.1,Wireless Communication Model,0
+Aarav Yadav,"IoT, MATLAB, Verilog",1.4,6.27,FPGA Based Design,0
+Vikram Reddy,"VLSI Design, Verilog, MATLAB",1.3,7.24,AI Based Fault Detection,0
+Vihaan Yadav,"IoT, MATLAB, Verilog",1.7,5.41,Image Processing System,0
+Vikram Verma,"MATLAB, C Programming, PCB Design",1.5,6.93,Signal Analyzer,0
+Kiran Naidu,"IoT, Verilog, VLSI Design",0.2,5.61,Smart Home Automation,0
+Rahul Verma,"Verilog, C Programming, IoT",0.1,5.09,Signal Analyzer,0
+Vikram Reddy,"PCB Design, Verilog, C Programming",0.3,6.56,Smart Home Automation,0
+Arjun Gupta,"Verilog, IoT, C Programming",0.6,7.23,AI Based Fault Detection,0
+Aarav Reddy,"VLSI Design, IoT, Signal Processing",0.1,5.84,IoT Weather Station,0
+Arjun Singh,"MATLAB, Verilog, PCB Design",0.1,7.24,Signal Analyzer,0
+Rahul Sharma,"MATLAB, PCB Design, VLSI Design",1,6.07,AI Based Fault Detection,0
+Aarav Kumar,"C Programming, Verilog, Signal Processing",1.1,5.09,IoT Weather Station,0
+Vikram Verma,"C Programming, Signal Processing, PCB Design",1.1,6.2,AI Based Fault Detection,0
+Rohan Kumar,"IoT, C Programming, MATLAB",0.8,6.08,Robotics Arm,0
+Sai Kumar,"MATLAB, VLSI Design, Signal Processing",1.3,6.11,IoT Weather Station,0
+Rohan Singh,"IoT, MATLAB, VLSI Design",0.5,5.48,Image Processing System,0
+Arjun Iyer,"MATLAB, IoT, C Programming",1.9,5.02,Image Processing System,0
+Aditya Kumar,"Signal Processing, C Programming, MATLAB",1.4,6.24,IoT Weather Station,0
+Aditya Iyer,"VLSI Design, C Programming, MATLAB",1.1,5.75,Robotics Arm,0
+Aditya Reddy,"Verilog, VLSI Design, PCB Design",1.5,6.1,Signal Analyzer,0
+Arjun Reddy,"Verilog, IoT, C Programming",0.9,6.09,IoT Weather Station,0
+Arjun Sharma,"VLSI Design, Verilog, IoT",1.9,5.14,Image Processing System,0
+Krishna Verma,"C Programming, VLSI Design, IoT",1.2,7.27,IoT Weather Station,0
+Vikram Reddy,"VLSI Design, PCB Design, Verilog",0.2,7,Robotics Arm,0
+Aditya Naidu,"Signal Processing, C Programming, PCB Design",0.1,5.45,IoT Weather Station,0
+Sai Sharma,"PCB Design, VLSI Design, C Programming",1.3,6.28,FPGA Based Design,0
+Vihaan Gupta,"VLSI Design, IoT, MATLAB",1.7,6.36,Image Processing System,0
+Aarav Patel,"Signal Processing, Verilog, MATLAB",1,7.34,Smart Home Automation,0
+Aarav Kumar,"PCB Design, MATLAB, C Programming",1.7,5.78,Robotics Arm,0
+Arjun Sharma,"C Programming, PCB Design, Signal Processing",0.5,5.6,Robotics Arm,0
+Aditya Singh,"VLSI Design, Verilog, MATLAB",0.8,6.13,Robotics Arm,0
+Vikram Patel,"C Programming, VLSI Design, Signal Processing",1.1,6.41,Signal Analyzer,0
+Arjun Patel,"VLSI Design, IoT, MATLAB",0.7,6.69,Wireless Communication Model,0
+Arjun Singh,"PCB Design, Verilog, C Programming",1.9,5.81,Wireless Communication Model,0
+Rahul Iyer,"Signal Processing, Verilog, MATLAB",1.3,5.5,Robotics Arm,0
+Arjun Sharma,"C Programming, Verilog, VLSI Design",1.3,6.94,FPGA Based Design,0
+Vihaan Yadav,"PCB Design, Signal Processing, Verilog",0.9,5.24,Robotics Arm,0
+Arjun Naidu,"VLSI Design, IoT, PCB Design",0.4,5.05,AI Based Fault Detection,0
+Sai Iyer,"MATLAB, Verilog, C Programming",0.7,6.27,Image Processing System,0
+Rohan Sharma,"IoT, VLSI Design, Signal Processing",0.2,6.57,FPGA Based Design,0
+Krishna Singh,"C Programming, Signal Processing, Verilog",1.2,6.06,AI Based Fault Detection,0
+Vihaan Yadav,"PCB Design, MATLAB, Signal Processing",1.8,6.79,Wireless Communication Model,0
+Vikram Singh,"C Programming, IoT, PCB Design",1.9,7.05,Image Processing System,0
+Vikram Iyer,"C Programming, PCB Design, Verilog",1.5,6.75,Smart Home Automation,0
+Vikram Sharma,"Verilog, PCB Design, MATLAB",1.9,6.12,Wireless Communication Model,0
+Aarav Verma,"C Programming, MATLAB, IoT",1.7,5.87,FPGA Based Design,0
+Aarav Patel,"VLSI Design, Signal Processing, PCB Design",0.9,6.27,Smart Home Automation,0
+Vihaan Iyer,"VLSI Design, PCB Design, Signal Processing",1.5,5.13,IoT Weather Station,0
+Rahul Kumar,"Verilog, Signal Processing, C Programming",1,6.24,IoT Weather Station,0
+Aditya Iyer,"PCB Design, C Programming, VLSI Design",0.9,6.87,Robotics Arm,0
+Arjun Naidu,"C Programming, MATLAB, Verilog",0.2,6.04,Image Processing System,0
+Rohan Patel,"IoT, PCB Design, C Programming",0.1,6.32,IoT Weather Station,0
+Aditya Verma,"C Programming, VLSI Design, Signal Processing",0.1,5.46,FPGA Based Design,0
+Kiran Gupta,"PCB Design, MATLAB, VLSI Design",0.9,5.19,Smart Home Automation,0
+Arjun Sharma,"IoT, PCB Design, Verilog",0.8,6.32,Image Processing System,0
+Rohan Gupta,"Signal Processing, MATLAB, PCB Design",1.8,6.42,Signal Analyzer,0
+Vikram Patel,"Verilog, Signal Processing, VLSI Design",1.6,7.03,IoT Weather Station,0
+Vikram Patel,"PCB Design, IoT, Verilog",0.7,6.8,Signal Analyzer,0
+Krishna Patel,"Signal Processing, PCB Design, IoT",1.7,6.11,Robotics Arm,0
+Krishna Reddy,"Signal Processing, VLSI Design, IoT",0.9,5.49,Robotics Arm,0
+Rohan Verma,"Verilog, Signal Processing, IoT",1.1,5.72,Image Processing System,0
+Krishna Yadav,"PCB Design, MATLAB, VLSI Design",2,5.5,FPGA Based Design,0
+Aditya Patel,"PCB Design, IoT, VLSI Design",1.7,6.41,AI Based Fault Detection,0
+Sai Iyer,"PCB Design, C Programming, MATLAB",0.7,6.79,IoT Weather Station,0
+Kiran Gupta,"Signal Processing, Verilog, VLSI Design",1.9,5.77,Signal Analyzer,0
+Vikram Iyer,"IoT, C Programming, VLSI Design",0.5,5.69,Image Processing System,0
+Vikram Reddy,"Verilog, VLSI Design, MATLAB",0.2,6.61,IoT Weather Station,0
+Arjun Naidu,"VLSI Design, Verilog, MATLAB",1.8,5.53,Signal Analyzer,0
+Kiran Sharma,"MATLAB, PCB Design, Signal Processing",1.3,5.02,IoT Weather Station,0
+Rohan Sharma,"C Programming, PCB Design, Signal Processing",1.9,6.76,Image Processing System,0
+Arjun Gupta,"VLSI Design, C Programming, IoT",1,5.84,Smart Home Automation,0
+Krishna Singh,"MATLAB, Signal Processing, Verilog",0.6,6.96,Signal Analyzer,0
+Vikram Yadav,"MATLAB, IoT, C Programming",0.9,6.57,AI Based Fault Detection,0
+Vihaan Kumar,"Signal Processing, MATLAB, Verilog",1.4,6.41,AI Based Fault Detection,0
+Vihaan Naidu,"MATLAB, IoT, VLSI Design",0.6,5.91,FPGA Based Design,0
+Aditya Gupta,"Signal Processing, MATLAB, Verilog",0.8,6.75,Robotics Arm,0
+Vikram Verma,"C Programming, Signal Processing, Verilog",1.6,6.86,FPGA Based Design,0
+Aarav Gupta,"C Programming, IoT, Verilog",1.3,5.3,Robotics Arm,0
+Vihaan Iyer,"MATLAB, VLSI Design, Verilog",1.7,5.56,FPGA Based Design,0
+Krishna Sharma,"IoT, C Programming, VLSI Design",1,6.13,Image Processing System,0
+Vikram Gupta,"VLSI Design, PCB Design, Signal Processing",0.2,5.53,Image Processing System,0
+Kiran Naidu,"Signal Processing, C Programming, MATLAB",1.1,7.4,Wireless Communication Model,0
+Sai Yadav,"IoT, PCB Design, Signal Processing",0.4,7.39,FPGA Based Design,0
+Rahul Gupta,"PCB Design, IoT, Verilog",0.2,7.24,FPGA Based Design,0
+Krishna Gupta,"IoT, Signal Processing, C Programming",1.7,6.36,Smart Home Automation,0
+Krishna Yadav,"Verilog, PCB Design, MATLAB",1.4,6.85,Smart Home Automation,0
+Krishna Singh,"IoT, MATLAB, VLSI Design",1.6,5.9,Image Processing System,0
+Rahul Reddy,"MATLAB, Verilog, Signal Processing",0.8,6.93,Signal Analyzer,0
+Aditya Reddy,"MATLAB, Signal Processing, Verilog",0.8,6.79,FPGA Based Design,0
+Vihaan Verma,"Signal Processing, PCB Design, VLSI Design",0.9,6.66,Smart Home Automation,0
+Rahul Singh,"Verilog, IoT, MATLAB",1,6.5,Signal Analyzer,0
+Sai Kumar,"MATLAB, Signal Processing, C Programming",0.8,6.44,FPGA Based Design,0
+Vikram Reddy,"Verilog, Signal Processing, PCB Design",1.9,5.38,Wireless Communication Model,0
+Aditya Sharma,"IoT, Signal Processing, VLSI Design",0,6.8,Smart Home Automation,0
+Aditya Iyer,"MATLAB, Signal Processing, IoT",1.2,5.83,AI Based Fault Detection,0
+Aarav Iyer,"C Programming, VLSI Design, Verilog",1.4,7.26,IoT Weather Station,0
+Kiran Sharma,"Signal Processing, C Programming, IoT",1.4,6.85,Image Processing System,0
+Aarav Naidu,"Signal Processing, C Programming, Verilog",1.6,5.62,Robotics Arm,0
+Vihaan Yadav,"MATLAB, IoT, Verilog",2,6.45,Wireless Communication Model,0
+Sai Sharma,"MATLAB, Signal Processing, VLSI Design",0.6,7.18,Smart Home Automation,0
+Sai Singh,"C Programming, VLSI Design, MATLAB",0.5,5.02,Wireless Communication Model,0
+Aditya Iyer,"Verilog, PCB Design, Signal Processing",0.9,5.12,Wireless Communication Model,0
+Vikram Reddy,"C Programming, MATLAB, VLSI Design",1.5,5.2,Smart Home Automation,0
+Vikram Kumar,"VLSI Design, MATLAB, PCB Design",0.2,5.53,Signal Analyzer,0
+Rahul Yadav,"Signal Processing, PCB Design, Verilog",1.9,7.19,FPGA Based Design,0
+Aditya Yadav,"Signal Processing, MATLAB, VLSI Design",0.3,6.77,Wireless Communication Model,0
+Aarav Yadav,"Verilog, IoT, C Programming",1.7,6.97,AI Based Fault Detection,0
+Rohan Kumar,"C Programming, VLSI Design, PCB Design",0.9,5.98,Smart Home Automation,0
+Rohan Yadav,"IoT, Verilog, Signal Processing",0.9,7.16,Signal Analyzer,0
+Aarav Sharma,"PCB Design, IoT, VLSI Design",1.9,6.85,Image Processing System,0
+Kiran Naidu,"MATLAB, VLSI Design, Signal Processing",0.1,6.09,IoT Weather Station,0
+Vikram Sharma,"IoT, Signal Processing, MATLAB",0.8,5.16,Wireless Communication Model,0
+Rahul Yadav,"MATLAB, VLSI Design, Signal Processing",0.1,5.75,Smart Home Automation,0
+Rohan Reddy,"PCB Design, C Programming, MATLAB",1.8,7.01,Smart Home Automation,0
+Aditya Singh,"IoT, C Programming, VLSI Design",1.1,6,FPGA Based Design,0
+Rohan Verma,"PCB Design, MATLAB, VLSI Design",1.6,7.03,Smart Home Automation,0
+Krishna Yadav,"PCB Design, Signal Processing, MATLAB",1.7,5.22,FPGA Based Design,0
+Rahul Reddy,"PCB Design, C Programming, IoT",0.1,5.23,AI Based Fault Detection,0
+Aarav Patel,"PCB Design, VLSI Design, MATLAB",0.9,5.06,Signal Analyzer,0
+Rahul Sharma,"PCB Design, C Programming, IoT",1.1,7.13,Robotics Arm,0
+Sai Patel,"Signal Processing, VLSI Design, C Programming",0.3,6.69,IoT Weather Station,0
+Arjun Yadav,"PCB Design, Verilog, Signal Processing",1.3,5.59,Smart Home Automation,0
+Arjun Iyer,"Signal Processing, C Programming, IoT",1.6,5.26,Smart Home Automation,0
+Vihaan Yadav,"MATLAB, Signal Processing, IoT",0.6,6.82,Image Processing System,0
+Rohan Reddy,"PCB Design, IoT, VLSI Design",0.1,6.41,Signal Analyzer,0
+Aarav Singh,"VLSI Design, Signal Processing, PCB Design",0.9,6.16,FPGA Based Design,0
+Aarav Reddy,"VLSI Design, Signal Processing, Verilog",0.2,6.54,Signal Analyzer,0
+Aarav Singh,"MATLAB, VLSI Design, IoT",1.8,6.38,Signal Analyzer,0
+Arjun Iyer,"PCB Design, Signal Processing, MATLAB",0.9,5.39,Image Processing System,0
+Krishna Kumar,"Verilog, VLSI Design, Signal Processing",0.7,6.99,FPGA Based Design,0
+Aarav Gupta,"IoT, Verilog, VLSI Design",1.1,6.12,Robotics Arm,0
+Krishna Sharma,"IoT, C Programming, Verilog",1.2,6.3,FPGA Based Design,0
+Sai Kumar,"MATLAB, C Programming, PCB Design",1.3,5.28,Robotics Arm,0
+Krishna Patel,"MATLAB, IoT, VLSI Design",1.4,6.86,Image Processing System,0
+Krishna Singh,"MATLAB, Signal Processing, C Programming",1.8,5.04,AI Based Fault Detection,0
+Aarav Patel,"Signal Processing, C Programming, Verilog",0.7,6.02,Robotics Arm,0
+Rohan Patel,"Verilog, VLSI Design, C Programming",0.8,7.08,Wireless Communication Model,0
+Sai Patel,"PCB Design, Verilog, VLSI Design",0.4,6.1,Wireless Communication Model,0
+Kiran Sharma,"Signal Processing, VLSI Design, C Programming",1.3,6.82,FPGA Based Design,0
+Vihaan Patel,"Signal Processing, PCB Design, C Programming",0.9,5.95,Image Processing System,0
+Vihaan Iyer,"C Programming, IoT, Signal Processing",0.3,6.32,IoT Weather Station,0
+Krishna Verma,"IoT, Signal Processing, PCB Design",1.4,5.78,Image Processing System,0
+Aarav Naidu,"Verilog, C Programming, Signal Processing",0.8,5.93,Robotics Arm,0
+Arjun Yadav,"MATLAB, VLSI Design, Signal Processing",0.9,6.06,AI Based Fault Detection,0
+Krishna Verma,"IoT, Signal Processing, C Programming",2,7.11,IoT Weather Station,0
+Sai Patel,"Verilog, IoT, Signal Processing",1.8,7.04,AI Based Fault Detection,0
+Vikram Verma,"Verilog, C Programming, MATLAB",0.5,5.77,Smart Home Automation,0
+Rahul Naidu,"PCB Design, C Programming, VLSI Design",1.6,6.07,Image Processing System,0
+Vihaan Naidu,"PCB Design, VLSI Design, IoT",1.6,7.05,Signal Analyzer,0
+Kiran Singh,"C Programming, PCB Design, Signal Processing",0.9,6.86,Robotics Arm,0
+Rohan Sharma,"Signal Processing, IoT, PCB Design",1.9,5.22,Image Processing System,0
+Kiran Singh,"PCB Design, Verilog, MATLAB",1.5,6.79,AI Based Fault Detection,0
+Sai Singh,"C Programming, MATLAB, IoT",1.6,6.65,Signal Analyzer,0
+Aarav Yadav,"VLSI Design, PCB Design, MATLAB",1.6,5.71,AI Based Fault Detection,0
+Rahul Kumar,"IoT, MATLAB, Signal Processing",0.9,5.43,Smart Home Automation,0
+Vikram Verma,"PCB Design, VLSI Design, IoT",1.9,5.3,Wireless Communication Model,0
+Vihaan Sharma,"Signal Processing, IoT, MATLAB",1,5.67,Signal Analyzer,0
+Kiran Verma,"VLSI Design, PCB Design, IoT",0.7,5.76,Robotics Arm,0
+Arjun Yadav,"MATLAB, Signal Processing, IoT",0.7,7.3,Signal Analyzer,0
+Rahul Naidu,"VLSI Design, MATLAB, Signal Processing",0.3,7.18,FPGA Based Design,0
+Vihaan Gupta,"VLSI Design, Signal Processing, C Programming",0.8,5.57,Robotics Arm,0
+Sai Verma,"IoT, MATLAB, VLSI Design",0.5,6.93,Robotics Arm,0
+Aarav Reddy,"C Programming, MATLAB, PCB Design",1.5,6.03,AI Based Fault Detection,0
+Vihaan Iyer,"Signal Processing, MATLAB, C Programming",1.9,6.97,IoT Weather Station,0
+Vihaan Reddy,"C Programming, Signal Processing, VLSI Design",0.3,6.2,Wireless Communication Model,0
+Arjun Sharma,"PCB Design, C Programming, IoT",1.9,5.87,AI Based Fault Detection,0
+Aditya Kumar,"Verilog, C Programming, VLSI Design",0.8,7.34,IoT Weather Station,0
+Vihaan Yadav,"IoT, PCB Design, C Programming",1.6,5.17,Robotics Arm,0
+Sai Naidu,"IoT, MATLAB, PCB Design",1.6,7.29,Image Processing System,0
+Kiran Naidu,"PCB Design, Verilog, MATLAB",0,5.44,Smart Home Automation,0
+Aditya Patel,"C Programming, Signal Processing, Verilog",0.1,5.84,Image Processing System,0
+Sai Verma,"C Programming, MATLAB, IoT",1.1,6.93,Image Processing System,0
+Aditya Naidu,"IoT, Verilog, MATLAB",1.8,6.7,Robotics Arm,0
+Aditya Kumar,"MATLAB, VLSI Design, IoT",1.7,6.1,IoT Weather Station,0
+Sai Patel,"MATLAB, Verilog, PCB Design",1.5,7.36,Signal Analyzer,0
+Vikram Iyer,"MATLAB, IoT, Signal Processing",1,6.89,Signal Analyzer,0
+Rahul Kumar,"C Programming, Verilog, MATLAB",0.6,7,Robotics Arm,0
+Aditya Kumar,"Signal Processing, IoT, VLSI Design",0,5.84,FPGA Based Design,0
+Rahul Sharma,"VLSI Design, MATLAB, C Programming",1.3,5.67,AI Based Fault Detection,0
+Vikram Sharma,"Verilog, VLSI Design, MATLAB",2,7.28,Image Processing System,0
+Rohan Kumar,"Signal Processing, MATLAB, C Programming",1.3,7.01,FPGA Based Design,1
+Rohan Kumar,"Signal Processing, MATLAB, C Programming",0.9,5.13,Signal Analyzer,0
+Kiran Reddy,"C Programming, Signal Processing, MATLAB",0.9,5.8,FPGA Based Design,0
+Rohan Yadav,"Verilog, Signal Processing, PCB Design",1.3,6.48,Wireless Communication Model,0
+Sai Verma,"C Programming, Verilog, Signal Processing",0.7,7.05,FPGA Based Design,0
+Arjun Reddy,"VLSI Design, PCB Design, IoT",0.8,5.44,Wireless Communication Model,0
+Aarav Sharma,"PCB Design, Verilog, VLSI Design",0.6,5.02,Wireless Communication Model,0
+Krishna Kumar,"MATLAB, PCB Design, Verilog",1,6.4,Smart Home Automation,0
+Krishna Naidu,"Verilog, C Programming, PCB Design",2,6.95,AI Based Fault Detection,0
+Rahul Naidu,"PCB Design, Verilog, VLSI Design",1.5,5.33,AI Based Fault Detection,0
+Rahul Singh,"VLSI Design, MATLAB, IoT",0.1,7.39,Robotics Arm,0
+Vikram Singh,"Verilog, PCB Design, MATLAB",0.3,5.72,Image Processing System,0
+Aditya Patel,"IoT, C Programming, MATLAB",0.7,5.91,Image Processing System,0
+Krishna Sharma,"Verilog, IoT, PCB Design",0.2,6.12,IoT Weather Station,0
+Krishna Sharma,"Verilog, PCB Design, C Programming",0.9,5.73,Image Processing System,0
+Vikram Sharma,"Verilog, Signal Processing, PCB Design",0.2,5.25,Wireless Communication Model,0
+Krishna Verma,"MATLAB, Signal Processing, VLSI Design",1.8,5.48,Image Processing System,0
+Kiran Verma,"VLSI Design, Signal Processing, PCB Design",2,7.05,AI Based Fault Detection,0
+Rohan Iyer,"VLSI Design, Signal Processing, MATLAB",1.4,6.09,Smart Home Automation,0
+Rahul Verma,"VLSI Design, Signal Processing, PCB Design",1,5.6,Smart Home Automation,0
+Aarav Reddy,"MATLAB, Signal Processing, PCB Design",0.5,5.93,FPGA Based Design,0
+Rohan Gupta,"Verilog, IoT, VLSI Design",1.9,6.8,Signal Analyzer,0
+Krishna Gupta,"Signal Processing, IoT, C Programming",1.9,6.41,Signal Analyzer,0
+Aarav Kumar,"VLSI Design, PCB Design, Signal Processing",0.3,7.22,Smart Home Automation,0
+Aditya Singh,"Verilog, C Programming, VLSI Design",1.5,6.66,Image Processing System,0
+Rohan Reddy,"C Programming, IoT, Signal Processing",1.8,7.12,Wireless Communication Model,0
+Aarav Patel,"MATLAB, PCB Design, C Programming",1,5.56,Signal Analyzer,0
+Arjun Singh,"C Programming, IoT, Verilog",1.1,5.28,IoT Weather Station,0
+Sai Sharma,"PCB Design, Signal Processing, VLSI Design",0.1,5.08,Smart Home Automation,0
+Krishna Singh,"IoT, C Programming, Signal Processing",1.7,5.29,Robotics Arm,0
+Vikram Kumar,"MATLAB, VLSI Design, C Programming",0.2,6.73,Signal Analyzer,0
+Vihaan Yadav,"PCB Design, Verilog, IoT",1.2,7.23,IoT Weather Station,0
+Rahul Sharma,"IoT, Signal Processing, Verilog",0.1,7.03,AI Based Fault Detection,0
+Arjun Reddy,"C Programming, IoT, Signal Processing",0.8,5.14,Robotics Arm,0
+Aditya Yadav,"IoT, C Programming, Signal Processing",0.5,6.49,FPGA Based Design,0
+Krishna Reddy,"C Programming, VLSI Design, IoT",1.2,7.23,Signal Analyzer,0
+Krishna Yadav,"Verilog, VLSI Design, PCB Design",0.9,7.2,Wireless Communication Model,0
+Kiran Sharma,"IoT, VLSI Design, Signal Processing",1.7,6.76,Signal Analyzer,0
+Aarav Naidu,"VLSI Design, C Programming, IoT",1.8,7.22,Image Processing System,0
+Krishna Reddy,"IoT, VLSI Design, Signal Processing",0.1,5.51,Wireless Communication Model,0
+Arjun Kumar,"VLSI Design, PCB Design, IoT",0.1,5.85,IoT Weather Station,0
+Aditya Reddy,"IoT, Signal Processing, MATLAB",0.4,5.39,FPGA Based Design,0
+Rahul Verma,"IoT, C Programming, PCB Design",1.4,6.82,Signal Analyzer,0
+Vihaan Patel,"IoT, C Programming, Signal Processing",0.7,5.86,FPGA Based Design,0
+Kiran Patel,"VLSI Design, Signal Processing, IoT",1,7,Wireless Communication Model,0
+Aarav Reddy,"VLSI Design, PCB Design, C Programming",1.6,5.1,Wireless Communication Model,0
+Kiran Kumar,"C Programming, PCB Design, VLSI Design",1.6,7.37,Image Processing System,0
+Rahul Iyer,"Verilog, Signal Processing, IoT",0.5,7.05,AI Based Fault Detection,0
+Vikram Yadav,"MATLAB, IoT, C Programming",1.8,7.04,Wireless Communication Model,0
+Kiran Patel,"VLSI Design, Verilog, Signal Processing",0.3,5.61,Signal Analyzer,0
+Rahul Iyer,"MATLAB, IoT, Verilog",1,6.99,Smart Home Automation,0
+Aarav Kumar,"MATLAB, Verilog, VLSI Design",1.9,6.4,Image Processing System,0
+Vikram Kumar,"Verilog, VLSI Design, C Programming",2,6.22,Signal Analyzer,0
+Rahul Naidu,"Verilog, C Programming, VLSI Design",0.3,5.24,Robotics Arm,0
+Aditya Iyer,"IoT, PCB Design, C Programming",1.1,7.3,Smart Home Automation,1
+Arjun Verma,"Verilog, VLSI Design, PCB Design",1.1,7.06,IoT Weather Station,0
+Vihaan Sharma,"C Programming, PCB Design, IoT",0.6,6.8,Robotics Arm,0
+Vikram Singh,"MATLAB, Verilog, Signal Processing",0.1,5.45,Wireless Communication Model,0
+Sai Gupta,"Verilog, VLSI Design, MATLAB",1.2,5.9,Signal Analyzer,0
+Aarav Kumar,"MATLAB, C Programming, VLSI Design",1.8,6.85,FPGA Based Design,0
+Aditya Gupta,"Verilog, MATLAB, VLSI Design",0.3,6.01,AI Based Fault Detection,0
+Aarav Kumar,"PCB Design, Signal Processing, MATLAB",0.6,7.35,IoT Weather Station,0
+Rohan Verma,"VLSI Design, PCB Design, IoT",2,6.24,Robotics Arm,0
+Arjun Sharma,"C Programming, VLSI Design, PCB Design",0.5,6.49,IoT Weather Station,0
+Arjun Iyer,"Signal Processing, C Programming, IoT",0.4,5.07,IoT Weather Station,0
+Krishna Naidu,"C Programming, PCB Design, IoT",0.4,5.48,Signal Analyzer,0
+Aarav Patel,"PCB Design, Verilog, C Programming",1.3,5.57,FPGA Based Design,0
+Aarav Singh,"MATLAB, C Programming, Verilog",1.2,6.18,Wireless Communication Model,0
+Aarav Sharma,"C Programming, VLSI Design, Signal Processing",0.2,6.22,Smart Home Automation,0
+Sai Yadav,"PCB Design, MATLAB, IoT",2,5.34,Smart Home Automation,0
+Vikram Yadav,"Verilog, PCB Design, Signal Processing",1.9,6.24,AI Based Fault Detection,0
+Vikram Verma,"C Programming, Verilog, MATLAB",1.1,7.32,Robotics Arm,0
+Aditya Iyer,"IoT, C Programming, MATLAB",1.1,7.35,Smart Home Automation,0
+Kiran Naidu,"Verilog, C Programming, Signal Processing",1.3,6.51,AI Based Fault Detection,0
+Kiran Naidu,"Verilog, PCB Design, MATLAB",0.8,7.11,AI Based Fault Detection,0
+Vihaan Verma,"MATLAB, C Programming, VLSI Design",0.5,6.94,Robotics Arm,0
+Arjun Gupta,"C Programming, VLSI Design, MATLAB",1.9,6.76,Smart Home Automation,0
+Krishna Gupta,"MATLAB, PCB Design, Verilog",1,5.99,Smart Home Automation,0
+Arjun Patel,"MATLAB, IoT, VLSI Design",0.7,6.9,Wireless Communication Model,0
+Vikram Sharma,"VLSI Design, IoT, Verilog",1.4,5.7,Smart Home Automation,0
+Arjun Naidu,"MATLAB, VLSI Design, IoT",1.1,7.31,IoT Weather Station,1
+Rahul Naidu,"MATLAB, VLSI Design, IoT",1.4,6.61,FPGA Based Design,0
+Vihaan Gupta,"VLSI Design, C Programming, PCB Design",1.4,7.29,Smart Home Automation,0
+Kiran Kumar,"C Programming, Verilog, MATLAB",0.7,6.38,Wireless Communication Model,0
+Krishna Singh,"C Programming, MATLAB, IoT",0.6,5.93,Signal Analyzer,0
+Vihaan Reddy,"PCB Design, IoT, C Programming",1.7,5.97,Signal Analyzer,0
+Arjun Yadav,"IoT, VLSI Design, Signal Processing",1.2,5.22,Robotics Arm,0
+Vihaan Verma,"C Programming, MATLAB, Signal Processing",1.9,6.89,Image Processing System,0
+Krishna Singh,"IoT, Verilog, MATLAB",0.9,6.04,FPGA Based Design,0
+Krishna Iyer,"PCB Design, Signal Processing, MATLAB",1.9,5.74,FPGA Based Design,0
+Vihaan Singh,"MATLAB, IoT, Signal Processing",1.4,5.73,AI Based Fault Detection,0
+Aditya Patel,"IoT, MATLAB, Signal Processing",0.8,7.01,Image Processing System,0
+Krishna Iyer,"C Programming, VLSI Design, Signal Processing",1.3,5.96,Smart Home Automation,0
+Arjun Sharma,"VLSI Design, IoT, PCB Design",0.8,5.22,Image Processing System,0
+Sai Verma,"MATLAB, Signal Processing, C Programming",1.6,5.02,Signal Analyzer,0
+Vikram Yadav,"Signal Processing, C Programming, VLSI Design",1.7,6.74,Wireless Communication Model,1
+Arjun Gupta,"IoT, MATLAB, VLSI Design",0.3,6.32,IoT Weather Station,0
+Sai Gupta,"VLSI Design, IoT, Verilog",0.3,5.57,Robotics Arm,0
+Vihaan Verma,"VLSI Design, IoT, Signal Processing",0.4,5.98,IoT Weather Station,0
+Kiran Singh,"PCB Design, VLSI Design, Verilog",0.6,5.84,Robotics Arm,0
+Krishna Kumar,"MATLAB, PCB Design, IoT",1.5,5.5,FPGA Based Design,0
+Sai Patel,"PCB Design, VLSI Design, C Programming",0.7,5.39,Image Processing System,0
+Vihaan Patel,"MATLAB, Verilog, VLSI Design",0.6,6.42,Robotics Arm,0
+Vihaan Verma,"Verilog, MATLAB, C Programming",0.7,6.82,Smart Home Automation,0
+Arjun Gupta,"MATLAB, C Programming, Verilog",1,5.67,Wireless Communication Model,0
+Aarav Verma,"VLSI Design, MATLAB, C Programming",0.8,5.77,Smart Home Automation,0
+Krishna Singh,"Verilog, IoT, VLSI Design",0.1,5.41,IoT Weather Station,0
+Sai Gupta,"PCB Design, Signal Processing, Verilog",0.4,5.38,IoT Weather Station,0
+Arjun Gupta,"Signal Processing, VLSI Design, Verilog",0,5.15,FPGA Based Design,0
+Rohan Yadav,"Signal Processing, PCB Design, VLSI Design",1.5,6.2,Signal Analyzer,0
+Aditya Patel,"Verilog, PCB Design, VLSI Design",1.4,5.31,Image Processing System,0
+Aditya Gupta,"PCB Design, MATLAB, Signal Processing",0.1,7.35,Image Processing System,0
+Vikram Kumar,"Verilog, VLSI Design, PCB Design",1.7,5.14,Robotics Arm,0
+Aditya Kumar,"PCB Design, VLSI Design, IoT",1.2,5.37,Wireless Communication Model,0
+Krishna Naidu,"VLSI Design, MATLAB, C Programming",0.6,6.12,IoT Weather Station,0
+Vihaan Reddy,"Verilog, MATLAB, IoT",0.8,7.28,IoT Weather Station,0
+Rohan Sharma,"PCB Design, MATLAB, VLSI Design",1.4,7.31,FPGA Based Design,0
+Krishna Verma,"VLSI Design, C Programming, IoT",2,6.64,Signal Analyzer,0
+Aditya Iyer,"MATLAB, Signal Processing, PCB Design",0.6,6.23,IoT Weather Station,0
+Aditya Gupta,"Verilog, C Programming, Signal Processing",0.4,6.24,Robotics Arm,0
+Kiran Naidu,"C Programming, Verilog, VLSI Design",1,6.85,FPGA Based Design,0
+Aarav Sharma,"VLSI Design, Verilog, IoT",1.1,6.54,Robotics Arm,0
+Vikram Gupta,"VLSI Design, Verilog, IoT",0.1,7.32,Signal Analyzer,0
+Aditya Kumar,"VLSI Design, PCB Design, Verilog",1.6,5.51,FPGA Based Design,0
+Aarav Iyer,"Verilog, C Programming, PCB Design",2,7.11,Signal Analyzer,1
+Vikram Singh,"IoT, C Programming, PCB Design",1.5,5.02,FPGA Based Design,0
+Rahul Gupta,"C Programming, Verilog, PCB Design",1.8,5.09,AI Based Fault Detection,0
+Aarav Reddy,"Verilog, C Programming, PCB Design",1.2,7.07,AI Based Fault Detection,0
+Sai Iyer,"MATLAB, PCB Design, C Programming",0.4,5.02,AI Based Fault Detection,0
+Krishna Sharma,"MATLAB, Verilog, C Programming",1.1,6.76,FPGA Based Design,0
+Vikram Reddy,"Verilog, Signal Processing, MATLAB",1.4,5.69,Robotics Arm,0
+Rohan Reddy,"IoT, VLSI Design, MATLAB",1.2,5.38,Robotics Arm,0
+Rahul Patel,"IoT, VLSI Design, C Programming",1.3,5.14,Signal Analyzer,0
+Vikram Patel,"Verilog, IoT, C Programming",1,5.5,FPGA Based Design,0
+Rohan Singh,"PCB Design, Verilog, Signal Processing",0.9,5.73,Wireless Communication Model,0
+Rohan Kumar,"PCB Design, MATLAB, IoT",0.1,6.62,IoT Weather Station,0
+Vihaan Singh,"Signal Processing, PCB Design, VLSI Design",2,6.37,AI Based Fault Detection,0
+Sai Naidu,"MATLAB, Verilog, IoT",1.1,5.22,Wireless Communication Model,0
+Rahul Reddy,"PCB Design, C Programming, IoT",1.8,7.01,Wireless Communication Model,0
+Aditya Reddy,"VLSI Design, Signal Processing, PCB Design",0.1,6.33,IoT Weather Station,0
+Vikram Reddy,"PCB Design, IoT, MATLAB",0.3,5.94,Image Processing System,0
+Sai Patel,"Signal Processing, PCB Design, IoT",1.8,5.46,Image Processing System,0
+Vikram Kumar,"Verilog, MATLAB, PCB Design",1.8,7.15,AI Based Fault Detection,0
+Arjun Reddy,"Signal Processing, PCB Design, VLSI Design",1.5,6.92,AI Based Fault Detection,0
+Kiran Yadav,"C Programming, MATLAB, VLSI Design",2,6.11,FPGA Based Design,1
+Aditya Sharma,"MATLAB, C Programming, PCB Design",1.8,6.13,Wireless Communication Model,0
+Aarav Kumar,"Signal Processing, MATLAB, C Programming",0.7,6.24,Smart Home Automation,0
+Aditya Verma,"PCB Design, C Programming, VLSI Design",1.4,5.32,AI Based Fault Detection,0
+Aarav Singh,"PCB Design, Verilog, Signal Processing",0.7,7.3,Signal Analyzer,0
+Kiran Patel,"C Programming, Signal Processing, IoT",0.7,5.31,FPGA Based Design,0
+Rohan Naidu,"Verilog, PCB Design, MATLAB",1.3,7.05,Robotics Arm,0
+Krishna Patel,"Signal Processing, PCB Design, VLSI Design",1.1,7.37,Signal Analyzer,0
+Vihaan Singh,"C Programming, Signal Processing, MATLAB",1.7,6.03,FPGA Based Design,0
+Krishna Iyer,"IoT, MATLAB, PCB Design",0.3,5.91,AI Based Fault Detection,0
+Arjun Verma,"Signal Processing, C Programming, VLSI Design",1.7,5.41,IoT Weather Station,0
+Vikram Verma,"VLSI Design, Signal Processing, Verilog",0,5.94,Wireless Communication Model,0
+Aditya Singh,"MATLAB, Verilog, C Programming",1.8,6.51,Wireless Communication Model,0
+Rohan Patel,"Signal Processing, Verilog, C Programming",0.1,5.27,Smart Home Automation,0
+Krishna Yadav,"Verilog, Signal Processing, IoT",1.1,6.17,Signal Analyzer,0
+Kiran Reddy,"VLSI Design, IoT, C Programming",0.7,6.67,Signal Analyzer,0
+Krishna Gupta,"Verilog, VLSI Design, Signal Processing",1.2,7.16,Image Processing System,0
+Rahul Verma,"Verilog, PCB Design, IoT",0.8,6.67,AI Based Fault Detection,0
+Sai Iyer,"MATLAB, VLSI Design, C Programming",1.3,6.68,Image Processing System,0
+Rohan Sharma,"VLSI Design, C Programming, Signal Processing",1.6,5.66,Image Processing System,1
+Vikram Reddy,"Verilog, VLSI Design, PCB Design",0.7,5.69,Image Processing System,0
+Vihaan Singh,"MATLAB, PCB Design, VLSI Design",1.2,5.43,FPGA Based Design,0
+Vikram Singh,"Verilog, IoT, PCB Design",0.7,6.84,AI Based Fault Detection,0
+Aarav Iyer,"MATLAB, IoT, PCB Design",0.8,5.19,IoT Weather Station,0
+Arjun Naidu,"Signal Processing, C Programming, IoT",0.2,7.05,IoT Weather Station,0
+Rahul Gupta,"Signal Processing, IoT, MATLAB",1.4,6.03,Robotics Arm,0
+Sai Yadav,"VLSI Design, C Programming, IoT",1.5,5.94,Smart Home Automation,0
+Sai Patel,"VLSI Design, Verilog, C Programming",1.3,6.93,Smart Home Automation,0
+Vihaan Reddy,"PCB Design, MATLAB, Verilog",0.7,6.07,Wireless Communication Model,0
+Kiran Kumar,"C Programming, Verilog, IoT",1.5,5.08,IoT Weather Station,0
+Vikram Kumar,"PCB Design, MATLAB, Verilog",0.7,5.75,FPGA Based Design,0
+Arjun Kumar,"PCB Design, Verilog, Signal Processing",0.7,5.45,IoT Weather Station,0
+Aarav Naidu,"Signal Processing, VLSI Design, PCB Design",1.7,6.82,FPGA Based Design,1
+Vikram Singh,"PCB Design, Signal Processing, C Programming",0.5,6.8,FPGA Based Design,0
+Sai Gupta,"MATLAB, PCB Design, VLSI Design",0.1,5.09,Robotics Arm,0
+Vihaan Iyer,"Signal Processing, Verilog, PCB Design",0.6,6.49,IoT Weather Station,0
+Aarav Iyer,"Signal Processing, Verilog, VLSI Design",1.1,5.92,FPGA Based Design,0
+Aditya Reddy,"C Programming, VLSI Design, PCB Design",1.1,5.19,Image Processing System,0
+Rahul Sharma,"PCB Design, Signal Processing, IoT",1.4,5.75,AI Based Fault Detection,0
+Vihaan Gupta,"PCB Design, IoT, Verilog",0.7,5.96,Image Processing System,0
+Krishna Yadav,"VLSI Design, PCB Design, Verilog",1.2,6.39,Image Processing System,0
+Arjun Reddy,"C Programming, VLSI Design, PCB Design",1.2,7.14,IoT Weather Station,0
+Kiran Yadav,"Signal Processing, Verilog, IoT",0.5,5.52,AI Based Fault Detection,0
+Vihaan Naidu,"VLSI Design, Signal Processing, IoT",0.8,7.07,AI Based Fault Detection,0
+Sai Iyer,"Verilog, PCB Design, MATLAB",1.6,6.01,Wireless Communication Model,0
+Krishna Gupta,"MATLAB, C Programming, Verilog",0.9,6.87,Image Processing System,0
+Rahul Singh,"Signal Processing, PCB Design, IoT",0.1,5.21,IoT Weather Station,0
+Vikram Singh,"C Programming, Verilog, VLSI Design",1.8,5.89,FPGA Based Design,0
+Aarav Kumar,"IoT, Signal Processing, MATLAB",1.2,5.99,Smart Home Automation,0
+Krishna Iyer,"MATLAB, IoT, C Programming",1,5.3,Wireless Communication Model,0
+Rohan Naidu,"C Programming, Signal Processing, IoT",1.5,5.89,IoT Weather Station,0
+Aarav Yadav,"VLSI Design, MATLAB, IoT",0.2,5.38,Smart Home Automation,0
+Sai Kumar,"Verilog, C Programming, Signal Processing",0.8,6,AI Based Fault Detection,0
+Aarav Singh,"C Programming, MATLAB, Signal Processing",0.8,6.89,Smart Home Automation,0
+Vikram Kumar,"MATLAB, C Programming, IoT",1.9,5.93,FPGA Based Design,0
+Krishna Singh,"Verilog, IoT, VLSI Design",0.4,5.48,AI Based Fault Detection,0
+Aditya Iyer,"VLSI Design, MATLAB, IoT",0.2,5.89,Image Processing System,0
+Aarav Sharma,"IoT, VLSI Design, PCB Design",1.8,6.29,Robotics Arm,0
+Rohan Verma,"PCB Design, Signal Processing, VLSI Design",0.6,6.75,Robotics Arm,0
+Rohan Sharma,"PCB Design, VLSI Design, C Programming",1.3,7.37,Wireless Communication Model,0
+Arjun Reddy,"IoT, VLSI Design, Signal Processing",1.2,5.75,Smart Home Automation,0
+Arjun Sharma,"MATLAB, Verilog, VLSI Design",0.6,5.1,FPGA Based Design,0
+Aditya Verma,"VLSI Design, C Programming, IoT",1.8,6.82,IoT Weather Station,0
+Vikram Verma,"C Programming, Signal Processing, IoT",1.3,5.17,Signal Analyzer,0
+Krishna Reddy,"VLSI Design, IoT, C Programming",0.9,6.8,Smart Home Automation,0
+Vihaan Gupta,"Verilog, C Programming, Signal Processing",1.5,5.52,FPGA Based Design,0
+Kiran Naidu,"Verilog, PCB Design, MATLAB",1.4,5.58,Smart Home Automation,0
+Kiran Kumar,"VLSI Design, IoT, MATLAB",0.8,6.15,Smart Home Automation,0
+Vihaan Yadav,"MATLAB, IoT, Signal Processing",1.1,5.36,Wireless Communication Model,0
+Arjun Patel,"VLSI Design, PCB Design, C Programming",0.1,6.3,Image Processing System,0
+Aarav Kumar,"PCB Design, MATLAB, C Programming",0.2,5.43,Wireless Communication Model,0
+Aarav Verma,"Signal Processing, IoT, MATLAB",0.8,7.06,Robotics Arm,0
+Vihaan Naidu,"Verilog, C Programming, MATLAB",0.6,6.26,IoT Weather Station,0
+Aarav Sharma,"C Programming, VLSI Design, PCB Design",0.8,6.55,Wireless Communication Model,0
+Vikram Patel,"IoT, Verilog, VLSI Design",2,5.77,AI Based Fault Detection,0
+Arjun Iyer,"PCB Design, VLSI Design, MATLAB",1.1,5.24,IoT Weather Station,0
+Aditya Iyer,"Verilog, IoT, Signal Processing",0.2,6.62,Signal Analyzer,0
+Krishna Verma,"VLSI Design, PCB Design, Signal Processing",0.1,5.95,Image Processing System,0
+Krishna Gupta,"Verilog, VLSI Design, IoT",0.1,6.88,Smart Home Automation,0
+Arjun Verma,"Verilog, MATLAB, IoT",0.6,5.6,Wireless Communication Model,0
+Vihaan Sharma,"IoT, MATLAB, VLSI Design",1.1,6.63,Image Processing System,0
+Aarav Singh,"MATLAB, Signal Processing, C Programming",1.7,6.22,AI Based Fault Detection,0
+Vikram Gupta,"MATLAB, VLSI Design, IoT",1.4,6.92,AI Based Fault Detection,0
+Rahul Iyer,"VLSI Design, IoT, PCB Design",2,7.25,AI Based Fault Detection,0
+Sai Verma,"C Programming, VLSI Design, PCB Design",0,5.7,IoT Weather Station,0
+Kiran Kumar,"C Programming, Signal Processing, VLSI Design",1,6.17,Image Processing System,0
+Sai Naidu,"PCB Design, MATLAB, IoT",1.4,6.59,FPGA Based Design,0
+Sai Patel,"PCB Design, MATLAB, Signal Processing",0.4,6.69,AI Based Fault Detection,0
+Aarav Gupta,"Signal Processing, MATLAB, PCB Design",1.2,6.2,Wireless Communication Model,0
+Vihaan Gupta,"C Programming, PCB Design, Signal Processing",2,6.21,AI Based Fault Detection,0
+Vikram Gupta,"IoT, PCB Design, C Programming",1.2,5.31,Smart Home Automation,0
+Arjun Sharma,"IoT, Verilog, C Programming",0.4,6.27,Image Processing System,0
+Vikram Sharma,"VLSI Design, Verilog, Signal Processing",1.7,5.72,Wireless Communication Model,0
+Aditya Singh,"Verilog, PCB Design, Signal Processing",1.1,6.34,AI Based Fault Detection,0
+Aarav Reddy,"Signal Processing, IoT, MATLAB",0.7,5.71,Image Processing System,0
+Kiran Kumar,"Signal Processing, IoT, C Programming",1.1,5.89,Smart Home Automation,0
+Krishna Kumar,"Verilog, PCB Design, VLSI Design",1.2,5.01,Smart Home Automation,0
+Vihaan Gupta,"VLSI Design, C Programming, IoT",1.5,5.98,FPGA Based Design,0
+Vikram Reddy,"PCB Design, VLSI Design, Verilog",0.1,6.7,Robotics Arm,0
+Krishna Gupta,"IoT, Verilog, C Programming",0.9,5.53,Wireless Communication Model,0
+Arjun Iyer,"PCB Design, MATLAB, Signal Processing",0.5,6.25,Robotics Arm,0
+Krishna Verma,"Verilog, Signal Processing, MATLAB",0.7,6.18,IoT Weather Station,0
+Arjun Kumar,"PCB Design, VLSI Design, Verilog",1.9,6.08,Robotics Arm,0
+Rohan Naidu,"Verilog, VLSI Design, MATLAB",0,6.6,Signal Analyzer,0
+Sai Reddy,"C Programming, MATLAB, Verilog",0.7,5.01,FPGA Based Design,0
+Arjun Iyer,"Verilog, MATLAB, PCB Design",0.2,5.57,Signal Analyzer,0
+Kiran Kumar,"PCB Design, IoT, MATLAB",0.3,6.55,Wireless Communication Model,0
+Rohan Patel,"MATLAB, Signal Processing, IoT",0.9,5.71,IoT Weather Station,0
+Rahul Singh,"Signal Processing, C Programming, IoT",0.9,6.57,AI Based Fault Detection,0
+Vihaan Patel,"Signal Processing, Verilog, IoT",0.6,6.3,FPGA Based Design,0
+Sai Verma,"Verilog, MATLAB, PCB Design",0.1,5.58,Smart Home Automation,0
+Rahul Verma,"IoT, C Programming, VLSI Design",1.9,5.68,IoT Weather Station,0
+Rohan Kumar,"MATLAB, Signal Processing, C Programming",0.2,5.04,Signal Analyzer,0
+Vikram Reddy,"PCB Design, MATLAB, Signal Processing",0.1,5.49,Wireless Communication Model,0
+Kiran Naidu,"PCB Design, Verilog, Signal Processing",0.8,6.03,Image Processing System,0
+Kiran Sharma,"PCB Design, IoT, VLSI Design",0.1,6.39,Robotics Arm,0
+Arjun Verma,"PCB Design, C Programming, Verilog",1,7.25,Smart Home Automation,0
+Rahul Patel,"Signal Processing, VLSI Design, PCB Design",1.4,6.3,Robotics Arm,0
+Aarav Reddy,"PCB Design, VLSI Design, C Programming",1.2,5.01,Smart Home Automation,0
+Kiran Iyer,"C Programming, PCB Design, Signal Processing",0.5,5.39,Robotics Arm,0
+Rohan Singh,"MATLAB, VLSI Design, C Programming",0.8,5.63,Image Processing System,0
+Krishna Sharma,"Verilog, PCB Design, IoT",1.5,5.26,Wireless Communication Model,0
+Rahul Verma,"Signal Processing, VLSI Design, C Programming",1.8,6.5,IoT Weather Station,0
+Arjun Patel,"C Programming, MATLAB, Signal Processing",1.7,6.76,Image Processing System,0
+Aarav Yadav,"Signal Processing, IoT, VLSI Design",1.4,6.87,Image Processing System,0
+Krishna Reddy,"Signal Processing, IoT, MATLAB",0.2,5.58,Signal Analyzer,0
+Rahul Yadav,"Verilog, C Programming, PCB Design",1.7,5.67,IoT Weather Station,0
+Kiran Reddy,"IoT, Verilog, Signal Processing",1.5,6.71,Robotics Arm,0
+Rohan Gupta,"C Programming, Verilog, IoT",1.9,6.38,Signal Analyzer,0
+Vihaan Reddy,"PCB Design, Signal Processing, Verilog",0.8,5.19,Signal Analyzer,0
+Rahul Verma,"VLSI Design, Signal Processing, IoT",0.8,5.63,FPGA Based Design,0
+Sai Kumar,"Signal Processing, MATLAB, VLSI Design",1.2,5.32,AI Based Fault Detection,0
+Aditya Reddy,"C Programming, VLSI Design, MATLAB",0.7,6.85,IoT Weather Station,0
+Kiran Verma,"MATLAB, C Programming, Signal Processing",0.1,5.14,Robotics Arm,0
+Aarav Verma,"Signal Processing, MATLAB, VLSI Design",0.4,6.64,Image Processing System,0
+Arjun Singh,"Verilog, PCB Design, Signal Processing",0.9,6.03,Signal Analyzer,0
+Rohan Yadav,"Verilog, C Programming, Signal Processing",0.6,5.33,Wireless Communication Model,0
+Krishna Iyer,"MATLAB, VLSI Design, IoT",0.6,5.61,Image Processing System,0
+Rohan Iyer,"Verilog, MATLAB, C Programming",0.3,5.56,Signal Analyzer,0
+Aarav Naidu,"IoT, Verilog, PCB Design",0.5,6.78,Signal Analyzer,0
+Aditya Patel,"VLSI Design, IoT, Verilog",0.1,7.3,AI Based Fault Detection,0
+Rahul Iyer,"VLSI Design, PCB Design, IoT",0.7,5.75,FPGA Based Design,0
+Aditya Reddy,"Signal Processing, Verilog, VLSI Design",1.2,5.33,FPGA Based Design,0
+Kiran Reddy,"VLSI Design, Signal Processing, IoT",1.7,5.79,AI Based Fault Detection,0
+Vikram Yadav,"Embedded Systems, Python, Machine Learning, Verilog, VLSI Design",3.3,9.66,Image Processing System,1
+Rahul Yadav,"Embedded Systems, Python, Machine Learning, MATLAB, PCB Design",2.9,9.35,Robotics Arm,1
+Arjun Patel,"Embedded Systems, Python, Machine Learning, Verilog, VLSI Design",3.6,7.65,Signal Analyzer,1
+Sai Kumar,"Embedded Systems, Python, Machine Learning, Signal Processing, VLSI Design",4.6,8.57,FPGA Based Design,1
+Rahul Patel,"Embedded Systems, Python, Machine Learning, C Programming, PCB Design",4.4,9.97,Wireless Communication Model,1
+Rahul Naidu,"Embedded Systems, Python, Machine Learning, C Programming, Verilog",1.8,9.13,Wireless Communication Model,1
+Vihaan Patel,"Embedded Systems, Python, Machine Learning, Signal Processing, VLSI Design",3.3,7.67,Robotics Arm,1
+Vikram Verma,"Embedded Systems, Python, Machine Learning, MATLAB, PCB Design",3.6,8.73,FPGA Based Design,1
+Sai Naidu,"Embedded Systems, Python, Machine Learning, Signal Processing, MATLAB",2.4,9.07,IoT Weather Station,1
+Sai Gupta,"Embedded Systems, Python, Machine Learning, C Programming, Verilog",2.5,8.78,Wireless Communication Model,1
+Arjun Kumar,"Embedded Systems, Python, Machine Learning, IoT, C Programming",4.2,9.67,AI Based Fault Detection,1
+Krishna Patel,"Embedded Systems, Python, Machine Learning, Signal Processing, VLSI Design",1.8,9.13,Signal Analyzer,1
+Rohan Naidu,"Embedded Systems, Python, Machine Learning, IoT, Verilog",1.5,7.75,Wireless Communication Model,1
+Arjun Reddy,"Embedded Systems, Python, Machine Learning, MATLAB, IoT",1.4,8.87,Signal Analyzer,1
+Sai Patel,"Embedded Systems, Python, Machine Learning, Signal Processing, Verilog",1.9,9.36,Robotics Arm,1
+Vikram Verma,"Embedded Systems, Python, Machine Learning, C Programming, IoT",3.6,9.7,Smart Home Automation,1
+Arjun Gupta,"Embedded Systems, Python, Machine Learning, Verilog, IoT",2.7,8.76,FPGA Based Design,1
+Aarav Sharma,"Embedded Systems, Python, Machine Learning, Verilog, VLSI Design",3.8,9.05,IoT Weather Station,1
+Sai Reddy,"Embedded Systems, Python, Machine Learning, Signal Processing, IoT",3.9,9.43,AI Based Fault Detection,1
+Rahul Yadav,"Embedded Systems, Python, Machine Learning, IoT, PCB Design",2.1,9.27,Smart Home Automation,1
+Sai Naidu,"Embedded Systems, Python, Machine Learning, VLSI Design, MATLAB",3.7,9.71,AI Based Fault Detection,1
+Aarav Verma,"Embedded Systems, Python, Machine Learning, Verilog, IoT",3.6,8.71,AI Based Fault Detection,1
+Rahul Verma,"Embedded Systems, Python, Machine Learning, MATLAB, IoT",4.2,8.86,Smart Home Automation,1
+Vihaan Patel,"Embedded Systems, Python, Machine Learning, Signal Processing, Verilog",4.3,9.27,FPGA Based Design,1
+Aarav Singh,"Embedded Systems, Python, Machine Learning, PCB Design, MATLAB",1.8,7.82,AI Based Fault Detection,1
+Vikram Gupta,"Embedded Systems, Python, Machine Learning, PCB Design, IoT",4.7,7.98,FPGA Based Design,1
+Kiran Iyer,"Embedded Systems, Python, Machine Learning, VLSI Design, Signal Processing",3.5,8.41,Robotics Arm,1
+Krishna Kumar,"Embedded Systems, Python, Machine Learning, Signal Processing, Verilog",2.7,9.99,Wireless Communication Model,1
+Rohan Singh,"Embedded Systems, Python, Machine Learning, Verilog, MATLAB",2.6,9.87,Robotics Arm,1
+Rohan Patel,"Embedded Systems, Python, Machine Learning, Verilog, PCB Design",3.5,9.11,Image Processing System,1
+Sai Kumar,"Embedded Systems, Python, Machine Learning, Signal Processing, PCB Design",3.2,8.43,AI Based Fault Detection,1
+Aditya Verma,"Embedded Systems, Python, Machine Learning, IoT, Verilog",2.3,9.31,Smart Home Automation,1
+Aarav Verma,"Embedded Systems, Python, Machine Learning, VLSI Design, Verilog",1.8,8.7,AI Based Fault Detection,1
+Rahul Sharma,"Embedded Systems, Python, Machine Learning, Verilog, PCB Design",4.7,8.28,Wireless Communication Model,1
+Arjun Verma,"Embedded Systems, Python, Machine Learning, C Programming, PCB Design",4.1,8.95,AI Based Fault Detection,1
+Kiran Yadav,"Embedded Systems, Python, Machine Learning, Verilog, PCB Design",4.1,8.41,Signal Analyzer,1
+Kiran Naidu,"Embedded Systems, Python, Machine Learning, PCB Design, C Programming",1.6,9.08,FPGA Based Design,1
+Aditya Gupta,"Embedded Systems, Python, Machine Learning, PCB Design, IoT",2.6,7.64,Image Processing System,1
+Aarav Verma,"Embedded Systems, Python, Machine Learning, IoT, C Programming",3.7,8.24,IoT Weather Station,1
+Sai Gupta,"Embedded Systems, Python, Machine Learning, VLSI Design, PCB Design",1.4,8.82,Smart Home Automation,1
+Aarav Naidu,"Embedded Systems, Python, Machine Learning, C Programming, PCB Design",3.1,8.64,Signal Analyzer,1
+Krishna Gupta,"Embedded Systems, Python, Machine Learning, Verilog, Signal Processing",3.7,8.34,Wireless Communication Model,1
+Rohan Kumar,"Embedded Systems, Python, Machine Learning, Verilog, PCB Design",3.4,9.65,IoT Weather Station,1
+Sai Kumar,"Embedded Systems, Python, Machine Learning, Verilog, C Programming",3.5,7.57,FPGA Based Design,1
+Rohan Singh,"Embedded Systems, Python, Machine Learning, Verilog, C Programming",1.8,8.96,Wireless Communication Model,1
+Aditya Yadav,"Embedded Systems, Python, Machine Learning, IoT, Verilog",3,7.69,Smart Home Automation,1
+Rahul Yadav,"Embedded Systems, Python, Machine Learning, VLSI Design, Verilog",2.6,7.71,AI Based Fault Detection,1
+Vihaan Verma,"Embedded Systems, Python, Machine Learning, PCB Design, C Programming",4.4,7.55,FPGA Based Design,1
+Vihaan Iyer,"Embedded Systems, Python, Machine Learning, PCB Design, Signal Processing",3.4,9.68,Smart Home Automation,1
+Rohan Sharma,"Embedded Systems, Python, Machine Learning, VLSI Design, PCB Design",2.2,9.42,FPGA Based Design,1
+Sai Naidu,"Embedded Systems, Python, Machine Learning, VLSI Design, MATLAB",1.6,8.27,Wireless Communication Model,1
+Aarav Singh,"Embedded Systems, Python, Machine Learning, C Programming, Verilog",2.6,8.87,IoT Weather Station,1
+Aarav Sharma,"Embedded Systems, Python, Machine Learning, Verilog, C Programming",2,9.8,IoT Weather Station,1
+Aarav Reddy,"Embedded Systems, Python, Machine Learning, IoT, Verilog",4.8,9.6,Wireless Communication Model,1
+Kiran Reddy,"Embedded Systems, Python, Machine Learning, MATLAB, C Programming",1.8,7.75,FPGA Based Design,1
+Vikram Reddy,"Embedded Systems, Python, Machine Learning, Verilog, IoT",3.8,9.28,Image Processing System,1
+Vikram Sharma,"Embedded Systems, Python, Machine Learning, IoT, C Programming",4.2,7.68,IoT Weather Station,1
+Krishna Sharma,"Embedded Systems, Python, Machine Learning, Signal Processing, Verilog",2.9,8.94,IoT Weather Station,1
+Arjun Reddy,"Embedded Systems, Python, Machine Learning, VLSI Design, PCB Design",4.4,8.8,Wireless Communication Model,1
+Kiran Yadav,"Embedded Systems, Python, Machine Learning, PCB Design, MATLAB",4.1,7.76,Wireless Communication Model,1
+Krishna Patel,"Embedded Systems, Python, Machine Learning, IoT, Signal Processing",3.3,9.54,FPGA Based Design,1
+Arjun Sharma,"Embedded Systems, Python, Machine Learning, MATLAB, Signal Processing",3.9,9.51,Signal Analyzer,1
+Vikram Verma,"Embedded Systems, Python, Machine Learning, VLSI Design, Signal Processing",1.1,8.99,Smart Home Automation,1
+Rahul Kumar,"Embedded Systems, Python, Machine Learning, VLSI Design, MATLAB",1.4,7.69,IoT Weather Station,1
+Krishna Gupta,"Embedded Systems, Python, Machine Learning, Signal Processing, Verilog",3.1,7.71,Signal Analyzer,1
+Kiran Gupta,"Embedded Systems, Python, Machine Learning, C Programming, Signal Processing",1.8,7.59,Wireless Communication Model,1
+Arjun Reddy,"Embedded Systems, Python, Machine Learning, C Programming, IoT",3.3,7.75,IoT Weather Station,1
+Sai Iyer,"Embedded Systems, Python, Machine Learning, PCB Design, MATLAB",4,8.06,Signal Analyzer,1
+Sai Iyer,"Embedded Systems, Python, Machine Learning, Signal Processing, Verilog",2.7,7.61,FPGA Based Design,1
+Rahul Naidu,"Embedded Systems, Python, Machine Learning, Signal Processing, VLSI Design",2.3,8.85,FPGA Based Design,1
+Vihaan Yadav,"Embedded Systems, Python, Machine Learning, VLSI Design, Verilog",3.8,9.86,Signal Analyzer,1
+Rahul Gupta,"Embedded Systems, Python, Machine Learning, PCB Design, Signal Processing",1.3,9.12,IoT Weather Station,1
+Kiran Patel,"Embedded Systems, Python, Machine Learning, MATLAB, Signal Processing",4.8,9.8,AI Based Fault Detection,1
+Krishna Verma,"Embedded Systems, Python, Machine Learning, C Programming, MATLAB",3.8,7.89,IoT Weather Station,1
+Kiran Naidu,"Embedded Systems, Python, Machine Learning, IoT, PCB Design",2.6,8.79,Robotics Arm,1
+Vihaan Sharma,"Embedded Systems, Python, Machine Learning, IoT, PCB Design",1.5,8.94,IoT Weather Station,1
+Aarav Sharma,"Embedded Systems, Python, Machine Learning, PCB Design, IoT",4.7,8.05,IoT Weather Station,1
+Krishna Reddy,"Embedded Systems, Python, Machine Learning, Signal Processing, IoT",1.2,8.34,Image Processing System,1
+Aditya Sharma,"Embedded Systems, Python, Machine Learning, PCB Design, Signal Processing",4.6,9.47,IoT Weather Station,1
+Rohan Yadav,"Embedded Systems, Python, Machine Learning, C Programming, PCB Design",2.7,7.71,Image Processing System,1
+Krishna Kumar,"Embedded Systems, Python, Machine Learning, C Programming, IoT",3.9,8.69,Wireless Communication Model,1
+Rohan Singh,"Embedded Systems, Python, Machine Learning, C Programming, IoT",4.5,8.16,Image Processing System,1
+Sai Reddy,"Embedded Systems, Python, Machine Learning, MATLAB, Verilog",3.3,9.22,Signal Analyzer,1
+Kiran Naidu,"Embedded Systems, Python, Machine Learning, IoT, C Programming",3.4,8.16,AI Based Fault Detection,1
+Aarav Reddy,"Embedded Systems, Python, Machine Learning, Signal Processing, Verilog",1.1,7.72,Robotics Arm,1
+Rohan Reddy,"Embedded Systems, Python, Machine Learning, IoT, Signal Processing",1.9,8.17,Image Processing System,1
+Sai Singh,"Embedded Systems, Python, Machine Learning, VLSI Design, Verilog",4.9,8.37,Image Processing System,1
+Vihaan Yadav,"Embedded Systems, Python, Machine Learning, IoT, C Programming",1.7,8.17,Wireless Communication Model,1
+Vihaan Iyer,"Embedded Systems, Python, Machine Learning, Verilog, PCB Design",3.8,8.89,Robotics Arm,1
+Aditya Singh,"Embedded Systems, Python, Machine Learning, PCB Design, Verilog",4.7,9.8,AI Based Fault Detection,1
+Kiran Iyer,"Embedded Systems, Python, Machine Learning, MATLAB, Verilog",3.6,9.86,AI Based Fault Detection,1
+Sai Yadav,"Embedded Systems, Python, Machine Learning, Signal Processing, IoT",2.1,9.05,Smart Home Automation,1
+Vikram Reddy,"Embedded Systems, Python, Machine Learning, IoT, VLSI Design",2.3,8.78,Smart Home Automation,1
+Rohan Kumar,"Embedded Systems, Python, Machine Learning, C Programming, PCB Design",2.3,9.33,AI Based Fault Detection,1
+Aditya Reddy,"Embedded Systems, Python, Machine Learning, IoT, PCB Design",3.7,9.49,Signal Analyzer,1
+Vikram Sharma,"Embedded Systems, Python, Machine Learning, Verilog, PCB Design",3.8,9.22,Robotics Arm,1
+Kiran Singh,"Embedded Systems, Python, Machine Learning, VLSI Design, IoT",4.1,7.77,Smart Home Automation,1
+Krishna Iyer,"Embedded Systems, Python, Machine Learning, C Programming, VLSI Design",2.8,9.69,IoT Weather Station,1
+Sai Sharma,"Embedded Systems, Python, Machine Learning, VLSI Design, C Programming",4.8,9.33,Image Processing System,1
+Rahul Gupta,"Embedded Systems, Python, Machine Learning, C Programming, IoT",3.5,9.5,Robotics Arm,1
+Arjun Naidu,"Embedded Systems, Python, Machine Learning, VLSI Design, MATLAB",4.7,7.63,Image Processing System,1
+Vikram Naidu,"Embedded Systems, Python, Machine Learning, Verilog, Signal Processing",4.8,9.71,Robotics Arm,1
+Rahul Kumar,"Embedded Systems, Python, Machine Learning, Signal Processing, IoT",1.7,8.29,AI Based Fault Detection,1
+Vikram Singh,"Embedded Systems, Python, Machine Learning, PCB Design, C Programming",2.6,8.99,Image Processing System,1
+Aditya Gupta,"Embedded Systems, Python, Machine Learning, Signal Processing, PCB Design",4.7,8.08,Smart Home Automation,1
+Rohan Patel,"Embedded Systems, Python, Machine Learning, C Programming, VLSI Design",4.2,8.27,Wireless Communication Model,1
+Kiran Iyer,"Embedded Systems, Python, Machine Learning, Signal Processing, IoT",4.4,7.59,Robotics Arm,1
+Aarav Iyer,"Embedded Systems, Python, Machine Learning, Verilog, PCB Design",1.1,8.36,FPGA Based Design,1
+Kiran Kumar,"Embedded Systems, Python, Machine Learning, C Programming, IoT",3.8,8,AI Based Fault Detection,1
+Aditya Verma,"Embedded Systems, Python, Machine Learning, C Programming, VLSI Design",1.4,8.17,Image Processing System,1
+Rahul Verma,"Embedded Systems, Python, Machine Learning, MATLAB, VLSI Design",2.2,9.39,FPGA Based Design,1
+Arjun Reddy,"Embedded Systems, Python, Machine Learning, Signal Processing, MATLAB",3.3,8.35,Image Processing System,1
+Krishna Patel,"Embedded Systems, Python, Machine Learning, Verilog, Signal Processing",1,7.95,AI Based Fault Detection,1
+Arjun Gupta,"Embedded Systems, Python, Machine Learning, IoT, C Programming",2.9,8.24,Wireless Communication Model,1
+Rahul Gupta,"Embedded Systems, Python, Machine Learning, Verilog, VLSI Design",3.6,8.23,IoT Weather Station,1
+Kiran Naidu,"Embedded Systems, Python, Machine Learning, PCB Design, Verilog",2.1,8.2,Smart Home Automation,1
+Rohan Verma,"Embedded Systems, Python, Machine Learning, Signal Processing, MATLAB",3,8.74,IoT Weather Station,1
+Rohan Iyer,"Embedded Systems, Python, Machine Learning, IoT, MATLAB",3.8,9.89,FPGA Based Design,1
+Arjun Iyer,"Embedded Systems, Python, Machine Learning, Verilog, Signal Processing",4.9,8.47,Wireless Communication Model,1
+Vihaan Sharma,"Embedded Systems, Python, Machine Learning, Verilog, PCB Design",3.5,9.06,AI Based Fault Detection,1
+Arjun Sharma,"Embedded Systems, Python, Machine Learning, PCB Design, C Programming",2.7,9.92,FPGA Based Design,1
+Rahul Reddy,"Embedded Systems, Python, Machine Learning, Verilog, Signal Processing",4.9,8.74,Wireless Communication Model,1
+Aarav Singh,"Embedded Systems, Python, Machine Learning, VLSI Design, C Programming",2.9,9.62,IoT Weather Station,1
+Aarav Gupta,"Embedded Systems, Python, Machine Learning, Signal Processing, C Programming",3.3,9.08,AI Based Fault Detection,1
+Rahul Yadav,"Embedded Systems, Python, Machine Learning, PCB Design, Signal Processing",3.6,7.53,Robotics Arm,1
+Rahul Kumar,"Embedded Systems, Python, Machine Learning, Signal Processing, IoT",2,8.97,Wireless Communication Model,1
+Vihaan Verma,"Embedded Systems, Python, Machine Learning, Signal Processing, MATLAB",3.7,8.74,FPGA Based Design,1
+Aditya Gupta,"Embedded Systems, Python, Machine Learning, PCB Design, Verilog",3.9,7.73,AI Based Fault Detection,1
+Sai Gupta,"Embedded Systems, Python, Machine Learning, Verilog, MATLAB",4.7,9.85,Image Processing System,1
+Vihaan Gupta,"Embedded Systems, Python, Machine Learning, Verilog, Signal Processing",2.6,7.58,Signal Analyzer,1
+Rahul Yadav,"Embedded Systems, Python, Machine Learning, MATLAB, Verilog",2.2,9.75,AI Based Fault Detection,1
+Vikram Sharma,"Embedded Systems, Python, Machine Learning, IoT, VLSI Design",2.1,8.36,FPGA Based Design,1
+Vikram Kumar,"Embedded Systems, Python, Machine Learning, IoT, Verilog",4.1,9.03,FPGA Based Design,1
+Aditya Kumar,"Embedded Systems, Python, Machine Learning, IoT, Verilog",1.3,8.23,Image Processing System,1
+Aditya Verma,"Embedded Systems, Python, Machine Learning, IoT, MATLAB",4.9,9.8,Robotics Arm,1
+Rohan Gupta,"Embedded Systems, Python, Machine Learning, C Programming, PCB Design",2.5,9.64,Robotics Arm,1
+Kiran Sharma,"Embedded Systems, Python, Machine Learning, MATLAB, Signal Processing",4.9,9.6,Smart Home Automation,1
+Rahul Patel,"Embedded Systems, Python, Machine Learning, PCB Design, IoT",2,9.12,AI Based Fault Detection,1
+Arjun Sharma,"Embedded Systems, Python, Machine Learning, Verilog, IoT",2.5,9.47,FPGA Based Design,1
+Arjun Singh,"Embedded Systems, Python, Machine Learning, VLSI Design, Signal Processing",1.7,7.97,Signal Analyzer,1
+Arjun Singh,"Embedded Systems, Python, Machine Learning, Verilog, C Programming",4.3,9.47,Wireless Communication Model,1
+Rahul Iyer,"Embedded Systems, Python, Machine Learning, PCB Design, Verilog",2.8,8.37,Signal Analyzer,1
+Arjun Yadav,"Embedded Systems, Python, Machine Learning, MATLAB, Verilog",1.1,8.36,IoT Weather Station,1
+Rahul Naidu,"Embedded Systems, Python, Machine Learning, MATLAB, Signal Processing",4.7,7.86,Signal Analyzer,1
+Rohan Iyer,"Embedded Systems, Python, Machine Learning, Signal Processing, C Programming",4.7,8.91,Smart Home Automation,1
+Arjun Iyer,"Embedded Systems, Python, Machine Learning, VLSI Design, Verilog",4.9,8.26,AI Based Fault Detection,1
+Vihaan Sharma,"Embedded Systems, Python, Machine Learning, C Programming, Signal Processing",4.5,8.24,AI Based Fault Detection,1
+Aditya Reddy,"Embedded Systems, Python, Machine Learning, PCB Design, MATLAB",4.8,9.55,Robotics Arm,1
+Krishna Yadav,"Embedded Systems, Python, Machine Learning, IoT, C Programming",1.4,7.74,Robotics Arm,1
+Aarav Patel,"Embedded Systems, Python, Machine Learning, Signal Processing, MATLAB",2.6,9.76,IoT Weather Station,1
+Vihaan Kumar,"Embedded Systems, Python, Machine Learning, MATLAB, IoT",2.7,9.11,Smart Home Automation,1
+Vikram Verma,"Embedded Systems, Python, Machine Learning, PCB Design, C Programming",3,9.87,Signal Analyzer,1
+Rahul Patel,"Embedded Systems, Python, Machine Learning, Verilog, PCB Design",3.7,9.26,AI Based Fault Detection,1
+Aditya Patel,"Embedded Systems, Python, Machine Learning, PCB Design, MATLAB",2.8,8.34,Image Processing System,1
+Aarav Patel,"Embedded Systems, Python, Machine Learning, VLSI Design, Verilog",2.2,7.73,Robotics Arm,1
+Rahul Gupta,"Embedded Systems, Python, Machine Learning, PCB Design, Signal Processing",4.6,7.74,FPGA Based Design,1
+Sai Iyer,"Embedded Systems, Python, Machine Learning, PCB Design, VLSI Design",1.5,8.21,AI Based Fault Detection,1
+Vikram Yadav,"Embedded Systems, Python, Machine Learning, IoT, Signal Processing",2.6,7.61,AI Based Fault Detection,1
+Kiran Naidu,"Embedded Systems, Python, Machine Learning, Verilog, IoT",1.1,9.7,FPGA Based Design,1
+Rohan Gupta,"Embedded Systems, Python, Machine Learning, VLSI Design, C Programming",1.8,8.43,AI Based Fault Detection,1
+Krishna Yadav,"Embedded Systems, Python, Machine Learning, PCB Design, VLSI Design",3.8,8.09,Signal Analyzer,1
+Vihaan Verma,"Embedded Systems, Python, Machine Learning, IoT, MATLAB",2.1,7.86,AI Based Fault Detection,1
+Krishna Kumar,"Embedded Systems, Python, Machine Learning, MATLAB, Verilog",1.5,7.74,Robotics Arm,1
+Rohan Iyer,"Embedded Systems, Python, Machine Learning, MATLAB, IoT",3.5,7.99,AI Based Fault Detection,1
+Rahul Iyer,"Embedded Systems, Python, Machine Learning, Signal Processing, Verilog",2.8,8.54,IoT Weather Station,1
+Rahul Sharma,"Embedded Systems, Python, Machine Learning, C Programming, MATLAB",3.2,9.23,Robotics Arm,1
+Arjun Gupta,"Embedded Systems, Python, Machine Learning, PCB Design, MATLAB",5,8.49,IoT Weather Station,1
+Rohan Reddy,"Embedded Systems, Python, Machine Learning, PCB Design, IoT",2.5,9.43,AI Based Fault Detection,1
+Aditya Iyer,"Embedded Systems, Python, Machine Learning, C Programming, VLSI Design",4.2,7.7,Smart Home Automation,1
+Aditya Sharma,"Embedded Systems, Python, Machine Learning, Verilog, MATLAB",1.9,9.87,Signal Analyzer,1
+Rohan Reddy,"Embedded Systems, Python, Machine Learning, VLSI Design, PCB Design",2.6,8.21,Robotics Arm,1
+Vihaan Gupta,"Embedded Systems, Python, Machine Learning, PCB Design, C Programming",3,7.94,Signal Analyzer,1
+Rohan Gupta,"Embedded Systems, Python, Machine Learning, Verilog, PCB Design",3.3,8.89,Wireless Communication Model,1
+Sai Reddy,"Embedded Systems, Python, Machine Learning, MATLAB, C Programming",1.6,8.48,IoT Weather Station,1
+Kiran Reddy,"Embedded Systems, Python, Machine Learning, Signal Processing, C Programming",3.7,8.96,AI Based Fault Detection,1
+Rohan Patel,"Embedded Systems, Python, Machine Learning, C Programming, PCB Design",4.4,7.5,IoT Weather Station,1
+Vikram Verma,"Embedded Systems, Python, Machine Learning, PCB Design, VLSI Design",4.7,7.56,Signal Analyzer,1
+Krishna Sharma,"Embedded Systems, Python, Machine Learning, C Programming, MATLAB",4.7,8.56,IoT Weather Station,1
+Rohan Yadav,"Embedded Systems, Python, Machine Learning, IoT, Verilog",4.8,8.44,AI Based Fault Detection,1
+Krishna Yadav,"Embedded Systems, Python, Machine Learning, IoT, Signal Processing",4.1,7.73,AI Based Fault Detection,1
+Vihaan Gupta,"Embedded Systems, Python, Machine Learning, VLSI Design, MATLAB",2.4,9.95,Image Processing System,1
+Aarav Naidu,"Embedded Systems, Python, Machine Learning, VLSI Design, PCB Design",1.4,7.79,FPGA Based Design,1
+Vihaan Naidu,"Embedded Systems, Python, Machine Learning, MATLAB, Signal Processing",4.2,9.69,Image Processing System,1
+Krishna Sharma,"Embedded Systems, Python, Machine Learning, VLSI Design, Signal Processing",2.4,7.91,Image Processing System,1
+Aditya Patel,"Embedded Systems, Python, Machine Learning, IoT, MATLAB",1.4,8.96,AI Based Fault Detection,1
+Rahul Gupta,"Embedded Systems, Python, Machine Learning, PCB Design, C Programming",1.5,8.28,AI Based Fault Detection,1
+Krishna Singh,"Embedded Systems, Python, Machine Learning, Verilog, VLSI Design",3.8,9.12,IoT Weather Station,1
+Aarav Singh,"Embedded Systems, Python, Machine Learning, PCB Design, MATLAB",4.3,8.97,Image Processing System,1
+Aarav Reddy,"Embedded Systems, Python, Machine Learning, IoT, PCB Design",2.2,8.37,Signal Analyzer,1
+Aditya Singh,"Embedded Systems, Python, Machine Learning, VLSI Design, PCB Design",4.1,7.76,Smart Home Automation,1
+Rohan Iyer,"Embedded Systems, Python, Machine Learning, IoT, PCB Design",1.8,9.11,Wireless Communication Model,1
+Krishna Iyer,"Embedded Systems, Python, Machine Learning, C Programming, VLSI Design",2.8,7.76,Signal Analyzer,1
+Aditya Reddy,"Embedded Systems, Python, Machine Learning, VLSI Design, PCB Design",2.1,9.61,Smart Home Automation,1
+Kiran Naidu,"Embedded Systems, Python, Machine Learning, Verilog, VLSI Design",3.7,7.99,Signal Analyzer,1
+Arjun Patel,"Embedded Systems, Python, Machine Learning, Signal Processing, MATLAB",2.3,8.11,Signal Analyzer,1
+Rohan Reddy,"Embedded Systems, Python, Machine Learning, Signal Processing, MATLAB",1.9,9.47,Smart Home Automation,1
+Rohan Kumar,"Embedded Systems, Python, Machine Learning, MATLAB, C Programming",1.8,8.93,FPGA Based Design,1
+Krishna Singh,"Embedded Systems, Python, Machine Learning, C Programming, VLSI Design",4.2,8.43,Image Processing System,1
+Sai Reddy,"Embedded Systems, Python, Machine Learning, PCB Design, Signal Processing",1.2,8.06,AI Based Fault Detection,1
+Arjun Singh,"Embedded Systems, Python, Machine Learning, IoT, VLSI Design",2,7.75,Wireless Communication Model,1
+Vihaan Iyer,"Embedded Systems, Python, Machine Learning, Verilog, IoT",4.2,9.12,Image Processing System,1
+Sai Verma,"Embedded Systems, Python, Machine Learning, VLSI Design, Signal Processing",2.6,9.25,Smart Home Automation,1
+Kiran Naidu,"Embedded Systems, Python, Machine Learning, MATLAB, PCB Design",3.8,8.52,Wireless Communication Model,1
+Rohan Singh,"Embedded Systems, Python, Machine Learning, Verilog, PCB Design",3.3,9.42,AI Based Fault Detection,1
+Aditya Iyer,"Embedded Systems, Python, Machine Learning, Signal Processing, MATLAB",2.4,9.19,Signal Analyzer,1
+Kiran Patel,"Embedded Systems, Python, Machine Learning, MATLAB, Signal Processing",1.2,8.17,Wireless Communication Model,1
+Aarav Verma,"Embedded Systems, Python, Machine Learning, IoT, Verilog",1.7,7.52,Robotics Arm,1
+Vikram Verma,"Embedded Systems, Python, Machine Learning, C Programming, PCB Design",2.9,9.65,Robotics Arm,1
+Sai Naidu,"Embedded Systems, Python, Machine Learning, Signal Processing, C Programming",3,9.48,AI Based Fault Detection,1
+Rahul Kumar,"Embedded Systems, Python, Machine Learning, Signal Processing, C Programming",4.7,7.64,Image Processing System,1
+Vihaan Gupta,"Embedded Systems, Python, Machine Learning, IoT, Verilog",3.2,9.42,FPGA Based Design,1
+Vikram Reddy,"Embedded Systems, Python, Machine Learning, PCB Design, MATLAB",1.7,8.3,IoT Weather Station,1
+Rahul Naidu,"Embedded Systems, Python, Machine Learning, IoT, C Programming",2.9,9.53,FPGA Based Design,1
+Kiran Sharma,"Embedded Systems, Python, Machine Learning, IoT, PCB Design",3.7,9.99,Wireless Communication Model,1
+Rohan Singh,"Embedded Systems, Python, Machine Learning, Verilog, C Programming",2.4,8.89,FPGA Based Design,1
+Rohan Gupta,"Embedded Systems, Python, Machine Learning, IoT, VLSI Design",4.1,9.56,Image Processing System,1
+Rohan Naidu,"Embedded Systems, Python, Machine Learning, PCB Design, C Programming",4.3,8.7,AI Based Fault Detection,1
+Kiran Iyer,"Embedded Systems, Python, Machine Learning, Verilog, Signal Processing",1.6,8.43,Image Processing System,1
+Aarav Sharma,"Embedded Systems, Python, Machine Learning, VLSI Design, Verilog",4.7,8.32,AI Based Fault Detection,1
+Kiran Iyer,"Embedded Systems, Python, Machine Learning, IoT, PCB Design",3.9,9.88,IoT Weather Station,1
+Rohan Iyer,"Embedded Systems, Python, Machine Learning, PCB Design, C Programming",3.9,8.11,FPGA Based Design,1
+Sai Yadav,"Embedded Systems, Python, Machine Learning, C Programming, MATLAB",3.6,7.94,Robotics Arm,1
+Rohan Patel,"Embedded Systems, Python, Machine Learning, C Programming, Signal Processing",4.6,9.51,Smart Home Automation,1
+Rohan Iyer,"Embedded Systems, Python, Machine Learning, IoT, PCB Design",4.4,7.81,FPGA Based Design,1
+Aarav Patel,"Embedded Systems, Python, Machine Learning, Signal Processing, Verilog",3.6,8.57,Signal Analyzer,1
+Rohan Patel,"Embedded Systems, Python, Machine Learning, C Programming, Signal Processing",4.2,8.68,Smart Home Automation,1
+Aarav Patel,"Embedded Systems, Python, Machine Learning, Signal Processing, C Programming",4.9,9.49,Signal Analyzer,1
+Rahul Patel,"Embedded Systems, Python, Machine Learning, C Programming, PCB Design",1,7.76,FPGA Based Design,1
+Sai Singh,"Embedded Systems, Python, Machine Learning, IoT, VLSI Design",1.3,7.93,Image Processing System,1
+Aarav Kumar,"Embedded Systems, Python, Machine Learning, VLSI Design, MATLAB",3.1,9.9,Robotics Arm,1
+Rahul Verma,"Embedded Systems, Python, Machine Learning, VLSI Design, MATLAB",1,8,FPGA Based Design,1
+Sai Kumar,"Embedded Systems, Python, Machine Learning, PCB Design, IoT",3.3,9.46,Robotics Arm,1
+Sai Iyer,"Embedded Systems, Python, Machine Learning, VLSI Design, MATLAB",2.7,8.49,Robotics Arm,1
+Aarav Yadav,"Embedded Systems, Python, Machine Learning, MATLAB, IoT",4,7.84,FPGA Based Design,1
+Aditya Gupta,"Embedded Systems, Python, Machine Learning, VLSI Design, IoT",4.9,7.52,Wireless Communication Model,1
+Kiran Reddy,"Embedded Systems, Python, Machine Learning, Signal Processing, C Programming",2.4,7.85,Smart Home Automation,1
+Aditya Yadav,"Embedded Systems, Python, Machine Learning, C Programming, PCB Design",3.3,7.97,Signal Analyzer,1
+Sai Iyer,"Embedded Systems, Python, Machine Learning, Signal Processing, IoT",3.1,9.31,AI Based Fault Detection,1
+Krishna Iyer,"Embedded Systems, Python, Machine Learning, C Programming, MATLAB",2.5,8.77,AI Based Fault Detection,1
+Sai Sharma,"Embedded Systems, Python, Machine Learning, Signal Processing, Verilog",1.3,8.49,Robotics Arm,1
+Vikram Naidu,"Embedded Systems, Python, Machine Learning, VLSI Design, IoT",4.9,8.16,IoT Weather Station,1
+Vihaan Verma,"Embedded Systems, Python, Machine Learning, PCB Design, IoT",2.2,9.31,Robotics Arm,1
+Vikram Sharma,"Embedded Systems, Python, Machine Learning, Verilog, PCB Design",3.5,9.04,AI Based Fault Detection,1
+Rahul Singh,"Embedded Systems, Python, Machine Learning, C Programming, VLSI Design",4.1,8.9,Wireless Communication Model,1
+Rahul Sharma,"Embedded Systems, Python, Machine Learning, MATLAB, IoT",2.2,9.5,Robotics Arm,1
+Rahul Singh,"Embedded Systems, Python, Machine Learning, IoT, VLSI Design",3.4,9.64,IoT Weather Station,1
+Vikram Kumar,"Embedded Systems, Python, Machine Learning, VLSI Design, PCB Design",1.7,8.85,Image Processing System,1
+Vihaan Yadav,"Embedded Systems, Python, Machine Learning, IoT, PCB Design",3.1,8.57,Signal Analyzer,1
+Krishna Naidu,"Embedded Systems, Python, Machine Learning, PCB Design, IoT",4.5,9.75,IoT Weather Station,1
+Vikram Reddy,"Embedded Systems, Python, Machine Learning, PCB Design, IoT",1.6,9.37,Signal Analyzer,1
+Kiran Naidu,"Embedded Systems, Python, Machine Learning, MATLAB, IoT",1.3,8.19,Signal Analyzer,1
+Kiran Iyer,"Embedded Systems, Python, Machine Learning, Signal Processing, Verilog",1.4,9.39,IoT Weather Station,1
+Aditya Gupta,"Embedded Systems, Python, Machine Learning, PCB Design, VLSI Design",2.6,9.83,Signal Analyzer,1
+Arjun Reddy,"Embedded Systems, Python, Machine Learning, IoT, PCB Design",1.2,9.37,AI Based Fault Detection,1
+Arjun Singh,"Embedded Systems, Python, Machine Learning, PCB Design, VLSI Design",1.2,9.82,Image Processing System,1
+Krishna Verma,"Embedded Systems, Python, Machine Learning, Signal Processing, PCB Design",2,9.11,IoT Weather Station,1
+Vikram Sharma,"Embedded Systems, Python, Machine Learning, MATLAB, IoT",2.4,8.38,FPGA Based Design,1
+Kiran Sharma,"Embedded Systems, Python, Machine Learning, IoT, Verilog",1.7,8.74,IoT Weather Station,1
+Vikram Iyer,"Embedded Systems, Python, Machine Learning, C Programming, Verilog",4.9,9.89,Smart Home Automation,1
+Vikram Iyer,"Embedded Systems, Python, Machine Learning, C Programming, MATLAB",3.8,9.31,Smart Home Automation,1
+Rohan Verma,"Embedded Systems, Python, Machine Learning, Verilog, C Programming",2.1,8.73,AI Based Fault Detection,1
+Aditya Singh,"Embedded Systems, Python, Machine Learning, C Programming, Verilog",4.4,8.9,FPGA Based Design,1
+Aarav Yadav,"Embedded Systems, Python, Machine Learning, C Programming, IoT",3.2,8.33,Smart Home Automation,1
+Aarav Verma,"Embedded Systems, Python, Machine Learning, C Programming, IoT",3.1,7.93,IoT Weather Station,1
+Rohan Reddy,"Embedded Systems, Python, Machine Learning, Verilog, MATLAB",2.2,8.27,Wireless Communication Model,1
+Vihaan Iyer,"Embedded Systems, Python, Machine Learning, VLSI Design, Signal Processing",2.1,8.92,FPGA Based Design,1
+Aditya Verma,"Embedded Systems, Python, Machine Learning, Signal Processing, MATLAB",4.6,8.05,AI Based Fault Detection,1
+Vihaan Reddy,"Embedded Systems, Python, Machine Learning, Signal Processing, PCB Design",3.6,7.55,Image Processing System,1
+Kiran Sharma,"Embedded Systems, Python, Machine Learning, VLSI Design, C Programming",1.5,7.55,Robotics Arm,1
+Vihaan Singh,"Embedded Systems, Python, Machine Learning, VLSI Design, C Programming",2.3,8.82,Signal Analyzer,1
+Aditya Singh,"Embedded Systems, Python, Machine Learning, PCB Design, IoT",3,8.75,AI Based Fault Detection,1
+Aditya Verma,"Embedded Systems, Python, Machine Learning, Verilog, IoT",2.9,9.81,Smart Home Automation,1
+Rohan Verma,"Embedded Systems, Python, Machine Learning, Verilog, Signal Processing",4.6,9.28,IoT Weather Station,1
+Kiran Kumar,"Embedded Systems, Python, Machine Learning, VLSI Design, PCB Design",2.2,7.73,Signal Analyzer,1
+Arjun Verma,"Embedded Systems, Python, Machine Learning, MATLAB, PCB Design",1.8,7.82,Smart Home Automation,1
+Aarav Reddy,"Embedded Systems, Python, Machine Learning, C Programming, MATLAB",4.2,8.98,IoT Weather Station,1
+Rohan Naidu,"Embedded Systems, Python, Machine Learning, MATLAB, IoT",2.5,8.74,Robotics Arm,1
+Krishna Kumar,"Embedded Systems, Python, Machine Learning, PCB Design, IoT",3.8,7.59,Wireless Communication Model,1
+Vikram Iyer,"Embedded Systems, Python, Machine Learning, VLSI Design, C Programming",1.4,9.09,Image Processing System,1
+Aarav Verma,"Embedded Systems, Python, Machine Learning, Verilog, PCB Design",1.7,9.79,IoT Weather Station,1
+Vikram Verma,"Embedded Systems, Python, Machine Learning, VLSI Design, IoT",4.9,9.38,Image Processing System,1
+Aditya Kumar,"Embedded Systems, Python, Machine Learning, IoT, MATLAB",2.4,8.37,IoT Weather Station,1
+Aarav Iyer,"Embedded Systems, Python, Machine Learning, VLSI Design, MATLAB",4.2,9.39,Robotics Arm,1
+Krishna Kumar,"Embedded Systems, Python, Machine Learning, VLSI Design, PCB Design",3.2,9.39,Robotics Arm,1
+Aditya Kumar,"Embedded Systems, Python, Machine Learning, IoT, C Programming",3.1,9.08,IoT Weather Station,1
+Rohan Patel,"Embedded Systems, Python, Machine Learning, C Programming, Verilog",4.6,8.07,Smart Home Automation,1
+Arjun Yadav,"Embedded Systems, Python, Machine Learning, IoT, PCB Design",1.2,9.76,AI Based Fault Detection,1
+Krishna Gupta,"Embedded Systems, Python, Machine Learning, Verilog, IoT",1.1,9.07,Image Processing System,1
+Krishna Yadav,"Embedded Systems, Python, Machine Learning, VLSI Design, PCB Design",4.7,7.62,Image Processing System,1
+Krishna Singh,"Embedded Systems, Python, Machine Learning, IoT, PCB Design",1.3,9.04,FPGA Based Design,1
+Kiran Singh,"Embedded Systems, Python, Machine Learning, MATLAB, Signal Processing",3.9,8.49,Image Processing System,1
+Rahul Verma,"Embedded Systems, Python, Machine Learning, VLSI Design, MATLAB",4.1,10,IoT Weather Station,1
+Vikram Verma,"Embedded Systems, Python, Machine Learning, PCB Design, MATLAB",1.7,9.11,Signal Analyzer,1
+Aditya Sharma,"Embedded Systems, Python, Machine Learning, MATLAB, C Programming",3.8,7.75,FPGA Based Design,1
+Vihaan Naidu,"Embedded Systems, Python, Machine Learning, C Programming, Verilog",3.7,8.1,IoT Weather Station,1
+Sai Reddy,"Embedded Systems, Python, Machine Learning, PCB Design, C Programming",2.6,9.99,IoT Weather Station,1
+Vihaan Naidu,"Embedded Systems, Python, Machine Learning, IoT, MATLAB",2.3,9.79,IoT Weather Station,1
+Aditya Singh,"Embedded Systems, Python, Machine Learning, IoT, PCB Design",4.7,8.63,IoT Weather Station,1
+Arjun Patel,"Embedded Systems, Python, Machine Learning, PCB Design, C Programming",3.2,8.08,AI Based Fault Detection,1
+Kiran Kumar,"Embedded Systems, Python, Machine Learning, VLSI Design, IoT",3.2,7.82,Smart Home Automation,1
+Rahul Sharma,"Embedded Systems, Python, Machine Learning, PCB Design, MATLAB",1.1,7.72,IoT Weather Station,1
+Kiran Patel,"Embedded Systems, Python, Machine Learning, VLSI Design, PCB Design",1.9,8.76,Signal Analyzer,1
+Kiran Patel,"Embedded Systems, Python, Machine Learning, MATLAB, C Programming",2.6,7.97,Smart Home Automation,1
+Rahul Kumar,"Embedded Systems, Python, Machine Learning, C Programming, VLSI Design",4,9.93,Signal Analyzer,1
+Vihaan Sharma,"Embedded Systems, Python, Machine Learning, Verilog, IoT",1.5,9.35,FPGA Based Design,1
+Krishna Verma,"Embedded Systems, Python, Machine Learning, VLSI Design, IoT",4.5,8.37,Signal Analyzer,1
+Krishna Yadav,"Embedded Systems, Python, Machine Learning, PCB Design, IoT",4.6,9.34,Wireless Communication Model,1
+Kiran Naidu,"Embedded Systems, Python, Machine Learning, Verilog, MATLAB",3.6,8.68,IoT Weather Station,1
+Arjun Naidu,"Embedded Systems, Python, Machine Learning, PCB Design, Signal Processing",4.6,9.83,Wireless Communication Model,1
+Vikram Yadav,"Embedded Systems, Python, Machine Learning, PCB Design, Verilog",4.2,8.44,Robotics Arm,1
+Arjun Iyer,"Embedded Systems, Python, Machine Learning, Verilog, MATLAB",2.9,8.33,Image Processing System,1
+Aarav Sharma,"Embedded Systems, Python, Machine Learning, Signal Processing, C Programming",2.8,7.67,Wireless Communication Model,1
+Vihaan Sharma,"Embedded Systems, Python, Machine Learning, PCB Design, MATLAB",1.8,8.21,FPGA Based Design,1
+Krishna Reddy,"Embedded Systems, Python, Machine Learning, Signal Processing, MATLAB",1.1,9.54,IoT Weather Station,1
+Kiran Singh,"Embedded Systems, Python, Machine Learning, C Programming, Signal Processing",4.3,7.73,AI Based Fault Detection,1
+Vihaan Patel,"Embedded Systems, Python, Machine Learning, Signal Processing, IoT",3.8,9.29,Robotics Arm,1
+Kiran Naidu,"Embedded Systems, Python, Machine Learning, VLSI Design, PCB Design",4.6,9.69,AI Based Fault Detection,1
+Kiran Verma,"Embedded Systems, Python, Machine Learning, PCB Design, IoT",2.7,9.9,AI Based Fault Detection,1
+Kiran Patel,"Embedded Systems, Python, Machine Learning, PCB Design, VLSI Design",1.7,9.56,Image Processing System,1
+Rahul Gupta,"Embedded Systems, Python, Machine Learning, Signal Processing, PCB Design",4.3,9.2,Signal Analyzer,1
+Vikram Patel,"Embedded Systems, Python, Machine Learning, Verilog, Signal Processing",3.9,8.62,IoT Weather Station,1
+Vihaan Kumar,"Embedded Systems, Python, Machine Learning, PCB Design, MATLAB",4.7,8.47,Smart Home Automation,1
+Rohan Singh,"Embedded Systems, Python, Machine Learning, Signal Processing, IoT",1.9,9.54,Wireless Communication Model,1
+Vikram Naidu,"Embedded Systems, Python, Machine Learning, Verilog, MATLAB",3.9,7.94,Wireless Communication Model,1
+Rohan Verma,"Embedded Systems, Python, Machine Learning, IoT, VLSI Design",3.1,7.74,IoT Weather Station,1
+Rahul Singh,"Embedded Systems, Python, Machine Learning, IoT, VLSI Design",2.8,9.99,FPGA Based Design,1
+Rahul Verma,"Embedded Systems, Python, Machine Learning, MATLAB, PCB Design",4.4,8.47,IoT Weather Station,1
+Rahul Iyer,"Embedded Systems, Python, Machine Learning, IoT, C Programming",1.1,7.53,Robotics Arm,1
+Krishna Yadav,"Embedded Systems, Python, Machine Learning, C Programming, Signal Processing",2.2,8.88,Image Processing System,1
+Aditya Patel,"Embedded Systems, Python, Machine Learning, MATLAB, Verilog",1.4,8.27,IoT Weather Station,1
+Aarav Iyer,"Embedded Systems, Python, Machine Learning, MATLAB, VLSI Design",2.3,8.04,AI Based Fault Detection,1
+Aditya Singh,"Embedded Systems, Python, Machine Learning, Verilog, IoT",4.5,8.61,Wireless Communication Model,1
+Aditya Reddy,"Embedded Systems, Python, Machine Learning, IoT, VLSI Design",3.1,9.72,AI Based Fault Detection,1
+Rahul Iyer,"Embedded Systems, Python, Machine Learning, VLSI Design, Verilog",2.1,9.97,FPGA Based Design,1
+Arjun Reddy,"Embedded Systems, Python, Machine Learning, Verilog, PCB Design",2.7,7.73,FPGA Based Design,1
+Kiran Gupta,"Embedded Systems, Python, Machine Learning, VLSI Design, Verilog",4.5,9.74,AI Based Fault Detection,1
+Kiran Naidu,"Embedded Systems, Python, Machine Learning, C Programming, MATLAB",3.8,8.34,IoT Weather Station,1
+Krishna Gupta,"Embedded Systems, Python, Machine Learning, IoT, Verilog",4.2,8.72,FPGA Based Design,1
+Arjun Yadav,"Embedded Systems, Python, Machine Learning, Signal Processing, VLSI Design",4.7,7.58,IoT Weather Station,1
+Rahul Verma,"Embedded Systems, Python, Machine Learning, IoT, VLSI Design",2,8.64,Robotics Arm,1
+Arjun Kumar,"Embedded Systems, Python, Machine Learning, IoT, VLSI Design",1.9,7.66,Smart Home Automation,1
+Vihaan Verma,"Embedded Systems, Python, Machine Learning, VLSI Design, IoT",3.8,9.1,Wireless Communication Model,1
+Arjun Verma,"Embedded Systems, Python, Machine Learning, VLSI Design, IoT",2,8.12,Signal Analyzer,1
+Vikram Kumar,"Embedded Systems, Python, Machine Learning, MATLAB, IoT",4,9,IoT Weather Station,1
+Rahul Verma,"Embedded Systems, Python, Machine Learning, C Programming, Verilog",2.3,9.35,Robotics Arm,1
+Rohan Reddy,"Embedded Systems, Python, Machine Learning, VLSI Design, MATLAB",2.6,9.74,Smart Home Automation,1
+Kiran Gupta,"Embedded Systems, Python, Machine Learning, Verilog, MATLAB",1.5,7.96,FPGA Based Design,1
+Kiran Singh,"Embedded Systems, Python, Machine Learning, VLSI Design, C Programming",2,9.98,AI Based Fault Detection,1
+Aditya Reddy,"Embedded Systems, Python, Machine Learning, IoT, Verilog",1.7,9.66,FPGA Based Design,1
+Arjun Singh,"Embedded Systems, Python, Machine Learning, C Programming, Signal Processing",1.5,7.64,Signal Analyzer,1
+Rahul Patel,"Embedded Systems, Python, Machine Learning, Verilog, MATLAB",1.4,8.34,Signal Analyzer,1
+Kiran Singh,"Embedded Systems, Python, Machine Learning, Verilog, MATLAB",3.3,7.72,Robotics Arm,1
+Vikram Sharma,"Embedded Systems, Python, Machine Learning, IoT, C Programming",3.4,9.28,Signal Analyzer,1
+Kiran Singh,"Embedded Systems, Python, Machine Learning, VLSI Design, Verilog",2.4,7.75,Robotics Arm,1
+Arjun Gupta,"Embedded Systems, Python, Machine Learning, MATLAB, Verilog",2.5,9.4,IoT Weather Station,1
+Kiran Kumar,"Embedded Systems, Python, Machine Learning, Signal Processing, PCB Design",1.7,9.46,Signal Analyzer,1
+Aditya Reddy,"Embedded Systems, Python, Machine Learning, Signal Processing, Verilog",1.7,9.96,Image Processing System,1
+Sai Sharma,"Embedded Systems, Python, Machine Learning, MATLAB, VLSI Design",3.8,8.74,Image Processing System,1
+Rahul Yadav,"Embedded Systems, Python, Machine Learning, Signal Processing, PCB Design",1.3,7.85,IoT Weather Station,1
+Vihaan Verma,"Embedded Systems, Python, Machine Learning, Signal Processing, VLSI Design",2,8.01,Smart Home Automation,1
+Arjun Sharma,"Embedded Systems, Python, Machine Learning, Verilog, C Programming",1.2,9.93,Image Processing System,1
+Kiran Gupta,"Embedded Systems, Python, Machine Learning, C Programming, MATLAB",3.2,9.85,Signal Analyzer,1
+Krishna Verma,"Embedded Systems, Python, Machine Learning, C Programming, Verilog",1,7.68,FPGA Based Design,1
+Arjun Verma,"Embedded Systems, Python, Machine Learning, Signal Processing, Verilog",4.4,9.58,Image Processing System,1
+Krishna Kumar,"Embedded Systems, Python, Machine Learning, MATLAB, Verilog",3,9.47,Signal Analyzer,1
+Vihaan Sharma,"Embedded Systems, Python, Machine Learning, Signal Processing, MATLAB",4.5,8.39,FPGA Based Design,1
+Vihaan Iyer,"Embedded Systems, Python, Machine Learning, Signal Processing, C Programming",2.3,9.49,AI Based Fault Detection,1
+Aditya Sharma,"Embedded Systems, Python, Machine Learning, IoT, Verilog",1.8,8.71,FPGA Based Design,1
+Rohan Reddy,"Embedded Systems, Python, Machine Learning, IoT, Signal Processing",4.6,9.69,Robotics Arm,1
+Sai Reddy,"Embedded Systems, Python, Machine Learning, Signal Processing, C Programming",4.8,8.26,Image Processing System,1
+Vikram Yadav,"Embedded Systems, Python, Machine Learning, IoT, VLSI Design",1.2,8.9,AI Based Fault Detection,1
+Sai Gupta,"Embedded Systems, Python, Machine Learning, VLSI Design, IoT",3.4,8.96,AI Based Fault Detection,1
+Vikram Iyer,"Embedded Systems, Python, Machine Learning, PCB Design, VLSI Design",1.1,7.95,FPGA Based Design,1
+Vihaan Gupta,"Embedded Systems, Python, Machine Learning, PCB Design, MATLAB",3.8,9.65,FPGA Based Design,1
+Vikram Patel,"Embedded Systems, Python, Machine Learning, IoT, Verilog",1.4,8.25,IoT Weather Station,1
+Kiran Singh,"Embedded Systems, Python, Machine Learning, MATLAB, PCB Design",4.2,9.6,AI Based Fault Detection,1
+Vikram Iyer,"Embedded Systems, Python, Machine Learning, VLSI Design, Verilog",1,8.04,Robotics Arm,1
+Vikram Patel,"Embedded Systems, Python, Machine Learning, VLSI Design, MATLAB",1.7,9.45,Robotics Arm,1
+Aarav Iyer,"Embedded Systems, Python, Machine Learning, MATLAB, IoT",3.9,8.71,FPGA Based Design,1
+Vihaan Yadav,"Embedded Systems, Python, Machine Learning, Signal Processing, C Programming",1,8.93,Robotics Arm,1
+Vihaan Naidu,"Embedded Systems, Python, Machine Learning, PCB Design, VLSI Design",1.5,7.95,IoT Weather Station,1
+Aarav Verma,"Embedded Systems, Python, Machine Learning, IoT, PCB Design",2.4,8.13,Wireless Communication Model,1
+Vihaan Sharma,"Embedded Systems, Python, Machine Learning, MATLAB, PCB Design",4,9.59,Image Processing System,1
+Aarav Verma,"Embedded Systems, Python, Machine Learning, PCB Design, IoT",1.5,7.55,Wireless Communication Model,1
+Arjun Reddy,"Embedded Systems, Python, Machine Learning, MATLAB, C Programming",4.9,9.85,Smart Home Automation,1
+Sai Reddy,"Embedded Systems, Python, Machine Learning, Verilog, Signal Processing",4.9,8.75,AI Based Fault Detection,1
+Aditya Patel,"Embedded Systems, Python, Machine Learning, C Programming, PCB Design",3.9,10,Smart Home Automation,1
+Aarav Reddy,"Embedded Systems, Python, Machine Learning, Verilog, PCB Design",4.4,8.41,AI Based Fault Detection,1
+Vikram Kumar,"Embedded Systems, Python, Machine Learning, Signal Processing, PCB Design",1.3,9.59,Signal Analyzer,1
+Kiran Patel,"Embedded Systems, Python, Machine Learning, Signal Processing, Verilog",3.5,9.52,FPGA Based Design,1
+Aarav Gupta,"Embedded Systems, Python, Machine Learning, PCB Design, Signal Processing",3.6,8.14,Image Processing System,1
+Rahul Gupta,"Embedded Systems, Python, Machine Learning, Verilog, PCB Design",4.8,9.35,IoT Weather Station,1
+Rohan Yadav,"Embedded Systems, Python, Machine Learning, C Programming, PCB Design",1.9,9.95,FPGA Based Design,1
+Rohan Kumar,"Embedded Systems, Python, Machine Learning, C Programming, Signal Processing",1.6,7.75,AI Based Fault Detection,1
+Arjun Gupta,"Embedded Systems, Python, Machine Learning, IoT, Verilog",3.1,7.97,Wireless Communication Model,1
+Sai Naidu,"Embedded Systems, Python, Machine Learning, Verilog, PCB Design",1.5,7.79,Signal Analyzer,1
+Kiran Naidu,"Embedded Systems, Python, Machine Learning, C Programming, MATLAB",2,9.37,Signal Analyzer,1
+Aarav Sharma,"Embedded Systems, Python, Machine Learning, VLSI Design, Signal Processing",4,8.63,Signal Analyzer,1
+Aditya Naidu,"Embedded Systems, Python, Machine Learning, IoT, Verilog",4.2,8.55,Wireless Communication Model,1
+Vihaan Sharma,"Embedded Systems, Python, Machine Learning, IoT, VLSI Design",3.8,7.56,Image Processing System,1
+Rohan Gupta,"Embedded Systems, Python, Machine Learning, Signal Processing, IoT",3.3,8.47,Robotics Arm,1
+Krishna Patel,"Embedded Systems, Python, Machine Learning, Verilog, MATLAB",1.5,8.71,Robotics Arm,1
+Rahul Reddy,"Embedded Systems, Python, Machine Learning, VLSI Design, Signal Processing",1.4,7.65,Signal Analyzer,1
+Krishna Singh,"Embedded Systems, Python, Machine Learning, MATLAB, IoT",1.9,8.97,IoT Weather Station,1
+Rahul Patel,"Embedded Systems, Python, Machine Learning, VLSI Design, PCB Design",2.7,9.49,Image Processing System,1
+Aditya Iyer,"Embedded Systems, Python, Machine Learning, Verilog, MATLAB",4.5,7.88,FPGA Based Design,1
+Krishna Reddy,"Embedded Systems, Python, Machine Learning, MATLAB, PCB Design",4.4,9.97,FPGA Based Design,1
+Sai Reddy,"Embedded Systems, Python, Machine Learning, MATLAB, C Programming",2.4,7.66,Robotics Arm,1
+Aarav Naidu,"Embedded Systems, Python, Machine Learning, VLSI Design, MATLAB",2.9,7.57,Robotics Arm,1
+Sai Iyer,"Embedded Systems, Python, Machine Learning, VLSI Design, Verilog",1.7,9.31,Image Processing System,1
+Arjun Naidu,"Embedded Systems, Python, Machine Learning, Signal Processing, Verilog",3.9,9.75,FPGA Based Design,1
+Aditya Sharma,"Embedded Systems, Python, Machine Learning, IoT, C Programming",1.9,8.65,IoT Weather Station,1
+Krishna Gupta,"Embedded Systems, Python, Machine Learning, MATLAB, IoT",4.7,8.7,Robotics Arm,1
+Krishna Kumar,"Embedded Systems, Python, Machine Learning, PCB Design, IoT",3.3,8.56,IoT Weather Station,1
+Aditya Kumar,"Embedded Systems, Python, Machine Learning, VLSI Design, C Programming",4.1,9.4,Smart Home Automation,1
+Aarav Kumar,"Embedded Systems, Python, Machine Learning, IoT, C Programming",2.3,8.36,AI Based Fault Detection,1
+Aditya Kumar,"Embedded Systems, Python, Machine Learning, IoT, C Programming",3.4,9.54,Smart Home Automation,1
+Sai Sharma,"Embedded Systems, Python, Machine Learning, MATLAB, VLSI Design",3.5,8.11,IoT Weather Station,1
+Sai Gupta,"Embedded Systems, Python, Machine Learning, IoT, Verilog",3.9,8.93,Image Processing System,1
+Rahul Patel,"Embedded Systems, Python, Machine Learning, C Programming, IoT",4.4,8.07,IoT Weather Station,1
+Arjun Singh,"Embedded Systems, Python, Machine Learning, C Programming, Signal Processing",1.4,8.14,IoT Weather Station,1
+Aditya Singh,"Embedded Systems, Python, Machine Learning, MATLAB, Verilog",2.3,8.38,Smart Home Automation,1
+Krishna Singh,"Embedded Systems, Python, Machine Learning, IoT, Signal Processing",4.7,7.76,Image Processing System,1
+Krishna Reddy,"Embedded Systems, Python, Machine Learning, MATLAB, VLSI Design",2.9,7.6,IoT Weather Station,1
+Aditya Reddy,"Embedded Systems, Python, Machine Learning, PCB Design, VLSI Design",4.4,9.25,Smart Home Automation,1
+Vihaan Naidu,"Embedded Systems, Python, Machine Learning, C Programming, IoT",1.1,7.56,FPGA Based Design,1
+Aarav Yadav,"Embedded Systems, Python, Machine Learning, PCB Design, MATLAB",2.5,9.01,Signal Analyzer,1
+Rahul Yadav,"Embedded Systems, Python, Machine Learning, IoT, VLSI Design",1,7.81,Smart Home Automation,1
+Aarav Sharma,"Embedded Systems, Python, Machine Learning, C Programming, Verilog",2,8.93,Wireless Communication Model,1
+Kiran Sharma,"Embedded Systems, Python, Machine Learning, Verilog, VLSI Design",1.7,7.96,Signal Analyzer,1
+Rohan Sharma,"Embedded Systems, Python, Machine Learning, Signal Processing, PCB Design",1.6,9.01,Wireless Communication Model,1
+Rohan Gupta,"Embedded Systems, Python, Machine Learning, VLSI Design, C Programming",2.7,9.45,Robotics Arm,1
+Kiran Sharma,"Embedded Systems, Python, Machine Learning, C Programming, MATLAB",2.1,9.45,Robotics Arm,1
+Aditya Sharma,"Embedded Systems, Python, Machine Learning, C Programming, IoT",3.4,9.33,AI Based Fault Detection,1
+Aarav Yadav,"Embedded Systems, Python, Machine Learning, Verilog, Signal Processing",1.9,8.64,Signal Analyzer,1
+Aditya Yadav,"Embedded Systems, Python, Machine Learning, PCB Design, Signal Processing",4,9.73,Robotics Arm,1
+Rahul Yadav,"Embedded Systems, Python, Machine Learning, Signal Processing, Verilog",1.6,8.02,IoT Weather Station,1
+Vikram Iyer,"Embedded Systems, Python, Machine Learning, Verilog, Signal Processing",3,7.52,FPGA Based Design,1
+Vikram Kumar,"Embedded Systems, Python, Machine Learning, MATLAB, PCB Design",4.9,8.31,Wireless Communication Model,1
+Krishna Kumar,"Embedded Systems, Python, Machine Learning, C Programming, MATLAB",1.3,9.34,FPGA Based Design,1
+Krishna Verma,"Embedded Systems, Python, Machine Learning, MATLAB, IoT",2.2,8.91,AI Based Fault Detection,1
+Rohan Sharma,"Embedded Systems, Python, Machine Learning, Signal Processing, C Programming",2.4,7.68,FPGA Based Design,1
+Vihaan Kumar,"Embedded Systems, Python, Machine Learning, C Programming, Verilog",1.3,9.48,Smart Home Automation,1
+Rahul Gupta,"Embedded Systems, Python, Machine Learning, MATLAB, IoT",4.8,8.65,Smart Home Automation,1
+Vihaan Verma,"Embedded Systems, Python, Machine Learning, MATLAB, C Programming",4.9,7.89,Wireless Communication Model,1
+Rahul Yadav,"Embedded Systems, Python, Machine Learning, Verilog, PCB Design",2.5,8.56,AI Based Fault Detection,1
+Kiran Yadav,"Embedded Systems, Python, Machine Learning, IoT, Signal Processing",3.2,8.06,AI Based Fault Detection,1
+Aditya Iyer,"Embedded Systems, Python, Machine Learning, Verilog, MATLAB",3.2,8.76,FPGA Based Design,1
+Aarav Naidu,"Embedded Systems, Python, Machine Learning, VLSI Design, C Programming",2,7.96,Signal Analyzer,1
+Vihaan Sharma,"Embedded Systems, Python, Machine Learning, IoT, PCB Design",3.5,9.31,FPGA Based Design,1
+Sai Verma,"Embedded Systems, Python, Machine Learning, IoT, C Programming",4,9.55,AI Based Fault Detection,1
+Krishna Sharma,"Embedded Systems, Python, Machine Learning, IoT, Verilog",3.7,8.29,IoT Weather Station,1
+Rahul Naidu,"Embedded Systems, Python, Machine Learning, Verilog, IoT",4.1,8.93,Signal Analyzer,1
+Krishna Iyer,"Embedded Systems, Python, Machine Learning, VLSI Design, IoT",4.8,8.79,Smart Home Automation,1
+Arjun Patel,"Embedded Systems, Python, Machine Learning, IoT, Signal Processing",1.9,9.74,Signal Analyzer,1
+Rohan Verma,"Embedded Systems, Python, Machine Learning, Signal Processing, MATLAB",3,8.53,Smart Home Automation,1
+Rohan Iyer,"Embedded Systems, Python, Machine Learning, VLSI Design, Signal Processing",1.2,7.83,Image Processing System,1
+Rohan Naidu,"Embedded Systems, Python, Machine Learning, MATLAB, C Programming",4.9,9.6,FPGA Based Design,1
+Aarav Sharma,"Embedded Systems, Python, Machine Learning, IoT, VLSI Design",3.6,7.83,Wireless Communication Model,1
+Kiran Kumar,"Embedded Systems, Python, Machine Learning, IoT, C Programming",3.5,9.12,IoT Weather Station,1
+Vikram Verma,"Embedded Systems, Python, Machine Learning, Signal Processing, Verilog",3,9.15,IoT Weather Station,1
+Vikram Singh,"Embedded Systems, Python, Machine Learning, VLSI Design, IoT",4.2,9.41,Wireless Communication Model,1
+Rahul Verma,"Embedded Systems, Python, Machine Learning, IoT, MATLAB",4.9,8.89,Signal Analyzer,1
+Arjun Sharma,"Embedded Systems, Python, Machine Learning, PCB Design, C Programming",1.9,8.19,Image Processing System,1
+Kiran Gupta,"Embedded Systems, Python, Machine Learning, VLSI Design, Verilog",2.5,7.87,Robotics Arm,1
+Vihaan Verma,"Embedded Systems, Python, Machine Learning, PCB Design, C Programming",1.3,9.66,Signal Analyzer,1
+Krishna Naidu,"Embedded Systems, Python, Machine Learning, Signal Processing, VLSI Design",2.8,8.44,IoT Weather Station,1
+Sai Kumar,"Embedded Systems, Python, Machine Learning, C Programming, Verilog",1.4,9.18,AI Based Fault Detection,1
+Aarav Iyer,"Embedded Systems, Python, Machine Learning, Verilog, MATLAB",3.3,9.35,Signal Analyzer,1
+Arjun Kumar,"Embedded Systems, Python, Machine Learning, IoT, VLSI Design",3.1,8.76,IoT Weather Station,1
+Rahul Verma,"Embedded Systems, Python, Machine Learning, VLSI Design, Signal Processing",4,8.87,Signal Analyzer,1
+Aarav Yadav,"Embedded Systems, Python, Machine Learning, MATLAB, PCB Design",2.6,9.47,Signal Analyzer,1
+Rohan Sharma,"Embedded Systems, Python, Machine Learning, PCB Design, Signal Processing",3,8.69,Wireless Communication Model,1
+Sai Singh,"Embedded Systems, Python, Machine Learning, Verilog, PCB Design",4.1,8.28,Wireless Communication Model,1
+Kiran Patel,"Embedded Systems, Python, Machine Learning, PCB Design, VLSI Design",2.1,9.65,IoT Weather Station,1
+Aarav Reddy,"Embedded Systems, Python, Machine Learning, Signal Processing, IoT",4.9,8.3,Wireless Communication Model,1
+Rahul Verma,"Embedded Systems, Python, Machine Learning, Signal Processing, VLSI Design",1.3,9.85,Wireless Communication Model,1
+Aarav Patel,"Embedded Systems, Python, Machine Learning, PCB Design, VLSI Design",1.2,7.77,Smart Home Automation,1
+Aditya Naidu,"Embedded Systems, Python, Machine Learning, PCB Design, IoT",2.3,7.73,Signal Analyzer,1
+Rahul Gupta,"Embedded Systems, Python, Machine Learning, IoT, MATLAB",3.1,8.94,FPGA Based Design,1
+Aditya Naidu,"Embedded Systems, Python, Machine Learning, C Programming, PCB Design",2.6,9.92,Image Processing System,1
+Krishna Verma,"Embedded Systems, Python, Machine Learning, VLSI Design, PCB Design",1.7,8.39,Signal Analyzer,1
+Rohan Patel,"Embedded Systems, Python, Machine Learning, IoT, MATLAB",4.4,9.23,Robotics Arm,1
+Krishna Naidu,"Embedded Systems, Python, Machine Learning, MATLAB, C Programming",3,7.64,Signal Analyzer,1
+Vikram Naidu,"Embedded Systems, Python, Machine Learning, Verilog, IoT",4.8,9.46,Signal Analyzer,1
+Aditya Kumar,"Embedded Systems, Python, Machine Learning, Signal Processing, PCB Design",2,8.51,FPGA Based Design,1
+Aarav Naidu,"Embedded Systems, Python, Machine Learning, VLSI Design, IoT",3,8.2,Wireless Communication Model,1
+Aditya Kumar,"Embedded Systems, Python, Machine Learning, Verilog, IoT",4.3,7.98,Signal Analyzer,1
+Arjun Iyer,"Embedded Systems, Python, Machine Learning, C Programming, IoT",1.2,8.8,Image Processing System,1
+Vihaan Reddy,"Embedded Systems, Python, Machine Learning, Signal Processing, PCB Design",4.6,8.28,Image Processing System,1
+Vihaan Naidu,"Embedded Systems, Python, Machine Learning, IoT, C Programming",2.9,9.91,AI Based Fault Detection,1
+Kiran Singh,"Embedded Systems, Python, Machine Learning, C Programming, PCB Design",4.8,8.21,Image Processing System,1
+Vikram Verma,"Embedded Systems, Python, Machine Learning, VLSI Design, PCB Design",3.2,8.92,Smart Home Automation,1
+Aarav Verma,"Embedded Systems, Python, Machine Learning, MATLAB, Verilog",2.7,9.72,Signal Analyzer,1
+Arjun Gupta,"Embedded Systems, Python, Machine Learning, MATLAB, VLSI Design",4,9.91,Image Processing System,1
+Rahul Patel,"Embedded Systems, Python, Machine Learning, Verilog, PCB Design",2.7,8.52,Robotics Arm,1
+Krishna Patel,"Embedded Systems, Python, Machine Learning, C Programming, MATLAB",2.5,9.34,Smart Home Automation,1
+Aditya Reddy,"Embedded Systems, Python, Machine Learning, VLSI Design, IoT",1.8,8.21,IoT Weather Station,1
+Aarav Kumar,"Embedded Systems, Python, Machine Learning, IoT, Verilog",4.5,8.74,Wireless Communication Model,1
+Vihaan Iyer,"Embedded Systems, Python, Machine Learning, VLSI Design, MATLAB",1.8,9.04,Signal Analyzer,1
+Rahul Iyer,"Embedded Systems, Python, Machine Learning, VLSI Design, IoT",1.7,9.84,AI Based Fault Detection,1
+Aditya Patel,"Embedded Systems, Python, Machine Learning, VLSI Design, MATLAB",1.3,8.78,Robotics Arm,1
+Aarav Yadav,"Embedded Systems, Python, Machine Learning, Signal Processing, MATLAB",1.3,9.38,Robotics Arm,1
+Aditya Verma,"Embedded Systems, Python, Machine Learning, Verilog, C Programming",1.2,9.62,Image Processing System,1
+Vikram Gupta,"Embedded Systems, Python, Machine Learning, Verilog, IoT",2.3,7.57,Signal Analyzer,1
+Krishna Reddy,"Embedded Systems, Python, Machine Learning, Verilog, Signal Processing",2.4,8.05,Smart Home Automation,1
+Rohan Verma,"Embedded Systems, Python, Machine Learning, VLSI Design, C Programming",4.9,7.75,FPGA Based Design,1
+Krishna Sharma,"Embedded Systems, Python, Machine Learning, MATLAB, PCB Design",1.4,9.09,Wireless Communication Model,1
+Aarav Yadav,"Embedded Systems, Python, Machine Learning, C Programming, Signal Processing",1.1,8.56,AI Based Fault Detection,1
+Aditya Kumar,"Embedded Systems, Python, Machine Learning, VLSI Design, IoT",2.1,8.63,FPGA Based Design,1
+Aarav Singh,"Embedded Systems, Python, Machine Learning, C Programming, VLSI Design",2.8,8.87,Robotics Arm,1
+Vihaan Sharma,"Embedded Systems, Python, Machine Learning, Signal Processing, MATLAB",2.3,9.97,Robotics Arm,1
+Sai Iyer,"Embedded Systems, Python, Machine Learning, VLSI Design, MATLAB",4.2,8.47,Signal Analyzer,1
+Rohan Reddy,"Embedded Systems, Python, Machine Learning, IoT, Verilog",3.9,8.16,Wireless Communication Model,1
+Aarav Sharma,"Embedded Systems, Python, Machine Learning, Signal Processing, IoT",1.7,8.29,FPGA Based Design,1
+Krishna Reddy,"Embedded Systems, Python, Machine Learning, VLSI Design, C Programming",4.7,7.7,Signal Analyzer,1
+Rahul Sharma,"Embedded Systems, Python, Machine Learning, Verilog, C Programming",1,9.28,Wireless Communication Model,1
+Krishna Kumar,"Embedded Systems, Python, Machine Learning, Signal Processing, C Programming",2.2,8.23,Smart Home Automation,1
+Krishna Yadav,"Embedded Systems, Python, Machine Learning, PCB Design, C Programming",4.8,7.91,IoT Weather Station,1
+Sai Naidu,"Embedded Systems, Python, Machine Learning, Verilog, PCB Design",3.9,8.87,Image Processing System,1
+Vikram Naidu,"Embedded Systems, Python, Machine Learning, Signal Processing, IoT",3.4,8.65,FPGA Based Design,1
+Aditya Iyer,"Embedded Systems, Python, Machine Learning, Verilog, IoT",2.2,9.83,Image Processing System,1
+Vihaan Sharma,"Embedded Systems, Python, Machine Learning, IoT, PCB Design",4.1,7.66,Smart Home Automation,1
+Kiran Gupta,"Embedded Systems, Python, Machine Learning, VLSI Design, C Programming",2.4,7.68,Signal Analyzer,1
+Rohan Gupta,"Embedded Systems, Python, Machine Learning, IoT, Signal Processing",1.3,8.77,Signal Analyzer,1
+Arjun Yadav,"Embedded Systems, Python, Machine Learning, PCB Design, C Programming",4,9.38,Image Processing System,1
+Sai Singh,"Embedded Systems, Python, Machine Learning, VLSI Design, Signal Processing",4.9,9.04,Wireless Communication Model,1
+Krishna Naidu,"Embedded Systems, Python, Machine Learning, C Programming, PCB Design",4.4,9.08,Wireless Communication Model,1
+Kiran Singh,"Embedded Systems, Python, Machine Learning, IoT, MATLAB",2.6,9.76,Wireless Communication Model,1
+Sai Gupta,"Embedded Systems, Python, Machine Learning, MATLAB, Signal Processing",2.2,7.73,FPGA Based Design,1
+Vihaan Patel,"Embedded Systems, Python, Machine Learning, IoT, PCB Design",4.5,9.03,Smart Home Automation,1
+Vikram Reddy,"Embedded Systems, Python, Machine Learning, IoT, PCB Design",4.6,9.71,IoT Weather Station,1
+Krishna Gupta,"Embedded Systems, Python, Machine Learning, Signal Processing, VLSI Design",2.2,9.18,Smart Home Automation,1
+Krishna Sharma,"Embedded Systems, Python, Machine Learning, Signal Processing, PCB Design",4.7,9.8,FPGA Based Design,1
+Aditya Sharma,"Embedded Systems, Python, Machine Learning, VLSI Design, MATLAB",3.7,9.37,FPGA Based Design,1
+Aditya Sharma,"Embedded Systems, Python, Machine Learning, Verilog, VLSI Design",2.7,9.37,FPGA Based Design,1
+Rahul Patel,"Embedded Systems, Python, Machine Learning, PCB Design, Verilog",3.3,9.77,Image Processing System,1
+Aditya Gupta,"Embedded Systems, Python, Machine Learning, VLSI Design, PCB Design",2.8,9.31,Wireless Communication Model,1
+Sai Singh,"Embedded Systems, Python, Machine Learning, VLSI Design, IoT",1.7,8.12,IoT Weather Station,1
+Aditya Yadav,"Embedded Systems, Python, Machine Learning, Verilog, Signal Processing",2.5,8.89,Wireless Communication Model,1
+Arjun Iyer,"Embedded Systems, Python, Machine Learning, VLSI Design, Signal Processing",4.6,9,IoT Weather Station,1
+Krishna Singh,"Embedded Systems, Python, Machine Learning, VLSI Design, IoT",3.6,8.16,Robotics Arm,1
+Aarav Verma,"Embedded Systems, Python, Machine Learning, Verilog, Signal Processing",3.4,9.21,Smart Home Automation,1
+Vihaan Yadav,"Embedded Systems, Python, Machine Learning, VLSI Design, MATLAB",4.1,7.97,FPGA Based Design,1
+Krishna Singh,"Embedded Systems, Python, Machine Learning, C Programming, IoT",2.9,8.42,Signal Analyzer,1
+Aarav Gupta,"Embedded Systems, Python, Machine Learning, PCB Design, Signal Processing",3,9.15,AI Based Fault Detection,1
+Aarav Sharma,"Embedded Systems, Python, Machine Learning, Signal Processing, MATLAB",2.1,7.67,Wireless Communication Model,1
+Aditya Patel,"Embedded Systems, Python, Machine Learning, VLSI Design, IoT",2.1,9.83,IoT Weather Station,1
+Rohan Iyer,"Embedded Systems, Python, Machine Learning, IoT, PCB Design",4.3,8.72,FPGA Based Design,1
+Arjun Iyer,"Embedded Systems, Python, Machine Learning, MATLAB, Verilog",2.4,9.86,Robotics Arm,1
+Kiran Gupta,"Embedded Systems, Python, Machine Learning, C Programming, Verilog",4.8,9.86,AI Based Fault Detection,1
+Krishna Gupta,"Embedded Systems, Python, Machine Learning, Verilog, VLSI Design",3.3,9.63,IoT Weather Station,1
+Vikram Singh,"Embedded Systems, Python, Machine Learning, Signal Processing, MATLAB",3.7,7.76,Robotics Arm,1
+Kiran Yadav,"Embedded Systems, Python, Machine Learning, MATLAB, C Programming",4.9,8.44,AI Based Fault Detection,1
+Rohan Naidu,"Embedded Systems, Python, Machine Learning, Signal Processing, IoT",1.8,8.33,IoT Weather Station,1
+Vikram Gupta,"Embedded Systems, Python, Machine Learning, IoT, Signal Processing",1.3,9.19,Image Processing System,1
+Krishna Iyer,"Embedded Systems, Python, Machine Learning, VLSI Design, PCB Design",1.5,8.46,IoT Weather Station,1
+Vihaan Gupta,"Embedded Systems, Python, Machine Learning, PCB Design, Verilog",4.7,7.9,Wireless Communication Model,1
+Rahul Patel,"Embedded Systems, Python, Machine Learning, MATLAB, VLSI Design",3,8.28,Signal Analyzer,1
+Sai Patel,"Embedded Systems, Python, Machine Learning, Verilog, C Programming",3.3,9.19,Wireless Communication Model,1
+Sai Verma,"Embedded Systems, Python, Machine Learning, Verilog, MATLAB",4.6,9.09,Signal Analyzer,1
+Aarav Verma,"Embedded Systems, Python, Machine Learning, C Programming, Signal Processing",4.2,9.6,FPGA Based Design,1
+Krishna Yadav,"Embedded Systems, Python, Machine Learning, Signal Processing, IoT",1.6,7.81,Signal Analyzer,1
+Sai Kumar,"Embedded Systems, Python, Machine Learning, Signal Processing, VLSI Design",1.5,8.94,Smart Home Automation,1
+Aarav Gupta,"Embedded Systems, Python, Machine Learning, VLSI Design, PCB Design",3,8.09,Image Processing System,1
+Arjun Yadav,"Embedded Systems, Python, Machine Learning, Verilog, MATLAB",3.4,8.97,IoT Weather Station,1
+Sai Patel,"Embedded Systems, Python, Machine Learning, C Programming, IoT",4.3,7.69,Smart Home Automation,1
+Aarav Yadav,"Embedded Systems, Python, Machine Learning, Signal Processing, VLSI Design",3.6,7.71,Image Processing System,1
+Arjun Naidu,"Embedded Systems, Python, Machine Learning, VLSI Design, Verilog",2.3,9.76,Wireless Communication Model,1
+Krishna Singh,"Embedded Systems, Python, Machine Learning, MATLAB, PCB Design",3.4,9.02,FPGA Based Design,1
+Vikram Sharma,"Embedded Systems, Python, Machine Learning, PCB Design, C Programming",3.8,8.29,Robotics Arm,1
+Vikram Sharma,"Embedded Systems, Python, Machine Learning, PCB Design, VLSI Design",1.6,8.75,Wireless Communication Model,1
+Arjun Singh,"Embedded Systems, Python, Machine Learning, VLSI Design, Verilog",2.8,7.56,Smart Home Automation,1
+Vihaan Kumar,"Embedded Systems, Python, Machine Learning, PCB Design, MATLAB",2.7,8.25,Wireless Communication Model,1
+Rohan Reddy,"Embedded Systems, Python, Machine Learning, VLSI Design, MATLAB",4.6,8.85,Image Processing System,1
+Kiran Iyer,"Embedded Systems, Python, Machine Learning, IoT, Verilog",4.4,8.78,Robotics Arm,1
+Vihaan Sharma,"Embedded Systems, Python, Machine Learning, PCB Design, Signal Processing",1.4,9.44,Image Processing System,1
+Vikram Kumar,"Embedded Systems, Python, Machine Learning, MATLAB, IoT",4.6,8.3,Smart Home Automation,1
+Aditya Yadav,"Embedded Systems, Python, Machine Learning, MATLAB, Signal Processing",4.6,8.02,IoT Weather Station,1
+Vihaan Singh,"Embedded Systems, Python, Machine Learning, Signal Processing, PCB Design",1.3,8.49,Wireless Communication Model,1
+Vikram Reddy,"Embedded Systems, Python, Machine Learning, Verilog, MATLAB",4.2,7.76,Wireless Communication Model,1
+Kiran Iyer,"Embedded Systems, Python, Machine Learning, MATLAB, C Programming",3.4,9.5,Robotics Arm,1
+Sai Iyer,"Embedded Systems, Python, Machine Learning, Signal Processing, IoT",4.4,9.49,Robotics Arm,1
+Kiran Iyer,"Embedded Systems, Python, Machine Learning, Signal Processing, MATLAB",4.7,8.9,Signal Analyzer,1
+Rohan Gupta,"Embedded Systems, Python, Machine Learning, PCB Design, IoT",3.8,8.43,Image Processing System,1
+Vihaan Yadav,"Embedded Systems, Python, Machine Learning, VLSI Design, Signal Processing",3.8,8.29,Signal Analyzer,1
+Vihaan Singh,"Embedded Systems, Python, Machine Learning, PCB Design, Signal Processing",4.2,8.74,Image Processing System,1
+Sai Verma,"Embedded Systems, Python, Machine Learning, Verilog, VLSI Design",3.2,8.99,Smart Home Automation,1
+Rahul Verma,"Embedded Systems, Python, Machine Learning, MATLAB, Signal Processing",4.6,7.75,Robotics Arm,1
+Vikram Gupta,"Embedded Systems, Python, Machine Learning, PCB Design, IoT",4.6,9.79,Signal Analyzer,1
+Vikram Naidu,"Embedded Systems, Python, Machine Learning, MATLAB, PCB Design",2.1,9.49,IoT Weather Station,1
+Rohan Reddy,"Embedded Systems, Python, Machine Learning, Signal Processing, IoT",4.2,9.83,Robotics Arm,1
+Aarav Iyer,"Embedded Systems, Python, Machine Learning, MATLAB, IoT",2.1,9.26,Image Processing System,1
+Aditya Gupta,"Embedded Systems, Python, Machine Learning, C Programming, IoT",2.4,9.56,Robotics Arm,1
+Rahul Gupta,"Embedded Systems, Python, Machine Learning, VLSI Design, Signal Processing",2.9,8.66,Robotics Arm,1
+Aditya Verma,"Embedded Systems, Python, Machine Learning, PCB Design, IoT",3.8,7.54,IoT Weather Station,1
+Krishna Kumar,"Embedded Systems, Python, Machine Learning, IoT, MATLAB",4.5,8.85,Image Processing System,1
+Aditya Iyer,"Embedded Systems, Python, Machine Learning, IoT, Signal Processing",1.1,8.41,Wireless Communication Model,1
+Krishna Iyer,"Embedded Systems, Python, Machine Learning, Verilog, C Programming",4.4,8.24,Smart Home Automation,1
+Kiran Naidu,"Embedded Systems, Python, Machine Learning, C Programming, Verilog",2.2,9.18,Image Processing System,1
+Kiran Iyer,"Embedded Systems, Python, Machine Learning, C Programming, PCB Design",1.5,8.97,Signal Analyzer,1
+Vihaan Verma,"Embedded Systems, Python, Machine Learning, PCB Design, MATLAB",2.1,8.24,IoT Weather Station,1
+Kiran Yadav,"Embedded Systems, Python, Machine Learning, Verilog, IoT",2.4,8.49,Wireless Communication Model,1
+Rohan Yadav,"Embedded Systems, Python, Machine Learning, Signal Processing, C Programming",4.6,9.52,IoT Weather Station,1
+Vihaan Singh,"Embedded Systems, Python, Machine Learning, MATLAB, VLSI Design",2.3,8.43,IoT Weather Station,1
+Kiran Yadav,"Embedded Systems, Python, Machine Learning, VLSI Design, MATLAB",4.9,7.73,Robotics Arm,1
+Kiran Gupta,"Embedded Systems, Python, Machine Learning, IoT, PCB Design",1.9,9.65,Image Processing System,1
+Sai Kumar,"Embedded Systems, Python, Machine Learning, PCB Design, MATLAB",2,8.16,Robotics Arm,1
+Sai Iyer,"Embedded Systems, Python, Machine Learning, Verilog, VLSI Design",1.4,8.38,AI Based Fault Detection,1
+Vihaan Patel,"Embedded Systems, Python, Machine Learning, IoT, Signal Processing",4.7,7.58,Wireless Communication Model,1
+Arjun Yadav,"Embedded Systems, Python, Machine Learning, PCB Design, Signal Processing",4.9,8.34,Smart Home Automation,1
+Rahul Reddy,"Embedded Systems, Python, Machine Learning, MATLAB, VLSI Design",1.9,9.64,Image Processing System,1
+Aditya Sharma,"Embedded Systems, Python, Machine Learning, Signal Processing, PCB Design",4.1,9.45,FPGA Based Design,1
+Aditya Naidu,"Embedded Systems, Python, Machine Learning, VLSI Design, IoT",2.9,8.72,IoT Weather Station,1
+Kiran Patel,"Embedded Systems, Python, Machine Learning, Signal Processing, Verilog",1.4,7.85,FPGA Based Design,1
+Sai Iyer,"Embedded Systems, Python, Machine Learning, MATLAB, VLSI Design",1.8,9.1,Robotics Arm,1
+Aarav Reddy,"Embedded Systems, Python, Machine Learning, VLSI Design, PCB Design",2.7,9.22,Smart Home Automation,1
+Rahul Kumar,"Embedded Systems, Python, Machine Learning, IoT, MATLAB",3.2,9.45,Smart Home Automation,1
+Sai Verma,"Embedded Systems, Python, Machine Learning, MATLAB, PCB Design",1.2,8.13,FPGA Based Design,1
+Aditya Naidu,"Embedded Systems, Python, Machine Learning, Signal Processing, Verilog",4.4,7.72,Smart Home Automation,1
+Rohan Naidu,"Embedded Systems, Python, Machine Learning, MATLAB, IoT",1.3,8.23,Signal Analyzer,1
+Arjun Reddy,"Embedded Systems, Python, Machine Learning, PCB Design, MATLAB",2.7,8.14,Wireless Communication Model,1
+Kiran Verma,"Embedded Systems, Python, Machine Learning, IoT, C Programming",4.4,8.38,Wireless Communication Model,1
+Arjun Gupta,"Embedded Systems, Python, Machine Learning, VLSI Design, Signal Processing",2.5,8.47,FPGA Based Design,1
+Krishna Sharma,"Embedded Systems, Python, Machine Learning, C Programming, VLSI Design",3.5,9.2,AI Based Fault Detection,1
+Vikram Sharma,"Embedded Systems, Python, Machine Learning, C Programming, Verilog",2.7,9.56,Robotics Arm,1
+Vihaan Naidu,"Embedded Systems, Python, Machine Learning, C Programming, IoT",1.7,8.41,FPGA Based Design,1
+Rahul Gupta,"Embedded Systems, Python, Machine Learning, PCB Design, Verilog",1.5,9.46,Smart Home Automation,1
+Rahul Gupta,"Embedded Systems, Python, Machine Learning, C Programming, VLSI Design",1.3,9.22,Robotics Arm,1
+Arjun Patel,"Embedded Systems, Python, Machine Learning, PCB Design, IoT",3.6,7.65,IoT Weather Station,1
+Vihaan Singh,"Embedded Systems, Python, Machine Learning, Verilog, MATLAB",2.8,7.53,Wireless Communication Model,1
+Rahul Singh,"Embedded Systems, Python, Machine Learning, C Programming, Signal Processing",1.9,9.58,Smart Home Automation,1
+Rohan Patel,"Embedded Systems, Python, Machine Learning, Verilog, IoT",1.2,9.33,Robotics Arm,1
+Vihaan Iyer,"Embedded Systems, Python, Machine Learning, PCB Design, C Programming",1.5,9.7,Wireless Communication Model,1
+Aditya Verma,"Embedded Systems, Python, Machine Learning, C Programming, MATLAB",2.8,8.14,Smart Home Automation,1
+Arjun Naidu,"Embedded Systems, Python, Machine Learning, PCB Design, Verilog",1.2,7.57,IoT Weather Station,1
+Kiran Reddy,"Embedded Systems, Python, Machine Learning, Verilog, VLSI Design",1.1,9.42,Signal Analyzer,1
+Rohan Naidu,"Embedded Systems, Python, Machine Learning, IoT, PCB Design",5,9.09,IoT Weather Station,1
+Arjun Singh,"Embedded Systems, Python, Machine Learning, Signal Processing, IoT",1,8.98,IoT Weather Station,1
+Vihaan Gupta,"Embedded Systems, Python, Machine Learning, C Programming, Signal Processing",2.6,9.61,Smart Home Automation,1
+Vikram Yadav,"Embedded Systems, Python, Machine Learning, C Programming, MATLAB",4.6,7.64,IoT Weather Station,1
+Vihaan Naidu,"Embedded Systems, Python, Machine Learning, Verilog, IoT",4.5,9.4,Wireless Communication Model,1
+Rahul Gupta,"Embedded Systems, Python, Machine Learning, C Programming, PCB Design",3.4,8.36,Signal Analyzer,1
+Krishna Naidu,"Embedded Systems, Python, Machine Learning, Verilog, IoT",4.1,9.65,IoT Weather Station,1
+Kiran Iyer,"Embedded Systems, Python, Machine Learning, Verilog, Signal Processing",3.9,7.96,Signal Analyzer,1
+Krishna Iyer,"Embedded Systems, Python, Machine Learning, Verilog, VLSI Design",1.2,7.81,IoT Weather Station,1
+Vikram Reddy,"Embedded Systems, Python, Machine Learning, Verilog, VLSI Design",1.3,8.42,Smart Home Automation,1
+Aditya Yadav,"Embedded Systems, Python, Machine Learning, Signal Processing, PCB Design",4,7.6,IoT Weather Station,1
+Aditya Singh,"Embedded Systems, Python, Machine Learning, C Programming, PCB Design",5,8.14,Smart Home Automation,1
+Kiran Reddy,"Embedded Systems, Python, Machine Learning, VLSI Design, IoT",2.2,8.09,AI Based Fault Detection,1
+Aditya Iyer,"Embedded Systems, Python, Machine Learning, PCB Design, Verilog",2.8,9.71,Smart Home Automation,1
+Rahul Reddy,"Embedded Systems, Python, Machine Learning, MATLAB, VLSI Design",1,9.3,Wireless Communication Model,1
+Rahul Singh,"Embedded Systems, Python, Machine Learning, IoT, VLSI Design",3.4,9.64,Image Processing System,1
+Krishna Sharma,"Embedded Systems, Python, Machine Learning, PCB Design, Verilog",2.8,8.37,Image Processing System,1
+Rohan Sharma,"Embedded Systems, Python, Machine Learning, IoT, PCB Design",3,8.14,FPGA Based Design,1
+Vikram Verma,"Embedded Systems, Python, Machine Learning, PCB Design, MATLAB",2.3,8.15,Robotics Arm,1
+Rahul Singh,"Embedded Systems, Python, Machine Learning, Signal Processing, VLSI Design",3.1,9.34,IoT Weather Station,1
+Rahul Kumar,"Embedded Systems, Python, Machine Learning, Signal Processing, PCB Design",4.8,8.84,Image Processing System,1
+Vikram Patel,"Embedded Systems, Python, Machine Learning, C Programming, IoT",1.4,8.25,Smart Home Automation,1
+Vikram Iyer,"Embedded Systems, Python, Machine Learning, PCB Design, C Programming",3.2,8.96,IoT Weather Station,1
+Rohan Patel,"Embedded Systems, Python, Machine Learning, VLSI Design, PCB Design",3.8,7.99,FPGA Based Design,1
+Vihaan Verma,"Embedded Systems, Python, Machine Learning, Verilog, Signal Processing",3.6,8.78,Image Processing System,1
+Rohan Sharma,"Embedded Systems, Python, Machine Learning, VLSI Design, C Programming",2.4,9.27,AI Based Fault Detection,1
+Vihaan Singh,"Embedded Systems, Python, Machine Learning, PCB Design, Signal Processing",4,8.91,Robotics Arm,1
+Vikram Yadav,"Embedded Systems, Python, Machine Learning, PCB Design, MATLAB",3.4,9.79,AI Based Fault Detection,1
+Kiran Verma,"Embedded Systems, Python, Machine Learning, VLSI Design, Verilog",2.2,8.39,Wireless Communication Model,1
+Rahul Kumar,"Embedded Systems, Python, Machine Learning, MATLAB, PCB Design",2.1,8.67,AI Based Fault Detection,1
+Vikram Naidu,"Embedded Systems, Python, Machine Learning, VLSI Design, Verilog",2.5,9.94,Robotics Arm,1
+Aditya Sharma,"Embedded Systems, Python, Machine Learning, C Programming, PCB Design",4.1,9.74,Signal Analyzer,1
+Arjun Reddy,"Embedded Systems, Python, Machine Learning, IoT, C Programming",2.6,9.86,FPGA Based Design,1
+Vihaan Kumar,"Embedded Systems, Python, Machine Learning, MATLAB, IoT",3.5,8.52,Robotics Arm,1
+Vikram Kumar,"Embedded Systems, Python, Machine Learning, VLSI Design, PCB Design",3.3,8.93,AI Based Fault Detection,1
+Vihaan Reddy,"Embedded Systems, Python, Machine Learning, Verilog, VLSI Design",1.4,9.51,Image Processing System,1
+Rohan Iyer,"Embedded Systems, Python, Machine Learning, IoT, Signal Processing",3.7,9.43,Robotics Arm,1
+Vihaan Gupta,"Embedded Systems, Python, Machine Learning, PCB Design, IoT",1.7,8.84,Smart Home Automation,1
+Kiran Sharma,"Embedded Systems, Python, Machine Learning, PCB Design, Signal Processing",1.4,8.08,Robotics Arm,1
+Vikram Patel,"Embedded Systems, Python, Machine Learning, IoT, VLSI Design",2.1,8.46,Wireless Communication Model,1
+Arjun Patel,"Embedded Systems, Python, Machine Learning, IoT, VLSI Design",3.5,7.93,Robotics Arm,1
+Krishna Singh,"Embedded Systems, Python, Machine Learning, Verilog, Signal Processing",1.3,9.67,Robotics Arm,1
+Rahul Verma,"Embedded Systems, Python, Machine Learning, C Programming, MATLAB",2.6,7.93,FPGA Based Design,1
+Rahul Verma,"Embedded Systems, Python, Machine Learning, MATLAB, VLSI Design",4.4,8.3,AI Based Fault Detection,1
+Sai Naidu,"Embedded Systems, Python, Machine Learning, Signal Processing, C Programming",2.9,8.88,IoT Weather Station,1
+Aarav Gupta,"Embedded Systems, Python, Machine Learning, PCB Design, C Programming",2.9,9.15,Robotics Arm,1
+Sai Patel,"Embedded Systems, Python, Machine Learning, C Programming, PCB Design",2.2,8.31,Robotics Arm,1
+Rahul Iyer,"Embedded Systems, Python, Machine Learning, C Programming, MATLAB",1.1,8.88,Image Processing System,1
+Vihaan Verma,"Embedded Systems, Python, Machine Learning, PCB Design, IoT",1.9,9.41,Image Processing System,1
+Aarav Patel,"Embedded Systems, Python, Machine Learning, Verilog, C Programming",2.8,8.59,AI Based Fault Detection,1
+Aarav Naidu,"Embedded Systems, Python, Machine Learning, MATLAB, Signal Processing",3.3,8.01,Smart Home Automation,1
+Arjun Reddy,"Embedded Systems, Python, Machine Learning, Verilog, Signal Processing",4.2,8.49,Wireless Communication Model,1
+Rohan Naidu,"Embedded Systems, Python, Machine Learning, Signal Processing, VLSI Design",1.8,8.59,AI Based Fault Detection,1
+Kiran Singh,"Embedded Systems, Python, Machine Learning, IoT, Signal Processing",3.8,8.12,Robotics Arm,1
+Rahul Sharma,"Embedded Systems, Python, Machine Learning, MATLAB, Signal Processing",1.1,9.83,FPGA Based Design,1
+Aarav Patel,"Embedded Systems, Python, Machine Learning, Verilog, MATLAB",2.8,7.83,Robotics Arm,1
+Rahul Patel,"Embedded Systems, Python, Machine Learning, PCB Design, Signal Processing",3.1,9.48,Signal Analyzer,1
+Rahul Singh,"Embedded Systems, Python, Machine Learning, IoT, C Programming",3.8,9.5,Smart Home Automation,1
+Vikram Patel,"Embedded Systems, Python, Machine Learning, Verilog, MATLAB",1.9,8.8,Signal Analyzer,1
+Kiran Gupta,"Embedded Systems, Python, Machine Learning, IoT, Verilog",3.1,8.77,IoT Weather Station,1
+Arjun Naidu,"Embedded Systems, Python, Machine Learning, PCB Design, Verilog",2.7,8.32,Signal Analyzer,1
+Krishna Singh,"Embedded Systems, Python, Machine Learning, VLSI Design, PCB Design",2,9.59,FPGA Based Design,1
+Aarav Gupta,"Embedded Systems, Python, Machine Learning, Signal Processing, IoT",4,9.9,Smart Home Automation,1
+Arjun Naidu,"Embedded Systems, Python, Machine Learning, Verilog, MATLAB",1.2,9.55,AI Based Fault Detection,1
+Rohan Sharma,"Embedded Systems, Python, Machine Learning, VLSI Design, Verilog",4.6,8.13,Image Processing System,1
+Krishna Verma,"Embedded Systems, Python, Machine Learning, Verilog, IoT",3.1,7.83,Image Processing System,1
+Aditya Yadav,"Embedded Systems, Python, Machine Learning, Verilog, PCB Design",3.6,9.87,FPGA Based Design,1
+Aditya Iyer,"Embedded Systems, Python, Machine Learning, Verilog, MATLAB",2.1,7.89,FPGA Based Design,1
+Arjun Reddy,"Embedded Systems, Python, Machine Learning, Verilog, Signal Processing",3.4,9.34,AI Based Fault Detection,1
+Aarav Kumar,"Embedded Systems, Python, Machine Learning, C Programming, VLSI Design",2.2,9.91,Robotics Arm,1
+Sai Verma,"Embedded Systems, Python, Machine Learning, C Programming, MATLAB",4.6,8.76,Wireless Communication Model,1
+Sai Kumar,"Embedded Systems, Python, Machine Learning, Signal Processing, Verilog",1.4,7.59,FPGA Based Design,1
+Arjun Reddy,"Embedded Systems, Python, Machine Learning, PCB Design, C Programming",2.9,8.06,AI Based Fault Detection,1
+Arjun Naidu,"Embedded Systems, Python, Machine Learning, MATLAB, IoT",3.9,9.81,Image Processing System,1
+Rohan Patel,"Embedded Systems, Python, Machine Learning, C Programming, Signal Processing",2.5,7.56,Robotics Arm,1
+Rahul Verma,"Embedded Systems, Python, Machine Learning, MATLAB, Signal Processing",3.3,9.06,Image Processing System,1
+Aarav Iyer,"Embedded Systems, Python, Machine Learning, IoT, Verilog",2,8.13,Signal Analyzer,1
+Sai Gupta,"Embedded Systems, Python, Machine Learning, IoT, C Programming",4.6,7.9,Image Processing System,1
+Aditya Singh,"Embedded Systems, Python, Machine Learning, MATLAB, VLSI Design",4.4,8.21,Image Processing System,1
+Krishna Yadav,"Embedded Systems, Python, Machine Learning, VLSI Design, Signal Processing",4.7,8.64,Robotics Arm,1
+Rahul Naidu,"Embedded Systems, Python, Machine Learning, VLSI Design, IoT",4.8,8.17,Image Processing System,1
+Rahul Patel,"Embedded Systems, Python, Machine Learning, PCB Design, VLSI Design",2.3,8.51,Smart Home Automation,1
+Krishna Yadav,"Embedded Systems, Python, Machine Learning, IoT, C Programming",4.1,7.76,Wireless Communication Model,1
+Vikram Kumar,"Embedded Systems, Python, Machine Learning, VLSI Design, PCB Design",3.3,9.34,IoT Weather Station,1
+Vihaan Patel,"Embedded Systems, Python, Machine Learning, Verilog, IoT",2.8,7.91,IoT Weather Station,1
+Aarav Singh,"Embedded Systems, Python, Machine Learning, C Programming, VLSI Design",4.7,9.88,Wireless Communication Model,1
+Aditya Naidu,"Embedded Systems, Python, Machine Learning, Signal Processing, C Programming",4.8,9,FPGA Based Design,1
+Kiran Kumar,"Embedded Systems, Python, Machine Learning, VLSI Design, Signal Processing",2.2,8.25,Smart Home Automation,1
+Rohan Reddy,"Embedded Systems, Python, Machine Learning, VLSI Design, IoT",1.7,8.52,Robotics Arm,1
+Rahul Sharma,"Embedded Systems, Python, Machine Learning, VLSI Design, Verilog",2.9,8.97,Robotics Arm,1
+Rahul Gupta,"Embedded Systems, Python, Machine Learning, IoT, PCB Design",1.1,9.53,IoT Weather Station,1
+Kiran Naidu,"Embedded Systems, Python, Machine Learning, Verilog, VLSI Design",4.1,9.81,Robotics Arm,1
+Krishna Verma,"Embedded Systems, Python, Machine Learning, PCB Design, C Programming",4.2,8.42,IoT Weather Station,1
+Rahul Kumar,"Embedded Systems, Python, Machine Learning, VLSI Design, Verilog",3.7,8.6,Robotics Arm,1
+Rohan Singh,"Embedded Systems, Python, Machine Learning, VLSI Design, C Programming",1.7,9.03,Signal Analyzer,1
+Sai Gupta,"Embedded Systems, Python, Machine Learning, C Programming, MATLAB",1.1,7.82,AI Based Fault Detection,1
+Arjun Verma,"Embedded Systems, Python, Machine Learning, IoT, PCB Design",1.9,7.87,Image Processing System,1
+Aarav Kumar,"Embedded Systems, Python, Machine Learning, PCB Design, MATLAB",1,9.92,Robotics Arm,1
+Rohan Sharma,"Embedded Systems, Python, Machine Learning, MATLAB, VLSI Design",3.6,7.51,Wireless Communication Model,1
+Aditya Reddy,"Embedded Systems, Python, Machine Learning, IoT, VLSI Design",3.6,8.06,AI Based Fault Detection,1
+Rahul Yadav,"Embedded Systems, Python, Machine Learning, Verilog, Signal Processing",2.3,7.77,Image Processing System,1
+Vihaan Yadav,"Embedded Systems, Python, Machine Learning, Verilog, MATLAB",2.2,9.83,FPGA Based Design,1
+Arjun Verma,"Embedded Systems, Python, Machine Learning, MATLAB, PCB Design",1.8,9.76,FPGA Based Design,1
+Vikram Gupta,"Embedded Systems, Python, Machine Learning, MATLAB, IoT",1.4,9.23,IoT Weather Station,1
+Vikram Kumar,"Embedded Systems, Python, Machine Learning, PCB Design, C Programming",2.3,9.04,Signal Analyzer,1
+Aarav Sharma,"Embedded Systems, Python, Machine Learning, Verilog, C Programming",3,9.2,Robotics Arm,1
+Kiran Singh,"Embedded Systems, Python, Machine Learning, C Programming, VLSI Design",3,8.3,Smart Home Automation,1
+Rahul Gupta,"Embedded Systems, Python, Machine Learning, MATLAB, Signal Processing",3.5,7.75,Smart Home Automation,1
+Arjun Kumar,"Embedded Systems, Python, Machine Learning, PCB Design, Signal Processing",3,8.56,IoT Weather Station,1
+Vikram Kumar,"Embedded Systems, Python, Machine Learning, MATLAB, Verilog",2.9,9.36,Robotics Arm,1
+Kiran Gupta,"Embedded Systems, Python, Machine Learning, C Programming, PCB Design",4.4,8.86,FPGA Based Design,1
+Kiran Sharma,"Embedded Systems, Python, Machine Learning, VLSI Design, Signal Processing",4.6,7.84,Signal Analyzer,1
+Sai Iyer,"Embedded Systems, Python, Machine Learning, IoT, MATLAB",3,8.67,Signal Analyzer,1
+Krishna Kumar,"Embedded Systems, Python, Machine Learning, Signal Processing, C Programming",4.6,8.66,AI Based Fault Detection,1
+Vikram Reddy,"Embedded Systems, Python, Machine Learning, Signal Processing, Verilog",2.1,9.2,Image Processing System,1
+Vikram Verma,"Embedded Systems, Python, Machine Learning, VLSI Design, IoT",3.7,9.97,Signal Analyzer,1
+Rahul Iyer,"Embedded Systems, Python, Machine Learning, Verilog, MATLAB",1.4,7.94,Smart Home Automation,1
+Aarav Sharma,"Embedded Systems, Python, Machine Learning, IoT, Verilog",1.7,8.97,Robotics Arm,1
+Sai Kumar,"Embedded Systems, Python, Machine Learning, VLSI Design, Verilog",2.6,8.02,Signal Analyzer,1
+Vihaan Iyer,"Embedded Systems, Python, Machine Learning, Signal Processing, VLSI Design",2.7,9.73,FPGA Based Design,1
+Rahul Reddy,"Embedded Systems, Python, Machine Learning, VLSI Design, MATLAB",4.9,9.51,IoT Weather Station,1
+Sai Naidu,"Embedded Systems, Python, Machine Learning, Signal Processing, IoT",4.5,8.43,AI Based Fault Detection,1
+Arjun Verma,"Embedded Systems, Python, Machine Learning, Verilog, Signal Processing",4.1,8.75,Wireless Communication Model,1
+Sai Yadav,"Embedded Systems, Python, Machine Learning, VLSI Design, Verilog",1,9.05,Wireless Communication Model,1
+Aarav Sharma,"Embedded Systems, Python, Machine Learning, IoT, PCB Design",3.3,8.61,IoT Weather Station,1
+Sai Reddy,"Embedded Systems, Python, Machine Learning, Signal Processing, VLSI Design",2,7.98,AI Based Fault Detection,1
+Sai Patel,"Embedded Systems, Python, Machine Learning, C Programming, IoT",2.7,9.08,Wireless Communication Model,1
+Kiran Gupta,"Embedded Systems, Python, Machine Learning, Verilog, Signal Processing",1.4,9.02,Image Processing System,1
+Vihaan Patel,"Embedded Systems, Python, Machine Learning, MATLAB, PCB Design",3.5,7.99,Signal Analyzer,1
+Kiran Patel,"Embedded Systems, Python, Machine Learning, C Programming, Signal Processing",2.4,8.16,Signal Analyzer,1
+Aditya Reddy,"Embedded Systems, Python, Machine Learning, MATLAB, VLSI Design",1.3,8.62,Robotics Arm,1
+Arjun Kumar,"Embedded Systems, Python, Machine Learning, PCB Design, Verilog",3.9,7.58,AI Based Fault Detection,1
+Aditya Naidu,"Embedded Systems, Python, Machine Learning, Signal Processing, PCB Design",3.9,9.12,Image Processing System,1
+Arjun Sharma,"Embedded Systems, Python, Machine Learning, C Programming, PCB Design",3.3,7.53,Smart Home Automation,1
+Arjun Reddy,"Embedded Systems, Python, Machine Learning, VLSI Design, Verilog",4.2,7.58,Robotics Arm,1
+Krishna Patel,"Embedded Systems, Python, Machine Learning, C Programming, PCB Design",3,9.64,AI Based Fault Detection,1
+Vikram Naidu,"Embedded Systems, Python, Machine Learning, VLSI Design, PCB Design",1.6,9.09,FPGA Based Design,1
+Vikram Patel,"Embedded Systems, Python, Machine Learning, IoT, MATLAB",3.9,7.58,Signal Analyzer,1
+Rohan Gupta,"Embedded Systems, Python, Machine Learning, MATLAB, Signal Processing",1.4,9.31,IoT Weather Station,1
+Aditya Sharma,"Embedded Systems, Python, Machine Learning, VLSI Design, PCB Design",1.3,8.33,FPGA Based Design,1
+Rahul Iyer,"Embedded Systems, Python, Machine Learning, Signal Processing, C Programming",1.7,8.77,IoT Weather Station,1
+Sai Kumar,"Embedded Systems, Python, Machine Learning, C Programming, Signal Processing",3.1,8.66,Image Processing System,1
+Vihaan Verma,"Embedded Systems, Python, Machine Learning, MATLAB, IoT",2.8,9.75,IoT Weather Station,1
+Rohan Reddy,"Embedded Systems, Python, Machine Learning, Signal Processing, MATLAB",2.3,9.53,Wireless Communication Model,1
+Vihaan Patel,"Embedded Systems, Python, Machine Learning, C Programming, VLSI Design",1.5,7.95,Wireless Communication Model,1
+Krishna Reddy,"Embedded Systems, Python, Machine Learning, Signal Processing, C Programming",4.4,9.44,IoT Weather Station,1
+Kiran Reddy,"Embedded Systems, Python, Machine Learning, PCB Design, IoT",3.6,8.55,Wireless Communication Model,1
+Arjun Kumar,"Embedded Systems, Python, Machine Learning, MATLAB, IoT",2.7,9.52,AI Based Fault Detection,1
+Kiran Patel,"Embedded Systems, Python, Machine Learning, IoT, MATLAB",4.3,7.65,Smart Home Automation,1
+Vikram Yadav,"Embedded Systems, Python, Machine Learning, IoT, VLSI Design",4.2,8.19,AI Based Fault Detection,1
+Aditya Naidu,"Embedded Systems, Python, Machine Learning, PCB Design, C Programming",3.4,7.61,Image Processing System,1
+Sai Patel,"Embedded Systems, Python, Machine Learning, PCB Design, Verilog",1.7,8.79,IoT Weather Station,1
+Aditya Kumar,"Embedded Systems, Python, Machine Learning, Signal Processing, C Programming",2.2,9.77,IoT Weather Station,1
+Aarav Kumar,"Embedded Systems, Python, Machine Learning, PCB Design, VLSI Design",4.1,9.01,Signal Analyzer,1
+Aarav Patel,"Embedded Systems, Python, Machine Learning, C Programming, MATLAB",1.8,9.95,Image Processing System,1
+Aarav Sharma,"Embedded Systems, Python, Machine Learning, VLSI Design, PCB Design",2,9.94,IoT Weather Station,1
+Krishna Reddy,"Embedded Systems, Python, Machine Learning, VLSI Design, C Programming",2.2,9.74,IoT Weather Station,1
+Vikram Kumar,"Embedded Systems, Python, Machine Learning, Verilog, C Programming",2,9.53,Signal Analyzer,1
+Vikram Reddy,"Embedded Systems, Python, Machine Learning, Verilog, PCB Design",4.4,7.73,Robotics Arm,1
+Vikram Sharma,"Embedded Systems, Python, Machine Learning, PCB Design, Verilog",2.5,8.85,Smart Home Automation,1
+Krishna Gupta,"Embedded Systems, Python, Machine Learning, PCB Design, C Programming",4.3,7.89,Smart Home Automation,1
+Rohan Iyer,"Embedded Systems, Python, Machine Learning, C Programming, PCB Design",2.5,8.61,IoT Weather Station,1
+Kiran Kumar,"Embedded Systems, Python, Machine Learning, PCB Design, VLSI Design",2.9,9.51,Signal Analyzer,1
+Aditya Yadav,"Embedded Systems, Python, Machine Learning, C Programming, MATLAB",4.2,8.57,Image Processing System,1
+Aarav Reddy,"Embedded Systems, Python, Machine Learning, Verilog, C Programming",3.9,8.59,Smart Home Automation,1
+Aditya Reddy,"Embedded Systems, Python, Machine Learning, Signal Processing, VLSI Design",3,8.06,Robotics Arm,1
+Vihaan Iyer,"Embedded Systems, Python, Machine Learning, IoT, PCB Design",3.5,8.51,Signal Analyzer,1
+Vikram Kumar,"Embedded Systems, Python, Machine Learning, Verilog, MATLAB",4.6,8.76,AI Based Fault Detection,1
+Vihaan Gupta,"Embedded Systems, Python, Machine Learning, Verilog, PCB Design",4.5,8.7,Wireless Communication Model,1
+Rohan Gupta,"Embedded Systems, Python, Machine Learning, Verilog, Signal Processing",2.5,8.05,Wireless Communication Model,1
+Rahul Gupta,"Embedded Systems, Python, Machine Learning, PCB Design, Signal Processing",2.1,8.71,Robotics Arm,1
+Aarav Naidu,"Embedded Systems, Python, Machine Learning, C Programming, MATLAB",2.2,8.66,Robotics Arm,1
+Rahul Naidu,"Embedded Systems, Python, Machine Learning, VLSI Design, C Programming",2.9,9.74,FPGA Based Design,1
+Rahul Gupta,"Embedded Systems, Python, Machine Learning, IoT, C Programming",4.2,8.46,Robotics Arm,1
+Arjun Gupta,"Embedded Systems, Python, Machine Learning, MATLAB, VLSI Design",1.3,7.64,Signal Analyzer,1
+Kiran Gupta,"Embedded Systems, Python, Machine Learning, MATLAB, VLSI Design",3.4,9.19,Image Processing System,1
+Aditya Iyer,"Embedded Systems, Python, Machine Learning, Verilog, C Programming",3.1,7.81,FPGA Based Design,1
+Arjun Yadav,"Embedded Systems, Python, Machine Learning, Signal Processing, Verilog",1.2,7.56,FPGA Based Design,1
+Sai Iyer,"Embedded Systems, Python, Machine Learning, MATLAB, PCB Design",1.3,7.53,FPGA Based Design,1
+Krishna Sharma,"Embedded Systems, Python, Machine Learning, IoT, C Programming",1.3,9.29,FPGA Based Design,1
+Vihaan Reddy,"Embedded Systems, Python, Machine Learning, VLSI Design, IoT",2.3,9.25,Robotics Arm,1
+Krishna Verma,"Embedded Systems, Python, Machine Learning, Signal Processing, PCB Design",2.3,8.7,Wireless Communication Model,1
+Aarav Singh,"Embedded Systems, Python, Machine Learning, VLSI Design, IoT",1.7,7.5,Robotics Arm,1
+Kiran Patel,"Embedded Systems, Python, Machine Learning, Signal Processing, IoT",3.7,8.29,FPGA Based Design,1
+Krishna Singh,"Embedded Systems, Python, Machine Learning, PCB Design, VLSI Design",1.1,9.1,Signal Analyzer,1
+Aditya Gupta,"Embedded Systems, Python, Machine Learning, VLSI Design, Verilog",3.6,9.39,Robotics Arm,1
+Aarav Kumar,"Embedded Systems, Python, Machine Learning, Signal Processing, MATLAB",2.7,8.6,Smart Home Automation,1
+Arjun Sharma,"Embedded Systems, Python, Machine Learning, PCB Design, Verilog",1.6,8.84,FPGA Based Design,1
+Arjun Yadav,"Embedded Systems, Python, Machine Learning, IoT, C Programming",2.8,8.58,Signal Analyzer,1
+Rahul Patel,"Embedded Systems, Python, Machine Learning, IoT, Verilog",2.1,9.36,Robotics Arm,1
+Vikram Kumar,"Embedded Systems, Python, Machine Learning, IoT, VLSI Design",1.5,9.22,Image Processing System,1
+Kiran Reddy,"Embedded Systems, Python, Machine Learning, PCB Design, VLSI Design",4.2,7.69,IoT Weather Station,1
+Kiran Iyer,"Embedded Systems, Python, Machine Learning, PCB Design, VLSI Design",2.4,9.8,AI Based Fault Detection,1
+Sai Kumar,"Embedded Systems, Python, Machine Learning, MATLAB, PCB Design",1.9,9.73,Robotics Arm,1
+Kiran Yadav,"Embedded Systems, Python, Machine Learning, IoT, Verilog",2.2,8.93,IoT Weather Station,1
+Rohan Iyer,"Embedded Systems, Python, Machine Learning, IoT, Signal Processing",4.9,8.05,Robotics Arm,1
+Rohan Kumar,"Embedded Systems, Python, Machine Learning, C Programming, PCB Design",2.1,8.33,Smart Home Automation,1
+Rahul Sharma,"Embedded Systems, Python, Machine Learning, MATLAB, VLSI Design",3.8,9.85,FPGA Based Design,1
+Krishna Patel,"Embedded Systems, Python, Machine Learning, Signal Processing, VLSI Design",4.4,8.62,IoT Weather Station,1
+Aditya Singh,"Embedded Systems, Python, Machine Learning, PCB Design, Signal Processing",2.2,7.9,FPGA Based Design,1
+Rohan Reddy,"Embedded Systems, Python, Machine Learning, VLSI Design, C Programming",1.7,7.56,Robotics Arm,1
+Rohan Patel,"Embedded Systems, Python, Machine Learning, C Programming, PCB Design",2.4,8.31,Smart Home Automation,1
+Sai Verma,"Embedded Systems, Python, Machine Learning, PCB Design, IoT",1.2,9.06,Robotics Arm,1
+Rohan Yadav,"Embedded Systems, Python, Machine Learning, IoT, PCB Design",3.5,8.73,Image Processing System,1
+Arjun Patel,"Embedded Systems, Python, Machine Learning, MATLAB, C Programming",3.6,9.93,Smart Home Automation,1
+Vikram Yadav,"Embedded Systems, Python, Machine Learning, MATLAB, IoT",3.9,9.27,Wireless Communication Model,1
+Aarav Gupta,"Embedded Systems, Python, Machine Learning, Signal Processing, C Programming",2.5,9.19,Signal Analyzer,1
+Aarav Singh,"Embedded Systems, Python, Machine Learning, VLSI Design, Signal Processing",3.1,8.02,Robotics Arm,1
+Aarav Naidu,"Embedded Systems, Python, Machine Learning, IoT, C Programming",1.4,9.4,Robotics Arm,1
+Sai Singh,"Embedded Systems, Python, Machine Learning, VLSI Design, IoT",3.1,8.75,Smart Home Automation,1
+Rohan Kumar,"Embedded Systems, Python, Machine Learning, PCB Design, C Programming",2.5,8.23,Wireless Communication Model,1
+Rahul Naidu,"Embedded Systems, Python, Machine Learning, PCB Design, IoT",2.5,8.13,IoT Weather Station,1
+Rohan Kumar,"Embedded Systems, Python, Machine Learning, MATLAB, VLSI Design",2.4,8.57,IoT Weather Station,1
+Vikram Patel,"Embedded Systems, Python, Machine Learning, MATLAB, Signal Processing",5,7.73,Signal Analyzer,1
+Rahul Singh,"Embedded Systems, Python, Machine Learning, VLSI Design, Signal Processing",1.5,7.73,AI Based Fault Detection,1
+Vihaan Sharma,"Embedded Systems, Python, Machine Learning, Signal Processing, VLSI Design",1.2,8.52,Robotics Arm,1
+Vikram Sharma,"Embedded Systems, Python, Machine Learning, IoT, Signal Processing",4.9,8.07,Robotics Arm,1
+Sai Verma,"Embedded Systems, Python, Machine Learning, MATLAB, PCB Design",3.4,8.56,AI Based Fault Detection,1
+Rohan Verma,"Embedded Systems, Python, Machine Learning, C Programming, IoT",1.3,8.04,AI Based Fault Detection,1
+Rohan Singh,"Embedded Systems, Python, Machine Learning, IoT, MATLAB",4.3,8.94,IoT Weather Station,1
+Krishna Reddy,"Embedded Systems, Python, Machine Learning, Signal Processing, IoT",1.8,9.51,Robotics Arm,1
+Sai Reddy,"Embedded Systems, Python, Machine Learning, PCB Design, C Programming",2.1,7.75,Image Processing System,1
+Aarav Reddy,"Embedded Systems, Python, Machine Learning, PCB Design, IoT",1.6,9.55,AI Based Fault Detection,1
+Rohan Reddy,"Embedded Systems, Python, Machine Learning, MATLAB, PCB Design",3,8.48,FPGA Based Design,1
+Krishna Singh,"Embedded Systems, Python, Machine Learning, PCB Design, IoT",1.2,8.27,AI Based Fault Detection,1
+Sai Patel,"Embedded Systems, Python, Machine Learning, Verilog, PCB Design",2.1,8.01,Robotics Arm,1
+Sai Singh,"Embedded Systems, Python, Machine Learning, PCB Design, Signal Processing",4.6,8.17,FPGA Based Design,1
+Aditya Yadav,"Embedded Systems, Python, Machine Learning, Signal Processing, C Programming",4.1,8.94,Image Processing System,1
+Vihaan Sharma,"Embedded Systems, Python, Machine Learning, MATLAB, IoT",4.7,9.26,IoT Weather Station,1
+Rohan Yadav,"Embedded Systems, Python, Machine Learning, PCB Design, VLSI Design",4,7.96,Signal Analyzer,1
+Vihaan Yadav,"Embedded Systems, Python, Machine Learning, Signal Processing, C Programming",2.7,7.77,Smart Home Automation,1
+Rahul Kumar,"Embedded Systems, Python, Machine Learning, PCB Design, MATLAB",3.1,9.02,IoT Weather Station,1
+Arjun Naidu,"Embedded Systems, Python, Machine Learning, Signal Processing, C Programming",3.4,9.52,Signal Analyzer,1
+Rahul Kumar,"Embedded Systems, Python, Machine Learning, C Programming, MATLAB",2.9,9.02,Signal Analyzer,1
+Vihaan Sharma,"Embedded Systems, Python, Machine Learning, Signal Processing, Verilog",3.8,7.89,FPGA Based Design,1
+Rohan Iyer,"Embedded Systems, Python, Machine Learning, Signal Processing, PCB Design",3.1,8.05,Signal Analyzer,1
+Arjun Reddy,"Embedded Systems, Python, Machine Learning, C Programming, Signal Processing",1.9,7.89,IoT Weather Station,1
+Vikram Yadav,"Embedded Systems, Python, Machine Learning, MATLAB, Signal Processing",4.4,8.29,Wireless Communication Model,1
+Aditya Singh,"Embedded Systems, Python, Machine Learning, Signal Processing, C Programming",2.5,9.41,IoT Weather Station,1
+Rohan Naidu,"Embedded Systems, Python, Machine Learning, Verilog, Signal Processing",3.3,9.43,AI Based Fault Detection,1
+Rahul Kumar,"Embedded Systems, Python, Machine Learning, IoT, Verilog",3.7,7.74,Signal Analyzer,1
+Rahul Yadav,"Embedded Systems, Python, Machine Learning, IoT, Signal Processing",4.6,9.74,FPGA Based Design,1
+Vihaan Verma,"Embedded Systems, Python, Machine Learning, MATLAB, C Programming",1.1,8.22,Robotics Arm,1
+Rahul Patel,"Embedded Systems, Python, Machine Learning, C Programming, VLSI Design",1.9,8.47,Image Processing System,1
+Rohan Yadav,"Embedded Systems, Python, Machine Learning, Signal Processing, C Programming",3.9,9.41,FPGA Based Design,1
+Arjun Naidu,"Embedded Systems, Python, Machine Learning, Verilog, C Programming",4.6,7.73,Signal Analyzer,1
+Kiran Yadav,"Embedded Systems, Python, Machine Learning, Verilog, VLSI Design",3.1,8.18,Signal Analyzer,1
+Vihaan Singh,"Embedded Systems, Python, Machine Learning, PCB Design, Verilog",4.9,7.63,Wireless Communication Model,1
+Rahul Singh,"Embedded Systems, Python, Machine Learning, IoT, VLSI Design",1.5,8.66,Image Processing System,1
+Kiran Iyer,"Embedded Systems, Python, Machine Learning, C Programming, VLSI Design",4.4,9.75,Wireless Communication Model,1
+Krishna Verma,"Embedded Systems, Python, Machine Learning, VLSI Design, MATLAB",3,8.57,FPGA Based Design,1
+Kiran Iyer,"Embedded Systems, Python, Machine Learning, VLSI Design, Verilog",2.9,7.78,Smart Home Automation,1
+Vihaan Reddy,"Embedded Systems, Python, Machine Learning, Signal Processing, PCB Design",4.8,8.1,FPGA Based Design,1
+Vihaan Sharma,"Embedded Systems, Python, Machine Learning, PCB Design, Verilog",3.7,8.57,Smart Home Automation,1
+Vihaan Iyer,"Embedded Systems, Python, Machine Learning, MATLAB, IoT",3.5,8.99,AI Based Fault Detection,1
+Arjun Yadav,"Embedded Systems, Python, Machine Learning, VLSI Design, PCB Design",4.9,8.74,FPGA Based Design,1
+Vihaan Kumar,"Embedded Systems, Python, Machine Learning, C Programming, IoT",1.4,8.25,Signal Analyzer,1
+Rahul Verma,"Embedded Systems, Python, Machine Learning, PCB Design, Verilog",1.1,9.84,Image Processing System,1
+Vihaan Iyer,"Embedded Systems, Python, Machine Learning, Signal Processing, IoT",2.2,9.03,Signal Analyzer,1
+Aarav Verma,"Embedded Systems, Python, Machine Learning, MATLAB, VLSI Design",2.5,9.11,IoT Weather Station,1
+Rohan Verma,"Embedded Systems, Python, Machine Learning, PCB Design, C Programming",1.2,7.78,Wireless Communication Model,1
+Aditya Reddy,"Embedded Systems, Python, Machine Learning, IoT, C Programming",4.6,8.98,AI Based Fault Detection,1
+Rahul Iyer,"Embedded Systems, Python, Machine Learning, MATLAB, Verilog",4.6,7.92,Smart Home Automation,1
+Sai Singh,"Embedded Systems, Python, Machine Learning, Signal Processing, MATLAB",1.9,9.35,IoT Weather Station,1
+Vihaan Iyer,"Embedded Systems, Python, Machine Learning, C Programming, VLSI Design",3.9,7.63,Wireless Communication Model,1
+Aarav Singh,"Embedded Systems, Python, Machine Learning, Signal Processing, Verilog",2.2,8.64,IoT Weather Station,1
+Rahul Kumar,"Embedded Systems, Python, Machine Learning, Verilog, Signal Processing",4.5,7.54,FPGA Based Design,1
+Vihaan Yadav,"Embedded Systems, Python, Machine Learning, Signal Processing, PCB Design",2.2,9.48,Smart Home Automation,1
+Arjun Naidu,"Embedded Systems, Python, Machine Learning, VLSI Design, Signal Processing",1.6,8.12,AI Based Fault Detection,1
+Sai Naidu,"Embedded Systems, Python, Machine Learning, IoT, C Programming",2.2,8.14,AI Based Fault Detection,1
+Vihaan Sharma,"Embedded Systems, Python, Machine Learning, Verilog, PCB Design",3.4,9.13,Smart Home Automation,1
+Vihaan Yadav,"Embedded Systems, Python, Machine Learning, Verilog, PCB Design",2.4,7.91,Robotics Arm,1
+Aditya Patel,"Embedded Systems, Python, Machine Learning, C Programming, Signal Processing",1.6,9.56,AI Based Fault Detection,1
+Aditya Singh,"Embedded Systems, Python, Machine Learning, PCB Design, Signal Processing",3.6,8.22,Smart Home Automation,1
+Kiran Reddy,"Embedded Systems, Python, Machine Learning, VLSI Design, Signal Processing",2.4,8.85,Image Processing System,1
+Vikram Singh,"Embedded Systems, Python, Machine Learning, VLSI Design, IoT",2.8,9.14,Robotics Arm,1
+Kiran Verma,"Embedded Systems, Python, Machine Learning, VLSI Design, Signal Processing",4.9,8.58,AI Based Fault Detection,1
+Aarav Reddy,"Embedded Systems, Python, Machine Learning, Verilog, PCB Design",2.5,8.72,IoT Weather Station,1
+Sai Patel,"Embedded Systems, Python, Machine Learning, C Programming, MATLAB",3.7,7.92,IoT Weather Station,1
+Rahul Patel,"Embedded Systems, Python, Machine Learning, PCB Design, IoT",2.5,9.23,Wireless Communication Model,1
+Kiran Gupta,"Embedded Systems, Python, Machine Learning, Signal Processing, PCB Design",4.7,9.81,FPGA Based Design,1
+Sai Sharma,"Embedded Systems, Python, Machine Learning, IoT, C Programming",3.1,7.71,AI Based Fault Detection,1
+Kiran Reddy,"Embedded Systems, Python, Machine Learning, IoT, Verilog",2.4,9.05,IoT Weather Station,1
+Rohan Yadav,"Embedded Systems, Python, Machine Learning, VLSI Design, Signal Processing",3,7.95,Robotics Arm,1
+Vikram Iyer,"Embedded Systems, Python, Machine Learning, C Programming, IoT",3.9,8.78,Robotics Arm,1
+Kiran Patel,"Embedded Systems, Python, Machine Learning, Verilog, IoT",4.2,9.93,Image Processing System,1
+Rahul Iyer,"Embedded Systems, Python, Machine Learning, VLSI Design, MATLAB",4.7,9.61,FPGA Based Design,1
+Rohan Singh,"Embedded Systems, Python, Machine Learning, Signal Processing, PCB Design",2.4,7.88,Smart Home Automation,1
+Vihaan Reddy,"Embedded Systems, Python, Machine Learning, C Programming, IoT",2.8,7.65,Smart Home Automation,1
+Aarav Sharma,"Embedded Systems, Python, Machine Learning, Verilog, Signal Processing",2.5,8.75,AI Based Fault Detection,1
+Aarav Kumar,"Embedded Systems, Python, Machine Learning, MATLAB, PCB Design",1.3,8.77,IoT Weather Station,1
+Rahul Yadav,"Embedded Systems, Python, Machine Learning, PCB Design, C Programming",1.2,8.97,Smart Home Automation,1
+Kiran Patel,"Embedded Systems, Python, Machine Learning, C Programming, PCB Design",2.6,9.84,IoT Weather Station,1
+Sai Sharma,"Embedded Systems, Python, Machine Learning, C Programming, MATLAB",1.7,9.96,Image Processing System,1
+Kiran Reddy,"Embedded Systems, Python, Machine Learning, PCB Design, VLSI Design",4.5,9.17,Signal Analyzer,1
+Aarav Naidu,"Embedded Systems, Python, Machine Learning, IoT, Verilog",1.4,9.97,Image Processing System,1
+Aditya Iyer,"Embedded Systems, Python, Machine Learning, VLSI Design, PCB Design",4.2,7.71,Wireless Communication Model,1
+Rahul Yadav,"Embedded Systems, Python, Machine Learning, VLSI Design, Verilog",3.6,9.7,AI Based Fault Detection,1
+Aarav Yadav,"Embedded Systems, Python, Machine Learning, MATLAB, C Programming",2.6,8.86,FPGA Based Design,1
+Kiran Sharma,"Embedded Systems, Python, Machine Learning, MATLAB, IoT",4.1,8.84,AI Based Fault Detection,1
+Sai Iyer,"Embedded Systems, Python, Machine Learning, VLSI Design, MATLAB",4.6,8.41,Image Processing System,1
+Krishna Yadav,"Embedded Systems, Python, Machine Learning, MATLAB, IoT",1.5,8.49,Signal Analyzer,1
+Aarav Naidu,"Embedded Systems, Python, Machine Learning, MATLAB, Verilog",4.2,9.32,IoT Weather Station,1
+Arjun Sharma,"Embedded Systems, Python, Machine Learning, MATLAB, C Programming",1.3,8.16,Wireless Communication Model,1
+Aarav Yadav,"Embedded Systems, Python, Machine Learning, VLSI Design, Verilog",2.7,8.06,Image Processing System,1
+Aditya Patel,"Embedded Systems, Python, Machine Learning, PCB Design, Signal Processing",2.2,7.52,Robotics Arm,1
+Krishna Singh,"Embedded Systems, Python, Machine Learning, Signal Processing, C Programming",4.4,9.35,Image Processing System,1
+Rahul Singh,"Embedded Systems, Python, Machine Learning, C Programming, MATLAB",4.1,7.62,Wireless Communication Model,1
+Sai Kumar,"Embedded Systems, Python, Machine Learning, PCB Design, MATLAB",3.4,9.85,IoT Weather Station,1
+Vikram Reddy,"Embedded Systems, Python, Machine Learning, VLSI Design, PCB Design",3,7.94,Robotics Arm,1
+Rohan Kumar,"Embedded Systems, Python, Machine Learning, MATLAB, PCB Design",3.5,7.87,Image Processing System,1
+Vihaan Yadav,"Embedded Systems, Python, Machine Learning, PCB Design, IoT",4,7.73,AI Based Fault Detection,1
+Rahul Patel,"Embedded Systems, Python, Machine Learning, PCB Design, MATLAB",3.8,9.13,AI Based Fault Detection,1
+Arjun Kumar,"Embedded Systems, Python, Machine Learning, PCB Design, IoT",4.6,9.33,FPGA Based Design,1
+Rohan Patel,"Embedded Systems, Python, Machine Learning, MATLAB, VLSI Design",3.5,8.29,Signal Analyzer,1
+Vihaan Yadav,"Embedded Systems, Python, Machine Learning, Signal Processing, PCB Design",4.6,8.27,AI Based Fault Detection,1
+Kiran Kumar,"Embedded Systems, Python, Machine Learning, PCB Design, Verilog",4.3,8.79,AI Based Fault Detection,1
+Rahul Sharma,"Embedded Systems, Python, Machine Learning, IoT, MATLAB",4,9.47,Smart Home Automation,1
+Aditya Kumar,"Embedded Systems, Python, Machine Learning, Verilog, VLSI Design",2.3,9.88,Image Processing System,1
+Kiran Reddy,"Embedded Systems, Python, Machine Learning, C Programming, Verilog",2.5,8.27,Image Processing System,1
+Arjun Verma,"Embedded Systems, Python, Machine Learning, Signal Processing, VLSI Design",2.1,7.6,Smart Home Automation,1
+Arjun Naidu,"Embedded Systems, Python, Machine Learning, C Programming, IoT",2,9.55,Robotics Arm,1
+Sai Patel,"Embedded Systems, Python, Machine Learning, C Programming, Signal Processing",3,7.55,FPGA Based Design,1
+Rahul Sharma,"Embedded Systems, Python, Machine Learning, PCB Design, MATLAB",3.2,7.58,Smart Home Automation,1
+Arjun Reddy,"Embedded Systems, Python, Machine Learning, VLSI Design, PCB Design",4.5,8.98,Robotics Arm,1
+Rohan Singh,"Embedded Systems, Python, Machine Learning, IoT, PCB Design",3.5,9.17,Wireless Communication Model,1
+Aarav Yadav,"Embedded Systems, Python, Machine Learning, MATLAB, VLSI Design",1.1,7.98,FPGA Based Design,1
+Aarav Naidu,"Embedded Systems, Python, Machine Learning, PCB Design, IoT",3.4,8.47,Signal Analyzer,1
+Arjun Kumar,"Embedded Systems, Python, Machine Learning, Verilog, PCB Design",1.8,9.91,FPGA Based Design,1
+Sai Verma,"Embedded Systems, Python, Machine Learning, C Programming, MATLAB",4,9.22,Signal Analyzer,1
+Krishna Patel,"Embedded Systems, Python, Machine Learning, PCB Design, VLSI Design",4.5,9.35,Robotics Arm,1
+Arjun Gupta,"Embedded Systems, Python, Machine Learning, VLSI Design, PCB Design",1.3,7.53,AI Based Fault Detection,1
+Vihaan Naidu,"Embedded Systems, Python, Machine Learning, IoT, C Programming",2.2,9.13,Smart Home Automation,1
+Aditya Yadav,"Embedded Systems, Python, Machine Learning, Signal Processing, PCB Design",3.3,9.39,AI Based Fault Detection,1
+Sai Sharma,"Embedded Systems, Python, Machine Learning, C Programming, MATLAB",4.2,8.25,Smart Home Automation,1
+Krishna Verma,"Embedded Systems, Python, Machine Learning, Verilog, MATLAB",2.1,9.34,Wireless Communication Model,1
+Arjun Verma,"Embedded Systems, Python, Machine Learning, Verilog, VLSI Design",1.8,9.94,Robotics Arm,1
+Rahul Reddy,"Embedded Systems, Python, Machine Learning, VLSI Design, Signal Processing",1.9,9.42,Smart Home Automation,1
+Aditya Reddy,"Embedded Systems, Python, Machine Learning, VLSI Design, PCB Design",3.5,8.79,Wireless Communication Model,1
+Krishna Gupta,"Embedded Systems, Python, Machine Learning, VLSI Design, PCB Design",3.8,7.53,IoT Weather Station,1
+Rohan Verma,"Embedded Systems, Python, Machine Learning, PCB Design, MATLAB",1.5,8.49,Smart Home Automation,1
+Sai Kumar,"Embedded Systems, Python, Machine Learning, Verilog, MATLAB",1.9,7.78,FPGA Based Design,1
+Aditya Yadav,"Embedded Systems, Python, Machine Learning, IoT, Verilog",2,7.95,IoT Weather Station,1
+Rohan Naidu,"Embedded Systems, Python, Machine Learning, IoT, MATLAB",2.7,8.56,AI Based Fault Detection,1
+Aarav Kumar,"Embedded Systems, Python, Machine Learning, MATLAB, IoT",3.4,7.86,Wireless Communication Model,1
+Aarav Patel,"Embedded Systems, Python, Machine Learning, Verilog, C Programming",4.3,9.77,Signal Analyzer,1
+Aditya Reddy,"Embedded Systems, Python, Machine Learning, IoT, VLSI Design",4.1,9.85,AI Based Fault Detection,1
+Vikram Naidu,"Embedded Systems, Python, Machine Learning, VLSI Design, Verilog",4.7,8.94,Image Processing System,1
+Aditya Sharma,"Embedded Systems, Python, Machine Learning, PCB Design, IoT",2.6,7.92,Wireless Communication Model,1
+Sai Gupta,"Embedded Systems, Python, Machine Learning, C Programming, IoT",4.9,8.53,Smart Home Automation,1
+Sai Yadav,"Embedded Systems, Python, Machine Learning, VLSI Design, MATLAB",3.4,8.11,IoT Weather Station,1
+Aditya Gupta,"Embedded Systems, Python, Machine Learning, IoT, Verilog",1.7,8.02,IoT Weather Station,1
+Sai Kumar,"Embedded Systems, Python, Machine Learning, VLSI Design, Verilog",2.6,9.58,IoT Weather Station,1
+Aditya Gupta,"Embedded Systems, Python, Machine Learning, Verilog, C Programming",1.5,9.83,IoT Weather Station,1
+Sai Singh,"Embedded Systems, Python, Machine Learning, PCB Design, Verilog",1.5,8.37,Signal Analyzer,1
+Vikram Naidu,"Embedded Systems, Python, Machine Learning, C Programming, VLSI Design",4.9,9.08,Smart Home Automation,1
+Aarav Patel,"Embedded Systems, Python, Machine Learning, MATLAB, Verilog",3.7,9.15,Smart Home Automation,1
+Arjun Naidu,"Embedded Systems, Python, Machine Learning, IoT, VLSI Design",1.2,8.41,Wireless Communication Model,1
+Rohan Iyer,"Embedded Systems, Python, Machine Learning, C Programming, VLSI Design",1.3,8.49,Robotics Arm,1
+Rohan Reddy,"Embedded Systems, Python, Machine Learning, PCB Design, VLSI Design",1.9,7.61,Wireless Communication Model,1
+student_name,skills,years_of_experience,cgpa,projects,label

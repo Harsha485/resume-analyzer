@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>AI Resume Analyzer</title>
+    <link rel="stylesheet" href="/static/style.css">
+
+    <!-- Google Font -->
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;500&display=swap" rel="stylesheet">
+</head>
+
+<body>
+
+<div class="container">
+
+    <h1>Resume Analyzer</h1>
+    <p class="subtitle">Smart Hiring with Machine Learning</p>
+
+    <form action="/predict" method="post" class="form-card">
+
+        <div class="input-group">
+            <label>💻 Skills</label>
+            <input type="text" name="skills" placeholder="e.g. Python, ML" required>
+        </div>
+
+        <div class="input-group">
+            <label>📈 Experience (Years)</label>
+            <input type="number" step="0.1" name="experience" placeholder="e.g. 2" required>
+        </div>
+
+        <div class="input-group">
+            <label>🎓 CGPA</label>
+            <input type="number" step="0.1" name="cgpa" placeholder="e.g. 8.5" required>
+        </div>
+
+        <div class="input-group">
+            <label>📂 Projects</label>
+            <input type="text" name="projects" placeholder="e.g. 3 or Robotics Project" required>
+        </div>
+
+        <button type="submit">🚀 Evaluate Candidate</button>
+
+    </form>
+
+</div>
+
+</body>
+</html>

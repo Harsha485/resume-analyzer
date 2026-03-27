@@ -1,0 +1,143 @@
+/* ===== GLOBAL ===== */
+body {
+    margin: 0;
+    font-family: 'Segoe UI', sans-serif;
+    background: linear-gradient(135deg, #0f2027, #203a43, #2c5364);
+    color: white;
+    overflow-x: hidden;
+}
+
+/* ===== CONTAINER ===== */
+.container {
+    text-align: center;
+    margin-top: 60px;
+    animation: fadeIn 1s ease-in;
+}
+
+/* ===== HEADINGS ===== */
+h1 {
+    font-size: 36px;
+    letter-spacing: 1px;
+}
+
+.subtitle {
+    color: #bbb;
+    margin-bottom: 30px;
+}
+
+/* ===== CARD (GLASS EFFECT) ===== */
+.form-card, .result-card {
+    background: rgba(255, 255, 255, 0.08);
+    backdrop-filter: blur(12px);
+    border-radius: 20px;
+    padding: 30px;
+    width: 350px;
+    margin: auto;
+    box-shadow: 0 8px 32px rgba(0,0,0,0.3);
+    animation: slideUp 0.8s ease;
+}
+
+/* ===== INPUT GROUP ===== */
+.input-group {
+    text-align: left;
+    margin-bottom: 18px;
+}
+
+label {
+    font-size: 14px;
+    color: #ddd;
+}
+
+/* ===== INPUT ===== */
+input {
+    width: 100%;
+    padding: 12px;
+    border-radius: 10px;
+    border: none;
+    outline: none;
+    margin-top: 5px;
+    background: rgba(255,255,255,0.1);
+    color: white;
+    transition: 0.3s;
+}
+
+input:focus {
+    background: rgba(255,255,255,0.2);
+    transform: scale(1.03);
+}
+
+/* ===== BUTTON ===== */
+button {
+    width: 100%;
+    padding: 12px;
+    background: linear-gradient(45deg, #00c6ff, #0072ff);
+    border: none;
+    border-radius: 12px;
+    font-size: 16px;
+    color: white;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+button:hover {
+    transform: scale(1.05);
+    box-shadow: 0 0 15px rgba(0,114,255,0.6);
+}
+
+/* ===== RESULT ===== */
+.score {
+    font-size: 40px;
+    font-weight: bold;
+    animation: pop 0.8s ease;
+}
+
+/* ===== STATUS COLORS ===== */
+.status {
+    font-size: 24px;
+    font-weight: bold;
+    margin-top: 10px;
+}
+
+.status.Selected {
+    color: #00ffae;
+}
+
+.status.Waitlisted {
+    color: #ffcc00;
+}
+
+.status.Rejected {
+    color: #ff4d4d;
+}
+
+/* ===== BUTTON BACK ===== */
+.back-btn {
+    display: inline-block;
+    margin-top: 25px;
+    padding: 10px 20px;
+    border-radius: 10px;
+    background: linear-gradient(45deg, #ff512f, #dd2476);
+    text-decoration: none;
+    color: white;
+    transition: 0.3s;
+}
+
+.back-btn:hover {
+    transform: scale(1.05);
+}
+
+/* ===== ANIMATIONS ===== */
+@keyframes fadeIn {
+    from { opacity: 0; }
+    to { opacity: 1; }
+}
+
+@keyframes slideUp {
+    from { transform: translateY(40px); opacity: 0; }
+    to { transform: translateY(0); opacity: 1; }
+}
+
+@keyframes pop {
+    0% { transform: scale(0.5); }
+    100% { transform: scale(1); }
+}

@@ -27,10 +27,10 @@ def home():
 
 @app.route('/predict', methods=['POST'])
 def predict():
-    skills = request.form['skills']
+    skills = request.form['skills'].strip().lower()
     experience = float(request.form['experience'])
     cgpa = float(request.form['cgpa'])
-    projects = request.form['projects']
+    projects = request.form['projects'].strip().lower()
 
     if not use_dummy:
         encoded = encoder.transform([[skills, projects]])

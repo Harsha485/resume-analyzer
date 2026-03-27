@@ -50,9 +50,13 @@ df = df.drop('student_name', axis=1, errors='ignore')
 # =========================
 encoder = OrdinalEncoder(handle_unknown='use_encoded_value', unknown_value=-1)
 
+df['skills'] = df['skills'].astype(str).str.lower().str.strip()
+df['projects'] = df['projects'].astype(str).str.lower().str.strip()
+
 df[['skills', 'projects']] = encoder.fit_transform(
-    df[['skills', 'projects']].astype(str)
+    df[['skills', 'projects']]
 )
+
 
 # =========================
 # 7. CONVERT TO NUMERIC (CRITICAL)

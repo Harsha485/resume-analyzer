@@ -6,7 +6,6 @@ import os
 
 app = Flask(__name__)
 
-# ================= MODEL PATH =================
 MODEL_PATH = 'model/resume_svm_model.pkl'
 SCALER_PATH = 'model/resume_scaler.pkl'
 ENCODER_PATH = 'model/resume_encoder.pkl'
@@ -21,12 +20,11 @@ else:
     use_dummy = True
     print("⚠️ Using dummy model")
 
-# ================= HOME =================
 @app.route('/')
 def home():
     return render_template('index.html')
 
-# ================= MANUAL INPUT =================
+# ================= MANUAL =================
 @app.route('/predict', methods=['POST'])
 def predict():
     skills = request.form['skills'].strip().lower()
@@ -48,7 +46,7 @@ def predict():
 
     return render_template('result.html', score=round(score, 2), status=status)
 
-# ================= CSV INPUT =================
+# ================= CSV =================
 @app.route('/predict_csv', methods=['POST'])
 def predict_csv():
     file = request.files['file']
@@ -58,20 +56,25 @@ def predict_csv():
 
     df = pd.read_csv(file)
 
-    # Clean column names
+    # Clean columns
     df.columns = df.columns.str.strip().str.lower()
 
-    # Rename columns (flexible input support)
+    # Flexible renaming
     df = df.rename(columns={
         'skill': 'skills',
         'experience': 'years_of_experience',
-        'project': 'projects'
+        'project': 'projects',
+        'student name': 'student_name',
+        'name': 'student_name'
     })
 
     selected_candidates = []
 
     for _, row in df.iterrows():
         try:
+            # ✅ NAME SUPPORT
+            name = str(row.get('student_name', 'Unknown'))
+
             skills = str(row['skills']).lower().strip()
             exp = float(row['years_of_experience'])
             cgpa = float(row['cgpa'])
@@ -89,6 +92,7 @@ def predict_csv():
 
             if score >= 75:
                 selected_candidates.append({
+                    "name": name,
                     "skills": skills,
                     "experience": exp,
                     "cgpa": cgpa,
@@ -99,7 +103,7 @@ def predict_csv():
         except:
             continue
 
-    # ✅ SAVE CSV (IMPORTANT)
+    # ✅ SAVE CSV WITH NAME
     output_file = "selected_candidates.csv"
     pd.DataFrame(selected_candidates).to_csv(output_file, index=False)
 
@@ -113,7 +117,7 @@ def download():
     if os.path.exists(file_path):
         return send_file(file_path, as_attachment=True)
     else:
-        return "No file available to download"
+        return "No file available"
 
 # ================= RUN =================
 if __name__ == '__main__':

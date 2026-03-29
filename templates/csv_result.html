@@ -12,6 +12,7 @@
     {% if candidates %}
     <table class="result-table">
         <tr>
+            <th>Name</th>
             <th>Skills</th>
             <th>Experience</th>
             <th>CGPA</th>
@@ -21,6 +22,7 @@
 
         {% for c in candidates %}
         <tr>
+            <td>{{c.name}}</td>
             <td>{{c.skills}}</td>
             <td>{{c.experience}}</td>
             <td>{{c.cgpa}}</td>
@@ -30,7 +32,7 @@
         {% endfor %}
     </table>
 
-    <!-- ✅ DOWNLOAD BUTTON -->
+    <!-- DOWNLOAD BUTTON -->
     <a href="/download" class="back-btn">📥 Download CSV</a>
 
     {% else %}

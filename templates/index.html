@@ -3,45 +3,47 @@
 <head>
     <title>AI Resume Analyzer</title>
     <link rel="stylesheet" href="/static/style.css">
-
-    <!-- Google Font -->
-    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;500&display=swap" rel="stylesheet">
 </head>
 
 <body>
 
 <div class="container">
-
     <h1>Resume Analyzer</h1>
-    <p class="subtitle">Smart Hiring with Machine Learning</p>
+    <p class="subtitle">Smart Hiring with ML</p>
 
-    <form action="/predict" method="post" class="form-card">
+    <div class="mode-switch">
+        <button onclick="showManual()">Manual Entry</button>
+        <button onclick="showCSV()">CSV Upload</button>
+    </div>
 
-        <div class="input-group">
-            <label>💻 Skills</label>
-            <input type="text" name="skills" placeholder="e.g. Python, ML" required>
-        </div>
-
-        <div class="input-group">
-            <label>📈 Experience (Years)</label>
-            <input type="number" step="0.1" name="experience" placeholder="e.g. 2" required>
-        </div>
-
-        <div class="input-group">
-            <label>🎓 CGPA</label>
-            <input type="number" step="0.1" name="cgpa" placeholder="e.g. 8.5" required>
-        </div>
-
-        <div class="input-group">
-            <label>📂 Projects</label>
-            <input type="text" name="projects" placeholder="e.g. 3 or Robotics Project" required>
-        </div>
-
-        <button type="submit">🚀 Evaluate Candidate</button>
-
+    <!-- Manual Form -->
+    <form action="/predict" method="post" class="form-card" id="manualForm">
+        <input type="text" name="skills" placeholder="Skills" required>
+        <input type="number" step="0.1" name="experience" placeholder="Experience" required>
+        <input type="number" step="0.1" name="cgpa" placeholder="CGPA" required>
+        <input type="text" name="projects" placeholder="Projects" required>
+        <button type="submit">Evaluate</button>
     </form>
 
+    <!-- CSV Form -->
+    <form action="/predict_csv" method="post" enctype="multipart/form-data"
+          class="form-card" id="csvForm" style="display:none;">
+        <input type="file" name="file" accept=".csv" required>
+        <button type="submit">Upload CSV</button>
+    </form>
 </div>
+
+<script>
+function showManual() {
+    document.getElementById("manualForm").style.display = "block";
+    document.getElementById("csvForm").style.display = "none";
+}
+
+function showCSV() {
+    document.getElementById("manualForm").style.display = "none";
+    document.getElementById("csvForm").style.display = "block";
+}
+</script>
 
 </body>
 </html>

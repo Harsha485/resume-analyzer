@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel="stylesheet" href="/static/style.css">
+</head>
+
+<body>
+
+<div class="container">
+    <h1>🎯 Selected Candidates</h1>
+
+    {% if candidates %}
+    <table class="result-table">
+        <tr>
+            <th>Skills</th>
+            <th>Experience</th>
+            <th>CGPA</th>
+            <th>Projects</th>
+            <th>Score</th>
+        </tr>
+
+        {% for c in candidates %}
+        <tr>
+            <td>{{c.skills}}</td>
+            <td>{{c.experience}}</td>
+            <td>{{c.cgpa}}</td>
+            <td>{{c.projects}}</td>
+            <td>{{c.score}}</td>
+        </tr>
+        {% endfor %}
+    </table>
+
+    <!-- ✅ DOWNLOAD BUTTON -->
+    <a href="/download" class="back-btn">📥 Download CSV</a>
+
+    {% else %}
+    <p>No selected candidates found</p>
+    {% endif %}
+
+    <br><br>
+    <a href="/" class="back-btn">⬅ Back</a>
+</div>
+
+</body>
+</html>

@@ -1,0 +1,1136 @@
+skills,experience,cgpa,projects,score
+"embedded systems, python, machine learning, pcb design",1.6,7.71,smart home automation,93.35
+"embedded systems, python, machine learning, matlab, iot",2.5,8.69,iot weather station,100.0
+"machine learning, c programming",2.6,7.57,smart home automation,100.0
+"embedded systems, python, machine learning, pcb design",2.9,9.16,smart home automation,100.0
+"embedded systems, python, machine learning, iot",1.1,9.9,robotics arm,100.0
+"python, verilog, embedded systems, c programming",2.0,7.66,ai based fault detection,100.0
+"embedded systems, python, machine learning, pcb design, iot",4.2,9.78,robotics arm,100.0
+"embedded systems, python, machine learning, verilog, signal processing",1.5,9.94,iot weather station,100.0
+"embedded systems, python, machine learning, iot",2.1,8.45,image processing system,100.0
+"embedded systems, python, machine learning, signal processing, vlsi design",3.1,7.51,robotics arm,100.0
+"embedded systems, python, machine learning, c programming",3.6,7.66,wireless communication model,100.0
+"embedded systems, python, machine learning, verilog",1.3,9.91,signal analyzer,100.0
+"embedded systems, python, machine learning, c programming, iot",4.1,8.91,iot weather station,100.0
+"embedded systems, python, machine learning, signal processing, iot",1.0,8.14,signal analyzer,100.0
+"matlab, vlsi design, signal processing, c programming",2.2,7.77,iot weather station,100.0
+"embedded systems, python, machine learning, c programming, pcb design",4.0,7.54,robotics arm,100.0
+"vlsi design, c programming",2.2,7.81,smart home automation,100.0
+"embedded systems, verilog, matlab, signal processing",1.0,7.82,signal analyzer,84.51
+"matlab, vlsi design, iot, signal processing",1.0,7.81,smart home automation,83.39
+"machine learning, python, c programming",1.4,7.74,iot weather station,89.65
+"embedded systems, python, machine learning, pcb design, signal processing",1.7,9.29,ai based fault detection,100.0
+"embedded systems, python, machine learning, vlsi design",2.1,9.95,ai based fault detection,100.0
+"embedded systems, python, machine learning, vlsi design",4.5,9.16,iot weather station,100.0
+"signal processing, embedded systems",2.8,7.62,image processing system,100.0
+"iot, verilog",2.9,7.49,robotics arm,100.0
+"embedded systems, python, machine learning, c programming, matlab",1.2,9.02,signal analyzer,100.0
+"embedded systems, python, machine learning, vlsi design",2.7,9.33,fpga based design,100.0
+"embedded systems, python, machine learning, signal processing, iot",3.9,7.56,robotics arm,100.0
+"embedded systems, python, machine learning, matlab, vlsi design",2.7,8.43,robotics arm,100.0
+"embedded systems, python, machine learning, vlsi design, verilog",3.3,7.93,fpga based design,100.0
+"embedded systems, python, machine learning, signal processing",4.5,8.73,signal analyzer,100.0
+"python, verilog, pcb design, machine learning",1.1,7.82,smart home automation,88.04
+"embedded systems, python, machine learning, vlsi design",2.1,8.72,iot weather station,100.0
+"iot, matlab, verilog",2.5,7.27,image processing system,75.73
+"matlab, vlsi design, machine learning",2.7,7.77,smart home automation,100.0
+"verilog, vlsi design, matlab",2.4,7.74,wireless communication model,100.0
+"embedded systems, python, machine learning, c programming",1.7,9.03,ai based fault detection,100.0
+"vlsi design, matlab, machine learning",1.9,7.83,fpga based design,100.0
+"embedded systems, python, machine learning, matlab, pcb design",2.0,7.78,robotics arm,100.0
+"verilog, python, c programming, matlab",2.9,7.65,wireless communication model,100.0
+"embedded systems, python, machine learning, matlab",4.3,7.56,image processing system,100.0
+"embedded systems, python, machine learning, matlab",3.6,7.34,smart home automation,100.0
+"embedded systems, python, machine learning, iot",3.7,8.47,iot weather station,100.0
+"embedded systems, python, machine learning, iot",2.5,7.94,robotics arm,100.0
+"embedded systems, python, machine learning, c programming",4.1,7.51,robotics arm,100.0
+"embedded systems, python, machine learning, matlab, vlsi design",4.0,8.93,smart home automation,100.0
+"signal processing, iot, vlsi design, embedded systems",2.2,7.99,wireless communication model,100.0
+"embedded systems, python, machine learning, iot, signal processing",1.2,8.83,signal analyzer,100.0
+"embedded systems, python, machine learning, c programming, matlab",4.4,8.44,wireless communication model,100.0
+"embedded systems, python, machine learning, vlsi design, signal processing",3.4,8.84,fpga based design,100.0
+"embedded systems, python, machine learning, pcb design, vlsi design",4.0,9.76,smart home automation,100.0
+"embedded systems, python, machine learning, signal processing, pcb design",4.6,8.23,iot weather station,100.0
+"pcb design, vlsi design, iot, c programming",1.3,7.98,ai based fault detection,100.0
+"verilog, pcb design",0.9,7.99,ai based fault detection,100.0
+"embedded systems, python, machine learning, signal processing",3.5,8.58,wireless communication model,100.0
+"pcb design, python",2.2,7.58,iot weather station,99.94
+"embedded systems, python, machine learning, signal processing",2.5,9.66,image processing system,100.0
+"embedded systems, python, signal processing, pcb design",2.1,7.63,smart home automation,100.0
+"embedded systems, python, machine learning, pcb design, c programming",4.2,9.66,robotics arm,100.0
+"matlab, pcb design",1.2,7.98,ai based fault detection,100.0
+"embedded systems, python, machine learning, c programming",1.5,9.34,wireless communication model,100.0
+"embedded systems, python, machine learning, c programming",4.1,7.53,fpga based design,100.0
+"verilog, c programming, matlab",0.8,7.94,signal analyzer,90.92
+"matlab, embedded systems, vlsi design",2.2,7.45,signal analyzer,85.35
+"embedded systems, python, machine learning, c programming, iot",4.6,7.2,wireless communication model,100.0
+"embedded systems, python, machine learning, vlsi design, signal processing",4.2,7.49,signal analyzer,100.0
+"embedded systems, python, machine learning, verilog",4.9,8.52,signal analyzer,100.0
+"embedded systems, python, machine learning, signal processing",4.6,7.77,iot weather station,100.0
+"embedded systems, python, machine learning, c programming",3.7,7.97,signal analyzer,100.0
+"embedded systems, python, machine learning, matlab, iot",3.2,9.81,ai based fault detection,100.0
+"embedded systems, python, machine learning, verilog, vlsi design",2.3,7.98,fpga based design,100.0
+"embedded systems, python, machine learning, pcb design",3.1,8.58,robotics arm,100.0
+"embedded systems, python, machine learning, verilog",3.7,9.47,smart home automation,100.0
+"embedded systems, python, machine learning, pcb design, signal processing",1.2,8.47,smart home automation,100.0
+"embedded systems, python, machine learning, signal processing",4.9,7.86,wireless communication model,100.0
+"embedded systems, python, machine learning, matlab, verilog",3.2,9.57,image processing system,100.0
+"machine learning, signal processing, python, iot",0.3,7.96,fpga based design,75.51
+"embedded systems, python, machine learning, pcb design",3.8,8.98,fpga based design,100.0
+"embedded systems, python, machine learning, vlsi design, signal processing",2.5,8.49,fpga based design,100.0
+"embedded systems, python, machine learning, signal processing",3.8,9.96,ai based fault detection,100.0
+"embedded systems, python, machine learning, signal processing",4.4,7.6,image processing system,100.0
+"embedded systems, python, machine learning, vlsi design, pcb design",2.1,7.9,wireless communication model,100.0
+"embedded systems, python, machine learning, vlsi design",1.2,9.48,robotics arm,100.0
+"embedded systems, vlsi design, matlab",0.4,7.99,wireless communication model,82.41
+"embedded systems, python, machine learning, pcb design",2.0,9.37,image processing system,100.0
+"embedded systems, python, machine learning, pcb design",3.3,8.1,image processing system,100.0
+"embedded systems, python, machine learning, c programming, signal processing",2.1,9.31,wireless communication model,100.0
+"embedded systems, python, machine learning, signal processing",4.2,7.52,fpga based design,100.0
+"embedded systems, python, machine learning, pcb design",2.0,9.45,wireless communication model,100.0
+"machine learning, embedded systems",3.0,7.7,smart home automation,100.0
+"signal processing, machine learning, verilog, embedded systems",1.9,7.49,fpga based design,79.24
+"embedded systems, python, machine learning, pcb design",1.5,7.64,wireless communication model,81.96
+"embedded systems, python, machine learning, vlsi design, c programming",4.5,9.49,iot weather station,100.0
+"verilog, machine learning, vlsi design",2.7,7.71,fpga based design,100.0
+"embedded systems, python, machine learning, verilog",4.5,7.37,robotics arm,100.0
+"embedded systems, machine learning, iot",2.4,7.76,iot weather station,100.0
+"embedded systems, python, machine learning, verilog",3.8,8.32,robotics arm,100.0
+"embedded systems, python, machine learning, signal processing, matlab",3.2,9.96,robotics arm,100.0
+"embedded systems, python, machine learning, iot, signal processing",2.2,9.23,image processing system,100.0
+"embedded systems, python, machine learning, signal processing",1.1,8.39,image processing system,100.0
+"embedded systems, python, machine learning, matlab, iot",2.6,9.4,ai based fault detection,100.0
+"verilog, iot",2.6,7.5,robotics arm,100.0
+"embedded systems, python, machine learning, c programming, verilog",4.0,8.33,robotics arm,100.0
+"embedded systems, python, machine learning, matlab",2.7,9.2,robotics arm,100.0
+"embedded systems, python, machine learning, signal processing",2.6,7.38,fpga based design,91.61
+"python, iot, verilog",1.7,7.91,image processing system,100.0
+"c programming, verilog",2.6,7.27,iot weather station,79.26
+"embedded systems, python, machine learning, vlsi design",1.5,7.58,robotics arm,75.22
+"embedded systems, python, machine learning, pcb design",1.2,9.96,signal analyzer,100.0
+"embedded systems, python, machine learning, c programming, vlsi design",2.6,7.66,smart home automation,100.0
+"embedded systems, python, machine learning, pcb design, iot",3.7,8.98,smart home automation,100.0
+"embedded systems, python, machine learning, vlsi design",2.2,7.57,smart home automation,98.82
+"c programming, embedded systems, vlsi design, python",2.0,7.82,image processing system,100.0
+"embedded systems, python, machine learning, matlab, pcb design",3.6,7.99,signal analyzer,100.0
+"embedded systems, python, machine learning, pcb design",2.0,8.39,signal analyzer,100.0
+"signal processing, vlsi design",2.4,7.9,fpga based design,100.0
+"embedded systems, python, machine learning, verilog",1.6,8.61,fpga based design,100.0
+"embedded systems, python, machine learning, c programming, signal processing",4.1,8.19,iot weather station,100.0
+"embedded systems, python, machine learning, c programming",1.6,8.47,signal analyzer,100.0
+"embedded systems, python, machine learning, verilog, c programming",3.8,9.53,robotics arm,100.0
+"pcb design, c programming",0.9,7.99,wireless communication model,100.0
+"verilog, pcb design, python, machine learning",1.6,7.79,wireless communication model,100.0
+"pcb design, verilog, signal processing, c programming",2.2,7.9,iot weather station,100.0
+"embedded systems, python, machine learning, matlab, signal processing",4.1,7.27,iot weather station,100.0
+"embedded systems, python, machine learning, pcb design",3.0,8.56,fpga based design,100.0
+"embedded systems, python, machine learning, verilog, pcb design",1.3,9.59,wireless communication model,100.0
+"embedded systems, python, machine learning, matlab, vlsi design",4.8,8.12,image processing system,100.0
+"embedded systems, python, machine learning, pcb design, vlsi design",3.7,9.97,robotics arm,100.0
+"embedded systems, python, machine learning, iot",4.9,9.0,smart home automation,100.0
+"embedded systems, python, machine learning, matlab",3.8,7.4,smart home automation,100.0
+"embedded systems, pcb design",1.2,7.88,signal analyzer,98.31
+"embedded systems, python, machine learning, vlsi design, signal processing",3.9,7.87,fpga based design,100.0
+"signal processing, c programming",0.7,7.93,robotics arm,86.27
+"embedded systems, python, machine learning, iot, vlsi design",4.0,9.47,iot weather station,100.0
+"embedded systems, python, machine learning, vlsi design, pcb design",4.8,7.68,smart home automation,100.0
+"signal processing, c programming",2.6,7.73,image processing system,100.0
+"embedded systems, python, machine learning, vlsi design, verilog",2.2,8.42,wireless communication model,100.0
+"embedded systems, python, machine learning, pcb design",2.3,8.14,image processing system,100.0
+"embedded systems, python, machine learning, matlab",2.8,8.66,fpga based design,100.0
+"embedded systems, python, machine learning, c programming",2.4,9.76,iot weather station,100.0
+"embedded systems, python, machine learning, c programming",2.7,9.15,robotics arm,100.0
+"python, machine learning, vlsi design",2.5,7.94,signal analyzer,100.0
+"embedded systems, python, machine learning, iot",4.4,7.98,robotics arm,100.0
+"c programming, machine learning, verilog, python",2.6,7.82,fpga based design,100.0
+"embedded systems, python, machine learning, pcb design, iot",3.1,9.57,fpga based design,100.0
+"python, matlab",0.9,7.86,ai based fault detection,85.47
+"embedded systems, python, machine learning, vlsi design",3.1,7.16,smart home automation,84.57
+"embedded systems, python, machine learning, matlab, iot",1.1,8.88,fpga based design,100.0
+"machine learning, iot, matlab, embedded systems",2.8,7.3,robotics arm,89.69
+"embedded systems, python, machine learning, c programming, matlab",3.2,7.83,wireless communication model,100.0
+"embedded systems, python, machine learning, vlsi design, matlab",3.4,7.34,ai based fault detection,100.0
+"machine learning, vlsi design, iot",1.4,7.99,ai based fault detection,100.0
+"verilog, vlsi design, embedded systems",1.2,7.98,wireless communication model,100.0
+"verilog, c programming, pcb design",2.9,7.36,ai based fault detection,99.96
+"embedded systems, python, machine learning, iot",3.9,8.57,robotics arm,100.0
+"embedded systems, python, machine learning, iot, pcb design",5.0,9.89,robotics arm,100.0
+"python, pcb design",2.0,7.75,ai based fault detection,100.0
+"embedded systems, python, machine learning, vlsi design",2.3,8.16,smart home automation,100.0
+"embedded systems, python, machine learning, c programming, matlab",2.8,9.04,robotics arm,100.0
+"c programming, matlab, iot, python",0.7,7.9,ai based fault detection,82.9
+"embedded systems, python, machine learning, vlsi design, pcb design",4.8,9.99,wireless communication model,100.0
+"embedded systems, python, machine learning, iot, signal processing",1.4,9.06,fpga based design,100.0
+"embedded systems, python, machine learning, c programming, pcb design",1.8,9.56,fpga based design,100.0
+"embedded systems, python, machine learning, verilog, vlsi design",1.4,8.02,fpga based design,100.0
+"embedded systems, python, machine learning, signal processing",2.0,7.67,ai based fault detection,100.0
+"embedded systems, python, machine learning, pcb design",4.9,7.38,iot weather station,100.0
+"embedded systems, python, machine learning, matlab",3.1,9.7,ai based fault detection,100.0
+"embedded systems, python, machine learning, signal processing, pcb design",3.7,9.38,ai based fault detection,100.0
+"embedded systems, python, machine learning, c programming",2.7,9.42,wireless communication model,100.0
+"signal processing, c programming",2.2,7.41,fpga based design,80.85
+"embedded systems, python, machine learning, pcb design, verilog",3.7,9.95,signal analyzer,100.0
+"embedded systems, python, machine learning, iot, matlab",1.0,9.96,signal analyzer,100.0
+"embedded systems, python, machine learning, vlsi design, signal processing",2.7,9.99,ai based fault detection,100.0
+"embedded systems, python, machine learning, vlsi design",3.9,8.35,smart home automation,100.0
+"embedded systems, python, machine learning, c programming, signal processing",3.4,7.61,signal analyzer,100.0
+"embedded systems, python, machine learning, iot, signal processing",2.8,8.67,fpga based design,100.0
+"verilog, matlab, machine learning",0.5,7.97,signal analyzer,83.69
+"embedded systems, python, machine learning, matlab, iot",4.9,9.64,smart home automation,100.0
+"python, c programming, pcb design, embedded systems",1.3,7.97,iot weather station,100.0
+"embedded systems, python, machine learning, vlsi design",2.5,8.21,iot weather station,100.0
+"embedded systems, python, machine learning, signal processing",2.5,9.51,smart home automation,100.0
+"python, matlab",2.9,7.73,fpga based design,100.0
+"embedded systems, python, machine learning, signal processing",4.8,8.15,robotics arm,100.0
+"embedded systems, python, machine learning, pcb design",3.0,8.39,ai based fault detection,100.0
+"matlab, vlsi design",2.4,7.4,signal analyzer,86.79
+"embedded systems, python, machine learning, matlab, pcb design",2.9,8.05,smart home automation,100.0
+"pcb design, iot, embedded systems, c programming",2.7,7.66,image processing system,100.0
+"embedded systems, python, machine learning, verilog, matlab",4.5,9.4,ai based fault detection,100.0
+"embedded systems, python, machine learning, c programming, matlab",1.6,7.82,ai based fault detection,100.0
+"c programming, iot, vlsi design",2.0,7.92,wireless communication model,100.0
+"embedded systems, python, machine learning, iot",1.1,8.74,iot weather station,100.0
+"embedded systems, python, machine learning, c programming, pcb design",1.2,9.98,signal analyzer,100.0
+"embedded systems, python, machine learning, c programming",2.4,9.39,signal analyzer,100.0
+"embedded systems, python, machine learning, pcb design",2.2,9.94,fpga based design,100.0
+"embedded systems, python, machine learning, vlsi design, signal processing",2.9,8.24,ai based fault detection,100.0
+"embedded systems, python, machine learning, c programming, matlab",1.6,8.78,iot weather station,100.0
+"embedded systems, python, machine learning, c programming",4.4,8.76,ai based fault detection,100.0
+"embedded systems, python, machine learning, verilog, vlsi design",2.4,7.68,fpga based design,100.0
+"embedded systems, python, machine learning, c programming",4.6,8.88,iot weather station,100.0
+"embedded systems, python, machine learning, verilog, iot",3.8,9.06,robotics arm,100.0
+"embedded systems, python, machine learning, c programming",4.9,7.08,image processing system,100.0
+"machine learning, matlab",1.9,7.55,signal analyzer,85.98
+"embedded systems, python, machine learning, pcb design, c programming",3.4,8.44,image processing system,100.0
+"embedded systems, python, machine learning, signal processing, iot",1.4,8.11,ai based fault detection,100.0
+"embedded systems, python, machine learning, verilog",4.0,8.82,signal analyzer,100.0
+"embedded systems, python, machine learning, iot, verilog",4.0,9.31,signal analyzer,100.0
+"embedded systems, python, machine learning, pcb design, iot",3.0,8.45,robotics arm,100.0
+"embedded systems, python, machine learning, signal processing",4.4,8.39,wireless communication model,100.0
+"embedded systems, python, machine learning, signal processing, vlsi design",1.8,8.31,wireless communication model,100.0
+"embedded systems, python, machine learning, verilog",3.5,8.95,wireless communication model,100.0
+"embedded systems, python, machine learning, verilog",5.0,7.69,smart home automation,100.0
+"embedded systems, python, machine learning, c programming, pcb design",4.3,9.32,robotics arm,100.0
+"embedded systems, python, c programming",1.1,7.8,smart home automation,85.8
+"embedded systems, python, machine learning, pcb design, iot",4.2,8.19,robotics arm,100.0
+"python, verilog",2.4,7.75,smart home automation,100.0
+"embedded systems, python, machine learning, signal processing, iot",3.8,9.07,robotics arm,100.0
+"embedded systems, python, machine learning, matlab, signal processing",3.0,9.14,image processing system,100.0
+"iot, matlab",2.2,7.46,wireless communication model,86.47
+"embedded systems, python, machine learning, pcb design",2.1,8.18,smart home automation,100.0
+"embedded systems, python, machine learning, pcb design",1.3,9.84,smart home automation,100.0
+"vlsi design, matlab, embedded systems",2.6,7.81,ai based fault detection,100.0
+"embedded systems, python, machine learning, matlab, verilog",4.5,7.14,signal analyzer,100.0
+"vlsi design, signal processing",1.5,7.69,robotics arm,87.57
+"verilog, matlab, python, machine learning",1.3,7.91,smart home automation,100.0
+"embedded systems, python, machine learning, verilog, signal processing",2.6,9.21,robotics arm,100.0
+"matlab, python",1.9,7.94,wireless communication model,100.0
+"matlab, machine learning",1.6,7.91,smart home automation,100.0
+"embedded systems, python, machine learning, signal processing",4.5,9.87,fpga based design,100.0
+"embedded systems, python, machine learning, vlsi design",3.7,7.38,wireless communication model,100.0
+"embedded systems, python, machine learning, c programming, matlab",3.1,9.1,fpga based design,100.0
+"embedded systems, python, machine learning, vlsi design, signal processing",4.3,9.82,iot weather station,100.0
+"verilog, c programming, pcb design",1.4,7.91,fpga based design,100.0
+"embedded systems, python, machine learning, iot",4.0,7.55,image processing system,100.0
+"embedded systems, python, machine learning, iot",3.6,7.54,wireless communication model,100.0
+"verilog, signal processing, pcb design",2.4,7.95,signal analyzer,100.0
+"embedded systems, python, machine learning, matlab, vlsi design",2.0,9.33,fpga based design,100.0
+"embedded systems, python, machine learning, iot",4.2,9.28,wireless communication model,100.0
+"embedded systems, python, machine learning, c programming",4.7,7.92,robotics arm,100.0
+"pcb design, signal processing, matlab",2.9,7.61,ai based fault detection,100.0
+"embedded systems, python, machine learning, verilog",4.5,7.36,ai based fault detection,100.0
+"embedded systems, python, machine learning, signal processing, c programming",4.4,7.46,smart home automation,100.0
+"embedded systems, python, machine learning, iot",4.9,9.48,robotics arm,100.0
+"embedded systems, python, machine learning, vlsi design",4.9,8.53,ai based fault detection,100.0
+"embedded systems, python, machine learning, verilog, signal processing",3.9,9.65,image processing system,100.0
+"embedded systems, python, machine learning, signal processing, c programming",3.4,8.39,signal analyzer,100.0
+"python, iot, matlab, embedded systems",2.2,7.84,signal analyzer,100.0
+"c programming, python",1.4,7.91,fpga based design,100.0
+"embedded systems, python, machine learning, signal processing, verilog",1.6,8.14,smart home automation,100.0
+"embedded systems, python, machine learning, c programming, verilog",3.6,8.97,iot weather station,100.0
+"embedded systems, python, machine learning, iot",4.5,9.44,wireless communication model,100.0
+"embedded systems, python, machine learning, pcb design, vlsi design",3.7,9.98,wireless communication model,100.0
+"matlab, python, embedded systems, c programming",1.9,7.89,robotics arm,100.0
+"embedded systems, python, machine learning, c programming, iot",3.0,8.5,image processing system,100.0
+"embedded systems, python, machine learning, vlsi design",4.4,8.55,robotics arm,100.0
+"embedded systems, python, machine learning, pcb design, signal processing",3.6,8.53,ai based fault detection,100.0
+"embedded systems, python, machine learning, iot, verilog",3.5,8.62,signal analyzer,100.0
+"verilog, machine learning, signal processing",1.3,7.74,robotics arm,86.12
+"embedded systems, python, machine learning, signal processing, iot",2.1,7.78,image processing system,100.0
+"signal processing, python, verilog",2.7,7.3,image processing system,86.16
+"signal processing, c programming, matlab, pcb design",2.8,7.89,smart home automation,100.0
+"verilog, signal processing, iot",1.4,7.64,robotics arm,78.43
+"iot, matlab, machine learning",2.8,7.74,iot weather station,100.0
+"embedded systems, python, machine learning, vlsi design",2.5,9.78,smart home automation,100.0
+"embedded systems, python, machine learning, iot",4.0,9.64,image processing system,100.0
+"embedded systems, python, machine learning, matlab, signal processing",4.9,7.92,robotics arm,100.0
+"embedded systems, python, machine learning, c programming",4.5,8.35,signal analyzer,100.0
+"embedded systems, matlab, verilog",0.8,7.81,smart home automation,76.32
+"embedded systems, python, machine learning, c programming, pcb design",4.1,7.73,robotics arm,100.0
+"embedded systems, python, machine learning, vlsi design",2.5,8.13,smart home automation,100.0
+"embedded systems, python, machine learning, verilog",4.1,9.86,robotics arm,100.0
+"embedded systems, python, machine learning, pcb design",1.7,8.94,signal analyzer,100.0
+"vlsi design, c programming, machine learning",2.1,7.42,image processing system,78.45
+"python, pcb design, matlab",1.8,7.55,smart home automation,82.45
+"embedded systems, python, machine learning, pcb design",3.9,8.49,signal analyzer,100.0
+"embedded systems, python, machine learning, verilog",3.8,8.17,ai based fault detection,100.0
+"embedded systems, python, machine learning, verilog, matlab",2.0,8.71,image processing system,100.0
+"embedded systems, python, machine learning, vlsi design, pcb design",1.5,8.04,ai based fault detection,100.0
+"embedded systems, python, machine learning, matlab, vlsi design",4.7,9.47,iot weather station,100.0
+"embedded systems, python, machine learning, verilog",4.6,8.88,image processing system,100.0
+"pcb design, vlsi design, c programming, embedded systems",1.8,7.98,ai based fault detection,100.0
+"embedded systems, python, machine learning, pcb design, matlab",3.0,8.48,fpga based design,100.0
+"embedded systems, python, machine learning, pcb design, matlab",4.1,7.05,signal analyzer,100.0
+"embedded systems, python, machine learning, matlab, signal processing",4.6,7.77,smart home automation,100.0
+"embedded systems, python, machine learning, pcb design, c programming",1.4,7.72,ai based fault detection,87.41
+"embedded systems, python, machine learning, c programming, verilog",4.9,8.76,image processing system,100.0
+"embedded systems, python, machine learning, matlab",3.8,9.03,iot weather station,100.0
+"signal processing, pcb design, c programming, machine learning",3.0,7.92,iot weather station,100.0
+"matlab, python",1.4,7.76,smart home automation,91.9
+"pcb design, iot",1.0,7.84,ai based fault detection,86.76
+"embedded systems, python, machine learning, matlab",4.2,9.79,ai based fault detection,100.0
+"embedded systems, python, machine learning, iot, pcb design",3.0,8.44,wireless communication model,100.0
+"verilog, python, vlsi design",1.7,7.56,smart home automation,80.04
+"embedded systems, python, machine learning, pcb design",3.6,7.5,image processing system,100.0
+"signal processing, pcb design, vlsi design",2.3,7.53,smart home automation,97.86
+"embedded systems, python, machine learning, verilog, signal processing",2.3,8.9,iot weather station,100.0
+"embedded systems, python, machine learning, signal processing",3.5,9.13,robotics arm,100.0
+"embedded systems, python, machine learning, matlab",2.3,9.93,signal analyzer,100.0
+"verilog, python, signal processing",1.5,7.61,signal analyzer,78.59
+"embedded systems, python, machine learning, verilog, matlab",3.8,9.59,image processing system,100.0
+"embedded systems, python, machine learning, verilog, vlsi design",3.1,9.41,smart home automation,100.0
+"c programming, signal processing, machine learning, verilog",0.5,7.9,smart home automation,75.84
+"iot, pcb design",2.7,7.84,fpga based design,100.0
+"embedded systems, python, machine learning, vlsi design, pcb design",2.2,9.13,image processing system,100.0
+"embedded systems, python, machine learning, pcb design, signal processing",2.5,8.83,iot weather station,100.0
+"embedded systems, python, machine learning, signal processing, iot",3.6,9.16,iot weather station,100.0
+"embedded systems, python, machine learning, signal processing",3.7,8.07,smart home automation,100.0
+"c programming, iot, machine learning, signal processing",2.8,7.62,image processing system,100.0
+"embedded systems, python, machine learning, vlsi design, c programming",4.2,8.73,robotics arm,100.0
+"embedded systems, python, machine learning, vlsi design, matlab",1.8,9.66,ai based fault detection,100.0
+"embedded systems, python, machine learning, signal processing",3.4,9.59,smart home automation,100.0
+"embedded systems, python, machine learning, signal processing",4.2,7.56,smart home automation,100.0
+"embedded systems, python, machine learning, signal processing",2.9,8.16,robotics arm,100.0
+"embedded systems, python, machine learning, iot",2.6,9.55,robotics arm,100.0
+"vlsi design, c programming",1.1,7.84,smart home automation,90.29
+"embedded systems, python, machine learning, verilog, pcb design",3.3,9.5,robotics arm,100.0
+"pcb design, machine learning, vlsi design",2.6,7.63,iot weather station,100.0
+"embedded systems, python, machine learning, c programming",4.0,9.89,image processing system,100.0
+"embedded systems, python, machine learning, pcb design, verilog",4.9,9.22,ai based fault detection,100.0
+"embedded systems, python, machine learning, c programming, pcb design",3.9,7.36,wireless communication model,100.0
+"vlsi design, python, iot, machine learning",2.6,7.24,wireless communication model,75.89
+"embedded systems, python, machine learning, verilog, c programming",3.6,8.51,smart home automation,100.0
+"embedded systems, python, machine learning, signal processing, vlsi design",3.0,9.19,wireless communication model,100.0
+"embedded systems, vlsi design, signal processing",1.8,7.5,fpga based design,76.83
+"embedded systems, python, machine learning, iot, c programming",1.4,8.67,smart home automation,100.0
+"embedded systems, python, machine learning, pcb design, matlab",3.3,7.84,signal analyzer,100.0
+"pcb design, machine learning",2.8,7.19,robotics arm,77.34
+"embedded systems, python, machine learning, iot",1.6,9.52,signal analyzer,100.0
+"embedded systems, python, machine learning, pcb design, signal processing",1.5,8.47,iot weather station,100.0
+"embedded systems, python, machine learning, signal processing",3.3,7.81,ai based fault detection,100.0
+"embedded systems, python, machine learning, vlsi design",3.2,8.84,signal analyzer,100.0
+"embedded systems, python, machine learning, signal processing",4.4,7.43,signal analyzer,100.0
+"embedded systems, python, machine learning, c programming",1.7,9.92,signal analyzer,100.0
+"embedded systems, python, machine learning, verilog, pcb design",4.0,9.83,wireless communication model,100.0
+"embedded systems, python, machine learning, signal processing, c programming",2.9,8.32,fpga based design,100.0
+"embedded systems, vlsi design, python, matlab",1.5,7.61,wireless communication model,78.59
+"embedded systems, python, machine learning, matlab, pcb design",4.9,8.41,wireless communication model,100.0
+"embedded systems, python, machine learning, pcb design, iot",2.5,7.34,wireless communication model,83.59
+"embedded systems, python, machine learning, vlsi design, signal processing",4.9,7.91,ai based fault detection,100.0
+"signal processing, python, c programming",1.6,7.68,ai based fault detection,89.98
+"matlab, embedded systems, c programming, pcb design",1.7,7.88,wireless communication model,100.0
+"iot, machine learning, c programming, verilog",2.7,7.86,image processing system,100.0
+"embedded systems, python, machine learning, iot, verilog",2.3,9.86,fpga based design,100.0
+"embedded systems, python, machine learning, vlsi design, verilog",3.4,8.84,smart home automation,100.0
+"embedded systems, python, machine learning, vlsi design, matlab",1.1,8.25,smart home automation,100.0
+"embedded systems, python, machine learning, signal processing, vlsi design",1.8,9.06,wireless communication model,100.0
+"embedded systems, python, machine learning, matlab",1.1,8.01,smart home automation,100.0
+"embedded systems, python, machine learning, matlab, signal processing",1.2,8.36,wireless communication model,100.0
+"embedded systems, python, machine learning, signal processing",2.4,9.45,robotics arm,100.0
+"embedded systems, python, machine learning, iot",3.9,7.32,iot weather station,100.0
+"embedded systems, python, machine learning, signal processing, pcb design",2.1,9.54,ai based fault detection,100.0
+"embedded systems, python, machine learning, c programming",2.1,8.9,iot weather station,100.0
+"python, pcb design, iot",2.1,7.83,signal analyzer,100.0
+"embedded systems, python, machine learning, matlab, iot",1.4,8.5,signal analyzer,100.0
+"embedded systems, python, machine learning, pcb design",1.6,9.32,smart home automation,100.0
+"embedded systems, python, machine learning, pcb design, verilog",4.0,7.99,ai based fault detection,100.0
+"embedded systems, python, machine learning, vlsi design, c programming",4.3,8.57,fpga based design,100.0
+"embedded systems, python, machine learning, vlsi design, signal processing",1.7,9.97,signal analyzer,100.0
+"embedded systems, python, machine learning, matlab",3.4,8.59,smart home automation,100.0
+"embedded systems, python, machine learning, c programming, signal processing",4.1,8.14,ai based fault detection,100.0
+"embedded systems, python, machine learning, signal processing, c programming",4.7,8.36,fpga based design,100.0
+"embedded systems, python, machine learning, matlab, c programming",3.9,7.43,ai based fault detection,100.0
+"embedded systems, python, machine learning, verilog, signal processing",5.0,7.08,robotics arm,100.0
+"embedded systems, python, machine learning, signal processing, vlsi design",2.5,9.49,smart home automation,100.0
+"embedded systems, python, machine learning, vlsi design, iot",4.3,8.11,iot weather station,100.0
+"embedded systems, python, machine learning, c programming",3.0,9.4,smart home automation,100.0
+"embedded systems, python, machine learning, signal processing",1.9,9.34,robotics arm,100.0
+"embedded systems, python, machine learning, verilog",2.1,7.67,signal analyzer,100.0
+"embedded systems, python, machine learning, pcb design",1.1,9.41,wireless communication model,100.0
+"embedded systems, python, machine learning, c programming, iot",1.3,9.88,ai based fault detection,100.0
+"embedded systems, python, machine learning, iot, matlab",3.1,9.53,image processing system,100.0
+"embedded systems, python, machine learning, vlsi design, c programming",4.1,8.83,image processing system,100.0
+"embedded systems, python, machine learning, vlsi design",2.8,8.9,iot weather station,100.0
+"embedded systems, python, machine learning, verilog",1.5,8.1,robotics arm,100.0
+"iot, machine learning, python",2.8,7.25,signal analyzer,84.08
+"c programming, machine learning, python, verilog",1.7,7.65,wireless communication model,90.14
+"iot, python, vlsi design, machine learning",2.9,7.25,image processing system,87.61
+"embedded systems, python, machine learning, verilog",4.5,7.83,iot weather station,100.0
+"embedded systems, python, machine learning, matlab, signal processing",2.3,8.36,signal analyzer,100.0
+"embedded systems, python, machine learning, verilog, pcb design",1.1,8.24,smart home automation,100.0
+"machine learning, matlab, vlsi design, c programming",2.8,7.46,robotics arm,100.0
+"c programming, signal processing, embedded systems",2.1,7.51,wireless communication model,88.55
+"embedded systems, python, machine learning, pcb design",4.1,7.89,wireless communication model,100.0
+"embedded systems, python, machine learning, c programming, vlsi design",5.0,7.36,robotics arm,100.0
+"vlsi design, c programming, pcb design",2.8,7.81,ai based fault detection,100.0
+"embedded systems, python, machine learning, verilog, c programming",3.5,9.68,signal analyzer,100.0
+"embedded systems, python, machine learning, iot, c programming",3.5,8.87,ai based fault detection,100.0
+"embedded systems, python, machine learning, pcb design, matlab",3.5,8.2,fpga based design,100.0
+"embedded systems, verilog, machine learning, matlab",2.2,7.99,robotics arm,100.0
+"embedded systems, python, machine learning, pcb design",4.7,7.53,iot weather station,100.0
+"embedded systems, python, machine learning, verilog, vlsi design",2.1,8.18,fpga based design,100.0
+"embedded systems, python, machine learning, matlab, signal processing",3.3,7.31,image processing system,100.0
+"vlsi design, verilog",1.8,7.89,signal analyzer,100.0
+"embedded systems, python, machine learning, vlsi design",3.1,9.61,robotics arm,100.0
+"embedded systems, python, machine learning, verilog",2.2,9.81,fpga based design,100.0
+"embedded systems, python, machine learning, verilog, matlab",1.2,8.93,image processing system,100.0
+"signal processing, embedded systems",2.7,7.54,signal analyzer,100.0
+"embedded systems, python, machine learning, verilog",3.9,7.0,robotics arm,94.86
+"signal processing, python, machine learning",1.4,7.61,iot weather station,75.06
+"verilog, vlsi design",2.0,7.94,fpga based design,100.0
+"embedded systems, python, machine learning, pcb design, iot",1.6,8.65,smart home automation,100.0
+"c programming, matlab, iot, vlsi design",2.5,7.83,wireless communication model,100.0
+"embedded systems, python, machine learning, signal processing",1.8,9.88,signal analyzer,100.0
+"embedded systems, python, machine learning, vlsi design",2.6,8.36,signal analyzer,100.0
+"embedded systems, python, machine learning, vlsi design",1.2,7.9,image processing system,100.0
+"machine learning, embedded systems, matlab, pcb design",0.8,7.81,smart home automation,76.32
+"embedded systems, python, machine learning, signal processing",4.7,8.29,smart home automation,100.0
+"embedded systems, python, machine learning, verilog, signal processing",2.6,8.15,robotics arm,100.0
+"embedded systems, python, machine learning, matlab",4.8,8.49,ai based fault detection,100.0
+"embedded systems, python, machine learning, pcb design, verilog",1.8,8.2,ai based fault detection,100.0
+"embedded systems, python, machine learning, vlsi design",4.4,7.17,fpga based design,100.0
+"embedded systems, python, machine learning, c programming, iot",4.4,8.69,smart home automation,100.0
+"embedded systems, python, machine learning, vlsi design",4.2,9.85,robotics arm,100.0
+"embedded systems, python, machine learning, matlab, verilog",2.5,8.04,signal analyzer,100.0
+"embedded systems, python, machine learning, c programming",4.6,7.62,smart home automation,100.0
+"c programming, machine learning, python",3.0,7.73,iot weather station,100.0
+"vlsi design, signal processing, python",2.7,7.92,smart home automation,100.0
+"embedded systems, python, machine learning, pcb design, matlab",2.6,8.87,smart home automation,100.0
+"iot, pcb design, matlab, signal processing",1.6,7.63,smart home automation,84.37
+"embedded systems, python, machine learning, c programming",4.7,7.64,fpga based design,100.0
+"embedded systems, python, machine learning, c programming, vlsi design",4.5,7.12,smart home automation,100.0
+"embedded systems, python, machine learning, pcb design, c programming",3.2,7.41,fpga based design,100.0
+"embedded systems, python, machine learning, iot",3.5,9.73,fpga based design,100.0
+"embedded systems, python, machine learning, matlab, vlsi design",4.6,9.6,iot weather station,100.0
+"python, embedded systems, matlab, pcb design",2.0,7.82,iot weather station,100.0
+"embedded systems, python, machine learning, matlab",2.9,8.48,robotics arm,100.0
+"embedded systems, python, machine learning, c programming, signal processing",1.8,8.18,iot weather station,100.0
+"vlsi design, iot, verilog",1.7,7.62,fpga based design,86.78
+"embedded systems, python, machine learning, iot, c programming",4.6,8.76,signal analyzer,100.0
+"embedded systems, python, machine learning, signal processing, c programming",2.5,7.42,fpga based design,92.57
+"signal processing, matlab, iot, embedded systems",2.3,7.87,iot weather station,100.0
+"embedded systems, python, machine learning, verilog, pcb design",4.0,8.3,iot weather station,100.0
+"embedded systems, python, machine learning, signal processing",4.6,9.79,image processing system,100.0
+"embedded systems, python, machine learning, signal processing, matlab",1.1,8.06,ai based fault detection,100.0
+"pcb design, vlsi design, iot",2.8,7.29,wireless communication model,88.57
+"embedded systems, python, machine learning, vlsi design",2.4,8.22,smart home automation,100.0
+"embedded systems, python, machine learning, iot, signal processing",3.6,7.62,wireless communication model,100.0
+"embedded systems, python, machine learning, matlab, vlsi design",2.0,8.73,ai based fault detection,100.0
+"signal processing, python, pcb design, iot",2.5,7.35,robotics arm,84.71
+"embedded systems, c programming, verilog",2.8,7.83,signal analyzer,100.0
+"embedded systems, python, machine learning, verilog, iot",2.6,9.16,smart home automation,100.0
+"embedded systems, python, machine learning, c programming, signal processing",3.0,8.06,fpga based design,100.0
+"embedded systems, python, machine learning, vlsi design",1.9,9.93,smart home automation,100.0
+"embedded systems, python, machine learning, vlsi design, signal processing",3.4,7.46,fpga based design,100.0
+"embedded systems, python, machine learning, pcb design",3.8,7.09,robotics arm,100.0
+"embedded systems, python, machine learning, c programming, iot",1.1,7.86,image processing system,92.53
+"embedded systems, python, machine learning, verilog, vlsi design",4.7,8.5,iot weather station,100.0
+"embedded systems, python, machine learning, vlsi design, signal processing",2.2,9.6,ai based fault detection,100.0
+"embedded systems, python, machine learning, vlsi design",2.0,8.98,ai based fault detection,100.0
+"embedded systems, python, machine learning, verilog, pcb design",2.1,9.9,image processing system,100.0
+"embedded systems, python, machine learning, pcb design, matlab",3.1,9.25,robotics arm,100.0
+"embedded systems, python, machine learning, matlab, verilog",3.0,7.34,wireless communication model,100.0
+"embedded systems, python, machine learning, c programming, matlab",1.0,9.56,fpga based design,100.0
+"embedded systems, python, machine learning, vlsi design, iot",3.4,7.71,iot weather station,100.0
+"embedded systems, python, machine learning, pcb design, signal processing",3.3,7.35,signal analyzer,100.0
+"embedded systems, python, machine learning, pcb design, signal processing",2.8,8.24,signal analyzer,100.0
+"signal processing, matlab, python",2.9,7.85,ai based fault detection,100.0
+"matlab, verilog, c programming, vlsi design",2.9,7.93,ai based fault detection,100.0
+"embedded systems, python, machine learning, matlab",4.1,9.19,robotics arm,100.0
+"verilog, pcb design",2.1,7.52,iot weather station,89.67
+"iot, python",0.5,8.0,ai based fault detection,87.06
+"embedded systems, python, machine learning, signal processing",2.1,9.04,iot weather station,100.0
+"embedded systems, python, machine learning, iot, pcb design",3.7,7.34,iot weather station,100.0
+"embedded systems, python, machine learning, iot, c programming",2.1,8.65,smart home automation,100.0
+"verilog, embedded systems, c programming, python",1.8,7.7,image processing system,99.29
+"embedded systems, python, machine learning, verilog",3.0,8.5,iot weather station,100.0
+"embedded systems, python, machine learning, pcb design, c programming",4.2,7.14,signal analyzer,100.0
+"embedded systems, python, machine learning, pcb design, vlsi design",3.4,8.8,fpga based design,100.0
+"embedded systems, python, machine learning, matlab",2.9,8.23,wireless communication model,100.0
+"embedded systems, python, machine learning, c programming, iot",4.9,7.58,fpga based design,100.0
+"c programming, verilog, machine learning",1.8,7.86,robotics arm,100.0
+"embedded systems, python, machine learning, matlab, c programming",3.2,9.5,ai based fault detection,100.0
+"embedded systems, verilog, machine learning, pcb design",2.8,7.53,image processing system,100.0
+"embedded systems, python, machine learning, signal processing",3.8,8.64,image processing system,100.0
+"embedded systems, python, machine learning, verilog, iot",4.9,8.93,wireless communication model,100.0
+"iot, signal processing, verilog",3.0,7.96,ai based fault detection,100.0
+"embedded systems, python, machine learning, iot",3.4,8.44,signal analyzer,100.0
+"embedded systems, python, machine learning, iot",2.4,8.0,image processing system,100.0
+"embedded systems, python, machine learning, pcb design, iot",2.2,9.59,iot weather station,100.0
+"vlsi design, matlab, embedded systems",1.7,7.68,iot weather station,93.51
+"embedded systems, python, machine learning, vlsi design, matlab",4.4,7.43,wireless communication model,100.0
+"embedded systems, python, machine learning, verilog, matlab",4.6,7.99,ai based fault detection,100.0
+"embedded systems, python, machine learning, pcb design",4.6,9.2,signal analyzer,100.0
+"embedded systems, python, machine learning, c programming, matlab",4.5,7.69,iot weather station,100.0
+"embedded systems, python, machine learning, vlsi design, iot",1.5,9.67,wireless communication model,100.0
+"embedded systems, python, machine learning, vlsi design, pcb design",4.0,7.2,signal analyzer,100.0
+"embedded systems, python, machine learning, iot",3.2,7.97,wireless communication model,100.0
+"embedded systems, python, machine learning, signal processing, iot",1.9,9.95,wireless communication model,100.0
+"embedded systems, python, machine learning, c programming, pcb design",4.5,8.31,fpga based design,100.0
+"embedded systems, python, machine learning, matlab",4.7,9.29,robotics arm,100.0
+"embedded systems, python, machine learning, iot",4.9,9.19,iot weather station,100.0
+"embedded systems, python, machine learning, matlab",1.7,9.79,fpga based design,100.0
+"embedded systems, python, machine learning, iot, c programming",4.2,9.39,wireless communication model,100.0
+"embedded systems, python, machine learning, iot",3.4,9.88,iot weather station,100.0
+"embedded systems, python, machine learning, signal processing, iot",4.8,7.92,signal analyzer,100.0
+"embedded systems, python, machine learning, vlsi design, iot",1.6,9.66,robotics arm,100.0
+"embedded systems, python, machine learning, verilog, c programming",2.7,8.78,robotics arm,100.0
+"embedded systems, python, machine learning, pcb design, iot",1.2,9.4,wireless communication model,100.0
+"embedded systems, python, machine learning, verilog, c programming",4.0,9.31,robotics arm,100.0
+"iot, c programming",2.6,7.31,ai based fault detection,83.75
+"c programming, vlsi design",2.1,7.73,iot weather station,100.0
+"embedded systems, python, machine learning, iot",3.1,7.54,signal analyzer,100.0
+"matlab, vlsi design, verilog, embedded systems",1.1,7.76,image processing system,81.31
+"embedded systems, python, machine learning, iot",3.6,7.77,smart home automation,100.0
+"embedded systems, python, machine learning, pcb design, verilog",2.9,8.32,signal analyzer,100.0
+"embedded systems, python, machine learning, c programming, pcb design",2.1,8.29,robotics arm,100.0
+"embedded systems, python, machine learning, signal processing",4.6,8.02,image processing system,100.0
+"signal processing, matlab, embedded systems, python",1.8,7.66,iot weather station,94.8
+"embedded systems, python, machine learning, matlab",4.6,7.72,ai based fault detection,100.0
+"embedded systems, python, machine learning, verilog",3.6,7.82,signal analyzer,100.0
+"embedded systems, python, machine learning, iot, matlab",4.5,8.54,fpga based design,100.0
+"vlsi design, pcb design, iot",0.6,7.99,signal analyzer,89.47
+"embedded systems, python, machine learning, signal processing, matlab",2.7,7.43,signal analyzer,100.0
+"machine learning, embedded systems, signal processing",1.9,7.78,fpga based design,100.0
+"embedded systems, python, machine learning, vlsi design, iot",3.6,7.23,fpga based design,100.0
+"embedded systems, python, machine learning, verilog",1.4,9.62,wireless communication model,100.0
+"embedded systems, python, machine learning, signal processing, c programming",2.5,9.3,signal analyzer,100.0
+"embedded systems, python, machine learning, pcb design, iot",4.6,7.98,image processing system,100.0
+"embedded systems, python, machine learning, c programming",1.3,7.73,wireless communication model,85.0
+"embedded systems, python, machine learning, vlsi design, verilog",4.5,7.51,wireless communication model,100.0
+"verilog, machine learning, iot",1.9,7.96,image processing system,100.0
+"embedded systems, python, machine learning, matlab, verilog",1.8,9.22,fpga based design,100.0
+"embedded systems, python, machine learning, verilog, matlab",4.7,7.93,robotics arm,100.0
+"embedded systems, python, machine learning, c programming",2.6,7.46,signal analyzer,100.0
+"embedded systems, python, machine learning, matlab, vlsi design",1.1,9.62,robotics arm,100.0
+"signal processing, iot, embedded systems, python",0.3,7.98,ai based fault detection,77.75
+"embedded systems, python, machine learning, c programming, pcb design",3.0,8.43,smart home automation,100.0
+"c programming, pcb design, python",2.6,7.53,fpga based design,100.0
+"embedded systems, python, machine learning, pcb design",3.9,8.02,iot weather station,100.0
+"embedded systems, python, machine learning, matlab, signal processing",4.7,8.3,ai based fault detection,100.0
+"embedded systems, python, machine learning, signal processing, matlab",2.5,9.65,image processing system,100.0
+"vlsi design, c programming, pcb design",1.7,7.72,fpga based design,98.0
+"embedded systems, python, machine learning, signal processing, pcb design",1.8,9.65,robotics arm,100.0
+"embedded systems, python, machine learning, verilog",3.0,10.0,fpga based design,100.0
+"vlsi design, machine learning, iot, python",2.8,7.97,wireless communication model,100.0
+"embedded systems, python, machine learning, matlab, verilog",3.0,8.98,iot weather station,100.0
+"embedded systems, python, machine learning, verilog",2.6,8.01,iot weather station,100.0
+"embedded systems, python, machine learning, vlsi design",4.5,9.2,image processing system,100.0
+"embedded systems, python, machine learning, verilog, matlab",3.2,9.19,iot weather station,100.0
+"verilog, matlab, signal processing",1.4,7.69,smart home automation,84.04
+"machine learning, iot, pcb design, signal processing",2.9,7.7,iot weather station,100.0
+"embedded systems, python, machine learning, matlab",4.1,8.53,ai based fault detection,100.0
+"embedded systems, python, machine learning, pcb design",5.0,8.45,image processing system,100.0
+"embedded systems, python, machine learning, iot",2.9,9.64,signal analyzer,100.0
+"embedded systems, python, machine learning, vlsi design, signal processing",2.9,9.85,wireless communication model,100.0
+"embedded systems, python, machine learning, pcb design",2.5,7.3,signal analyzer,79.1
+"embedded systems, python, machine learning, iot, vlsi design",4.2,9.09,fpga based design,100.0
+"embedded systems, matlab, machine learning, c programming",1.8,7.54,iot weather station,81.32
+"embedded systems, python, machine learning, iot",1.3,7.98,iot weather station,100.0
+"embedded systems, python, machine learning, iot, pcb design",3.1,8.92,ai based fault detection,100.0
+"embedded systems, python, machine learning, signal processing",2.5,8.26,signal analyzer,100.0
+"embedded systems, python, machine learning, iot, pcb design",4.1,7.45,wireless communication model,100.0
+"embedded systems, python, machine learning, signal processing, verilog",3.7,8.64,wireless communication model,100.0
+"embedded systems, python, machine learning, signal processing, c programming",4.1,9.71,image processing system,100.0
+"embedded systems, python, machine learning, vlsi design",2.6,7.8,signal analyzer,100.0
+"embedded systems, python, machine learning, c programming",2.5,9.56,fpga based design,100.0
+"machine learning, pcb design, iot",2.6,7.78,ai based fault detection,100.0
+"embedded systems, python, machine learning, verilog, c programming",4.3,8.24,fpga based design,100.0
+"embedded systems, python, machine learning, signal processing",3.6,9.2,ai based fault detection,100.0
+"iot, python, c programming, embedded systems",2.8,7.21,signal analyzer,79.59
+"iot, embedded systems, python, c programming",2.9,7.39,wireless communication model,100.0
+"embedded systems, python, machine learning, iot, verilog",2.7,8.08,fpga based design,100.0
+"embedded systems, vlsi design, machine learning, iot",2.7,7.64,ai based fault detection,100.0
+"embedded systems, python, machine learning, c programming",2.4,7.87,ai based fault detection,100.0
+"embedded systems, python, machine learning, pcb design",2.9,9.43,image processing system,100.0
+"embedded systems, python, machine learning, vlsi design",3.2,7.29,wireless communication model,100.0
+"embedded systems, python, machine learning, matlab, vlsi design",2.4,8.74,wireless communication model,100.0
+"embedded systems, python, machine learning, matlab, vlsi design",1.4,7.93,iot weather station,100.0
+"embedded systems, python, machine learning, c programming, signal processing",1.9,9.44,wireless communication model,100.0
+"embedded systems, python, machine learning, iot, pcb design",1.9,8.67,iot weather station,100.0
+"embedded systems, python, machine learning, pcb design, c programming",1.4,7.9,smart home automation,100.0
+"embedded systems, python, machine learning, signal processing, c programming",4.4,9.62,smart home automation,100.0
+"embedded systems, python, machine learning, pcb design, vlsi design",3.2,7.51,ai based fault detection,100.0
+"embedded systems, python, machine learning, pcb design",4.6,8.15,smart home automation,100.0
+"machine learning, c programming, vlsi design, embedded systems",2.7,7.37,iot weather station,94.02
+"embedded systems, python, machine learning, matlab",3.5,9.81,ai based fault detection,100.0
+"embedded systems, iot, verilog, signal processing",2.8,7.98,ai based fault detection,100.0
+"embedded systems, python, machine learning, pcb design, vlsi design",2.4,9.68,image processing system,100.0
+"embedded systems, python, machine learning, vlsi design, c programming",1.9,8.47,iot weather station,100.0
+"embedded systems, python, machine learning, vlsi design",3.4,9.29,smart home automation,100.0
+"embedded systems, python, machine learning, iot",4.7,7.44,robotics arm,100.0
+"c programming, vlsi design, embedded systems, pcb design",2.4,7.63,smart home automation,100.0
+"embedded systems, python, machine learning, pcb design",2.3,9.61,signal analyzer,100.0
+"embedded systems, python, machine learning, pcb design",1.5,9.8,iot weather station,100.0
+"embedded systems, python, machine learning, matlab, vlsi design",4.3,9.78,iot weather station,100.0
+"embedded systems, python, machine learning, matlab",3.5,8.64,image processing system,100.0
+"verilog, signal processing",1.3,7.81,wireless communication model,93.98
+"embedded systems, python, machine learning, iot",1.8,8.03,fpga based design,100.0
+"embedded systems, python, machine learning, verilog",3.0,7.45,signal analyzer,100.0
+"embedded systems, python, machine learning, matlab, iot",1.3,8.6,ai based fault detection,100.0
+"embedded systems, python, machine learning, iot",3.7,7.77,image processing system,100.0
+"embedded systems, matlab, python",2.4,7.86,robotics arm,100.0
+"embedded systems, python, machine learning, verilog, iot",2.4,8.88,wireless communication model,100.0
+"embedded systems, python, machine learning, pcb design, vlsi design",3.3,7.22,smart home automation,98.37
+"embedded systems, python, machine learning, pcb design, c programming",3.0,8.78,wireless communication model,100.0
+"matlab, c programming",1.6,7.71,ai based fault detection,93.35
+"embedded systems, python, machine learning, verilog, c programming",3.2,9.14,smart home automation,100.0
+"signal processing, matlab, verilog",1.2,7.92,robotics arm,100.0
+"python, iot",1.8,7.54,smart home automation,81.32
+"embedded systems, python, machine learning, pcb design",1.3,9.9,fpga based design,100.0
+"signal processing, c programming, vlsi design",1.5,7.85,wireless communication model,100.0
+"embedded systems, python, machine learning, signal processing",2.6,8.94,iot weather station,100.0
+"machine learning, iot, pcb design, verilog",2.2,7.44,image processing system,84.22
+"verilog, matlab, machine learning, python",2.7,7.22,signal analyzer,77.18
+"embedded systems, python, machine learning, signal processing",2.1,9.89,signal analyzer,100.0
+"embedded systems, python, machine learning, c programming",4.6,7.25,ai based fault detection,100.0
+"embedded systems, python, machine learning, vlsi design",4.9,9.75,ai based fault detection,100.0
+"embedded systems, c programming, machine learning, python",2.8,7.76,iot weather station,100.0
+"vlsi design, iot, machine learning",1.9,7.84,smart home automation,100.0
+"embedded systems, python, machine learning, c programming, matlab",1.8,9.48,wireless communication model,100.0
+"vlsi design, python",2.5,7.93,smart home automation,100.0
+"embedded systems, python, machine learning, pcb design",3.6,7.28,image processing system,100.0
+"embedded systems, python, machine learning, iot, matlab",3.0,7.28,robotics arm,94.51
+"iot, python, matlab, pcb design",1.6,7.97,signal analyzer,100.0
+"embedded systems, python, machine learning, verilog, vlsi design",1.3,8.57,ai based fault detection,100.0
+"embedded systems, python, machine learning, signal processing",2.7,7.68,signal analyzer,100.0
+"embedded systems, python, machine learning, matlab, pcb design",4.7,7.89,wireless communication model,100.0
+"embedded systems, python, machine learning, matlab",4.8,8.77,smart home automation,100.0
+"embedded systems, python, machine learning, matlab, iot",3.3,8.21,wireless communication model,100.0
+"signal processing, verilog, machine learning",1.6,7.62,smart home automation,83.24
+"embedded systems, python, machine learning, c programming",4.1,8.23,wireless communication model,100.0
+"embedded systems, python, machine learning, signal processing",4.2,9.17,iot weather station,100.0
+"embedded systems, python, machine learning, c programming, verilog",4.9,7.03,iot weather station,100.0
+"embedded systems, python, machine learning, iot",3.7,7.76,signal analyzer,100.0
+"embedded systems, python, machine learning, c programming, pcb design",3.9,7.08,robotics arm,100.0
+"embedded systems, python, machine learning, c programming, verilog",3.3,8.26,iot weather station,100.0
+"c programming, machine learning, pcb design, embedded systems",2.6,7.54,ai based fault detection,100.0
+"embedded systems, python, machine learning, c programming",3.6,8.29,iot weather station,100.0
+"embedded systems, python, machine learning, vlsi design, c programming",3.6,9.43,iot weather station,100.0
+"embedded systems, python, machine learning, matlab",4.5,7.77,wireless communication model,100.0
+"embedded systems, python, machine learning, c programming, vlsi design",2.1,9.15,ai based fault detection,100.0
+"embedded systems, python, machine learning, vlsi design, iot",1.8,9.1,smart home automation,100.0
+"embedded systems, python, machine learning, vlsi design, c programming",1.1,8.96,ai based fault detection,100.0
+"embedded systems, python, machine learning, pcb design, signal processing",1.7,9.8,ai based fault detection,100.0
+"iot, matlab, c programming, embedded systems",2.5,7.71,iot weather station,100.0
+"embedded systems, python, machine learning, matlab, signal processing",1.1,9.88,ai based fault detection,100.0
+"embedded systems, python, machine learning, pcb design, c programming",1.1,9.3,fpga based design,100.0
+"embedded systems, python, machine learning, vlsi design",3.0,9.87,image processing system,100.0
+"embedded systems, python, machine learning, c programming, verilog",3.8,8.56,signal analyzer,100.0
+"vlsi design, c programming",1.9,7.47,image processing system,77.0
+"embedded systems, python, machine learning, vlsi design",3.9,7.61,image processing system,100.0
+"c programming, python, iot",2.2,7.93,iot weather station,100.0
+"embedded systems, python, machine learning, vlsi design",4.8,7.33,robotics arm,100.0
+"embedded systems, python, machine learning, iot",4.9,9.44,ai based fault detection,100.0
+"embedded systems, python, machine learning, iot",1.6,8.8,ai based fault detection,100.0
+"embedded systems, python, machine learning, vlsi design",1.5,7.67,signal analyzer,85.33
+"pcb design, matlab",3.0,7.73,image processing system,100.0
+"embedded systems, python, machine learning, signal processing, pcb design",1.6,9.35,signal analyzer,100.0
+"embedded systems, python, machine learning, matlab, c programming",2.7,9.05,image processing system,100.0
+"iot, verilog, embedded systems",2.1,7.91,ai based fault detection,100.0
+"embedded systems, python, machine learning, vlsi design",2.1,7.44,image processing system,80.69
+"embedded systems, python, machine learning, pcb design",1.3,10.0,signal analyzer,100.0
+"pcb design, verilog, vlsi design, iot",2.3,7.43,signal analyzer,86.63
+"embedded systems, python, machine learning, vlsi design, verilog",4.4,9.05,wireless communication model,100.0
+"embedded systems, python, machine learning, c programming, pcb design",3.5,8.48,wireless communication model,100.0
+"machine learning, pcb design, c programming, python",1.8,7.58,iot weather station,85.82
+"embedded systems, python, machine learning, signal processing",1.8,9.84,image processing system,100.0
+"c programming, matlab, vlsi design, pcb design",2.9,7.88,smart home automation,100.0
+"embedded systems, python, machine learning, vlsi design, signal processing",3.9,9.73,ai based fault detection,100.0
+"embedded systems, python, machine learning, iot",1.9,8.38,fpga based design,100.0
+"embedded systems, python, machine learning, c programming, matlab",3.2,9.15,robotics arm,100.0
+"embedded systems, python, machine learning, pcb design",4.0,9.63,iot weather station,100.0
+"embedded systems, python, machine learning, signal processing",1.8,9.46,iot weather station,100.0
+"embedded systems, python, machine learning, matlab, vlsi design",1.4,9.23,fpga based design,100.0
+"pcb design, machine learning",2.5,7.33,fpga based design,82.47
+"embedded systems, python, machine learning, matlab",2.1,9.95,ai based fault detection,100.0
+"pcb design, signal processing, machine learning, embedded systems",2.6,7.85,image processing system,100.0
+"embedded systems, python, machine learning, signal processing, verilog",4.5,9.29,fpga based design,100.0
+"iot, signal processing",2.2,7.75,wireless communication model,100.0
+"embedded systems, python, machine learning, verilog",2.0,7.56,ai based fault detection,90.63
+"embedded systems, matlab",1.5,7.93,wireless communication model,100.0
+"embedded systems, python, machine learning, signal processing",4.6,9.54,image processing system,100.0
+"embedded systems, python, machine learning, vlsi design",3.1,9.9,ai based fault detection,100.0
+"embedded systems, python, machine learning, vlsi design",4.5,9.79,image processing system,100.0
+"embedded systems, python, machine learning, iot, pcb design",3.7,9.21,fpga based design,100.0
+"embedded systems, python, machine learning, pcb design, matlab",4.4,9.48,smart home automation,100.0
+"matlab, c programming, embedded systems",2.2,7.49,wireless communication model,89.84
+"embedded systems, python, machine learning, pcb design, c programming",1.9,9.17,robotics arm,100.0
+"embedded systems, python, machine learning, vlsi design",4.0,9.8,ai based fault detection,100.0
+"embedded systems, python, machine learning, iot",2.4,7.59,ai based fault detection,100.0
+"embedded systems, python, machine learning, matlab",5.0,7.23,iot weather station,100.0
+"embedded systems, python, machine learning, pcb design, verilog",2.1,8.09,smart home automation,100.0
+"embedded systems, python, machine learning, c programming, signal processing",3.7,7.88,ai based fault detection,100.0
+"matlab, python",2.0,7.54,signal analyzer,88.39
+"embedded systems, python, machine learning, signal processing",4.9,7.62,robotics arm,100.0
+"embedded systems, python, machine learning, vlsi design",2.7,7.22,iot weather station,77.18
+"machine learning, iot, c programming",2.2,7.73,signal analyzer,100.0
+"embedded systems, python, machine learning, iot",3.7,8.17,wireless communication model,100.0
+"embedded systems, python, machine learning, iot",3.4,9.62,smart home automation,100.0
+"embedded systems, python, machine learning, signal processing",4.8,9.56,iot weather station,100.0
+"embedded systems, python, machine learning, iot",3.4,9.1,ai based fault detection,100.0
+"embedded systems, python, machine learning, verilog",1.9,8.94,robotics arm,100.0
+"embedded systems, python, machine learning, pcb design, matlab",2.3,9.68,iot weather station,100.0
+"python, vlsi design, machine learning",2.9,7.7,wireless communication model,100.0
+"embedded systems, python, machine learning, c programming",2.1,9.9,smart home automation,100.0
+"verilog, signal processing",2.0,7.87,image processing system,100.0
+"iot, embedded systems, matlab, verilog",1.9,7.66,smart home automation,98.33
+"embedded systems, python, machine learning, signal processing, c programming",5.0,7.5,wireless communication model,100.0
+"machine learning, python, signal processing",2.6,7.37,ai based fault detection,90.49
+"iot, embedded systems, matlab, c programming",2.3,7.8,robotics arm,100.0
+"embedded systems, python, machine learning, iot, verilog",3.1,7.8,signal analyzer,100.0
+"embedded systems, python, machine learning, vlsi design",3.9,9.05,iot weather station,100.0
+"embedded systems, python, machine learning, signal processing",4.2,9.21,wireless communication model,100.0
+"pcb design, signal processing, python",0.7,7.89,signal analyzer,81.78
+"vlsi design, pcb design, verilog, c programming",2.5,7.68,iot weather station,100.0
+"embedded systems, python, machine learning, vlsi design, matlab",2.8,7.28,iot weather station,87.45
+"embedded systems, python, machine learning, c programming",3.3,9.14,iot weather station,100.0
+"embedded systems, python, machine learning, verilog, matlab",2.4,7.62,smart home automation,100.0
+"embedded systems, python, machine learning, vlsi design",1.5,9.03,image processing system,100.0
+"embedded systems, python, machine learning, signal processing",4.8,8.54,image processing system,100.0
+"embedded systems, python, machine learning, matlab, iot",4.3,9.52,signal analyzer,100.0
+"embedded systems, python, machine learning, iot",3.0,9.6,wireless communication model,100.0
+"embedded systems, python, machine learning, matlab",2.0,8.97,ai based fault detection,100.0
+"vlsi design, embedded systems",1.1,7.98,fpga based design,100.0
+"embedded systems, python, machine learning, iot",3.7,9.53,signal analyzer,100.0
+"embedded systems, python, machine learning, matlab, iot",4.0,7.67,image processing system,100.0
+"c programming, pcb design, python, signal processing",2.5,7.48,iot weather station,99.31
+"embedded systems, python, machine learning, verilog, matlab",3.1,7.59,fpga based design,100.0
+"embedded systems, python, machine learning, matlab, verilog",2.2,8.19,smart home automation,100.0
+"python, c programming, verilog, machine learning",2.8,7.59,signal analyzer,100.0
+"embedded systems, python, machine learning, matlab",4.9,9.98,signal analyzer,100.0
+"embedded systems, python, machine learning, vlsi design, iot",4.9,7.22,smart home automation,100.0
+"embedded systems, python, machine learning, matlab, pcb design",2.6,7.85,iot weather station,100.0
+"embedded systems, python, machine learning, matlab",4.2,7.46,signal analyzer,100.0
+"pcb design, embedded systems, c programming, vlsi design",2.5,7.91,signal analyzer,100.0
+"signal processing, vlsi design",2.8,7.85,robotics arm,100.0
+"embedded systems, python, machine learning, verilog, vlsi design",3.3,8.95,image processing system,100.0
+"iot, pcb design",1.6,7.98,iot weather station,100.0
+"signal processing, iot, machine learning, vlsi design",1.6,7.81,image processing system,100.0
+"signal processing, pcb design",1.3,7.99,image processing system,100.0
+"embedded systems, python, machine learning, signal processing, c programming",4.6,8.2,fpga based design,100.0
+"embedded systems, python, machine learning, iot, matlab",4.1,9.21,robotics arm,100.0
+"embedded systems, python, machine learning, signal processing, iot",1.5,9.02,signal analyzer,100.0
+"embedded systems, python, machine learning, signal processing",2.0,8.35,iot weather station,100.0
+"embedded systems, python, machine learning, pcb design, c programming",2.4,7.64,smart home automation,100.0
+"embedded systems, python, machine learning, vlsi design, iot",2.8,8.71,signal analyzer,100.0
+"embedded systems, python, machine learning, matlab, signal processing",2.8,8.54,fpga based design,100.0
+"embedded systems, python, machine learning, signal processing, c programming",4.8,8.81,image processing system,100.0
+"embedded systems, python, machine learning, vlsi design, verilog",3.9,9.31,ai based fault detection,100.0
+"embedded systems, verilog, python, machine learning",2.1,7.79,ai based fault detection,100.0
+"verilog, matlab, signal processing, python",1.9,7.47,robotics arm,77.0
+"embedded systems, python, machine learning, c programming, pcb design",1.8,9.85,ai based fault detection,100.0
+"embedded systems, python, machine learning, verilog, vlsi design",1.3,8.95,wireless communication model,100.0
+"embedded systems, python, machine learning, matlab",4.5,7.01,fpga based design,100.0
+"embedded systems, python, machine learning, pcb design",3.2,8.15,wireless communication model,100.0
+"embedded systems, python, machine learning, vlsi design, c programming",4.8,8.72,image processing system,100.0
+"embedded systems, python, machine learning, verilog, pcb design",3.8,9.41,robotics arm,100.0
+"embedded systems, python, machine learning, vlsi design",2.1,7.9,ai based fault detection,100.0
+"embedded systems, python, machine learning, matlab, c programming",2.1,7.4,signal analyzer,76.2
+"iot, signal processing",1.9,7.57,ai based fault detection,88.22
+"embedded systems, python, machine learning, iot, pcb design",1.4,8.27,image processing system,100.0
+"embedded systems, python, machine learning, signal processing",3.6,7.84,fpga based design,100.0
+"embedded systems, python, machine learning, vlsi design, verilog",1.4,9.78,robotics arm,100.0
+"embedded systems, python, machine learning, verilog",3.3,9.18,smart home automation,100.0
+"embedded systems, python, machine learning, c programming",4.1,7.55,smart home automation,100.0
+"embedded systems, python, machine learning, iot, verilog",2.1,9.75,signal analyzer,100.0
+"embedded systems, python, machine learning, pcb design, vlsi design",4.5,7.69,wireless communication model,100.0
+"embedded systems, python, machine learning, matlab, verilog",1.0,7.97,smart home automation,100.0
+"embedded systems, python, machine learning, matlab",3.8,7.85,image processing system,100.0
+"embedded systems, python, machine learning, vlsi design, verilog",3.9,7.85,smart home automation,100.0
+"embedded systems, python, machine learning, verilog",4.8,7.2,iot weather station,100.0
+"embedded systems, python, machine learning, vlsi design, matlab",4.9,9.07,fpga based design,100.0
+"matlab, signal processing, python",1.7,7.91,ai based fault detection,100.0
+"embedded systems, python, machine learning, c programming, signal processing",2.6,7.67,wireless communication model,100.0
+"verilog, pcb design, matlab, vlsi design",2.1,7.8,iot weather station,100.0
+"embedded systems, machine learning, pcb design",1.2,7.89,wireless communication model,99.43
+"matlab, python, c programming, embedded systems",1.8,7.73,ai based fault detection,100.0
+"embedded systems, python, machine learning, c programming",3.5,8.8,smart home automation,100.0
+"embedded systems, python, machine learning, iot",4.9,9.24,signal analyzer,100.0
+"embedded systems, python, machine learning, pcb design, matlab",2.7,7.88,image processing system,100.0
+"c programming, machine learning, signal processing, iot",0.3,7.99,ai based fault detection,78.88
+"verilog, vlsi design",2.2,7.43,wireless communication model,83.1
+"embedded systems, iot",2.1,7.98,iot weather station,100.0
+"python, vlsi design, matlab, machine learning",2.8,7.82,image processing system,100.0
+"embedded systems, python, machine learning, matlab, pcb design",4.3,9.84,robotics arm,100.0
+"embedded systems, python, machine learning, matlab, iot",2.8,8.09,fpga based design,100.0
+"embedded systems, python, machine learning, matlab",2.2,9.6,ai based fault detection,100.0
+"embedded systems, python, machine learning, iot",4.3,7.05,image processing system,100.0
+"embedded systems, python, machine learning, signal processing, c programming",4.9,8.19,iot weather station,100.0
+"machine learning, python",2.4,7.42,iot weather station,89.04
+"embedded systems, python, machine learning, signal processing, iot",2.6,7.73,iot weather station,100.0
+"embedded systems, c programming, matlab",0.6,7.93,smart home automation,82.74
+"embedded systems, python, machine learning, vlsi design, matlab",2.0,7.45,robotics arm,78.28
+"embedded systems, python, machine learning, matlab, signal processing",3.0,7.58,iot weather station,100.0
+"embedded systems, python, machine learning, verilog",4.7,7.13,smart home automation,100.0
+"signal processing, verilog, pcb design",2.3,7.98,fpga based design,100.0
+"embedded systems, python, machine learning, c programming, vlsi design",4.5,8.18,smart home automation,100.0
+"embedded systems, python, machine learning, c programming",4.9,7.35,iot weather station,100.0
+"embedded systems, python, machine learning, signal processing, iot",1.3,8.54,iot weather station,100.0
+"embedded systems, python, machine learning, vlsi design, signal processing",3.1,8.23,iot weather station,100.0
+"embedded systems, python, machine learning, c programming",2.8,9.24,robotics arm,100.0
+"embedded systems, python, machine learning, verilog, matlab",2.0,9.96,wireless communication model,100.0
+"matlab, python, pcb design",1.6,7.77,fpga based design,100.0
+"embedded systems, python, machine learning, matlab",1.8,7.73,ai based fault detection,100.0
+"embedded systems, python, machine learning, pcb design, matlab",3.4,8.99,fpga based design,100.0
+"machine learning, signal processing, python, embedded systems",2.5,7.82,wireless communication model,100.0
+"embedded systems, python, machine learning, signal processing, pcb design",2.6,8.81,ai based fault detection,100.0
+"embedded systems, python, machine learning, iot",4.8,9.18,image processing system,100.0
+"embedded systems, python, machine learning, iot",1.9,8.11,wireless communication model,100.0
+"embedded systems, python, machine learning, vlsi design",4.7,9.54,signal analyzer,100.0
+"matlab, machine learning",1.7,7.8,robotics arm,100.0
+"embedded systems, python, machine learning, vlsi design",1.4,9.99,robotics arm,100.0
+"vlsi design, pcb design",2.2,7.42,wireless communication model,81.98
+"embedded systems, signal processing, matlab, vlsi design",1.2,7.68,fpga based design,75.85
+"embedded systems, python, machine learning, iot, verilog",4.8,7.02,smart home automation,100.0
+"embedded systems, python, machine learning, pcb design",3.6,9.23,image processing system,100.0
+"iot, matlab, signal processing",2.8,7.31,robotics arm,90.82
+"signal processing, pcb design, machine learning, iot",2.5,7.65,iot weather station,100.0
+"embedded systems, python, machine learning, iot, pcb design",4.9,7.96,smart home automation,100.0
+"embedded systems, python, machine learning, signal processing, vlsi design",2.6,9.78,iot weather station,100.0
+"embedded systems, python, machine learning, signal processing",4.5,8.19,robotics arm,100.0
+"embedded systems, python, machine learning, iot",4.3,8.06,robotics arm,100.0
+"pcb design, embedded systems, iot",1.4,7.76,image processing system,91.9
+"embedded systems, python, machine learning, vlsi design",2.8,7.19,fpga based design,77.34
+"embedded systems, python, machine learning, signal processing, pcb design",1.7,8.83,fpga based design,100.0
+"embedded systems, python, machine learning, c programming",1.9,8.07,wireless communication model,100.0
+"embedded systems, python, machine learning, matlab",2.7,9.98,iot weather station,100.0
+"c programming, vlsi design, matlab, iot",1.8,7.78,signal analyzer,100.0
+"embedded systems, python, machine learning, pcb design, c programming",3.9,7.6,ai based fault detection,100.0
+"embedded systems, python, machine learning, c programming, verilog",5.0,7.42,fpga based design,100.0
+"embedded systems, python, machine learning, verilog, vlsi design",4.9,9.78,image processing system,100.0
+"embedded systems, python, machine learning, verilog",3.1,9.89,ai based fault detection,100.0
+"embedded systems, python, machine learning, verilog",3.7,9.16,iot weather station,100.0
+"embedded systems, python, machine learning, signal processing",2.3,8.4,iot weather station,100.0
+"verilog, matlab, machine learning",2.9,7.86,iot weather station,100.0
+"embedded systems, python, machine learning, c programming, signal processing",4.8,8.46,signal analyzer,100.0
+"embedded systems, python, machine learning, signal processing",4.0,7.27,smart home automation,100.0
+"c programming, iot, matlab",2.4,7.84,wireless communication model,100.0
+"embedded systems, python, machine learning, pcb design",2.5,8.91,smart home automation,100.0
+"embedded systems, python, machine learning, iot, c programming",1.1,8.25,robotics arm,100.0
+"c programming, signal processing",2.7,7.42,ai based fault detection,99.63
+"embedded systems, python, machine learning, verilog, iot",1.9,7.5,image processing system,80.36
+"embedded systems, python, machine learning, vlsi design",2.1,8.32,signal analyzer,100.0
+"embedded systems, python, machine learning, pcb design",1.7,7.66,signal analyzer,91.27
+"embedded systems, python, machine learning, matlab",2.1,8.72,ai based fault detection,100.0
+"embedded systems, python, machine learning, pcb design",3.4,9.02,iot weather station,100.0
+"embedded systems, c programming",1.5,7.93,fpga based design,100.0
+"embedded systems, python, machine learning, pcb design",4.1,9.23,signal analyzer,100.0
+"embedded systems, python, machine learning, matlab, verilog",2.5,9.74,wireless communication model,100.0
+"embedded systems, python, machine learning, matlab",3.6,9.82,smart home automation,100.0
+"embedded systems, python, machine learning, signal processing",1.9,7.97,iot weather station,100.0
+"matlab, vlsi design, verilog",2.2,7.43,fpga based design,83.1
+"embedded systems, python, machine learning, pcb design, signal processing",2.0,8.1,smart home automation,100.0
+"embedded systems, python, machine learning, c programming, iot",2.2,9.02,wireless communication model,100.0
+"embedded systems, python, machine learning, vlsi design",4.4,8.96,iot weather station,100.0
+"embedded systems, python, machine learning, vlsi design, verilog",2.1,8.91,wireless communication model,100.0
+"embedded systems, python, machine learning, vlsi design",3.1,7.92,iot weather station,100.0
+"embedded systems, python, machine learning, iot",3.7,8.26,wireless communication model,100.0
+"embedded systems, python, machine learning, iot, vlsi design",2.2,9.4,wireless communication model,100.0
+"embedded systems, python, machine learning, pcb design, matlab",1.0,8.54,fpga based design,100.0
+"embedded systems, python, machine learning, matlab",2.4,8.93,image processing system,100.0
+"embedded systems, python, machine learning, signal processing",4.0,7.36,wireless communication model,100.0
+"embedded systems, python, machine learning, signal processing, verilog",3.6,9.92,iot weather station,100.0
+"iot, machine learning",0.9,7.77,image processing system,75.36
+"embedded systems, python, machine learning, matlab, pcb design",2.9,7.85,robotics arm,100.0
+"embedded systems, python, machine learning, signal processing",3.1,7.79,wireless communication model,100.0
+"matlab, pcb design",2.6,7.42,signal analyzer,96.1
+"embedded systems, signal processing, iot",0.9,7.78,fpga based design,76.49
+"embedded systems, signal processing",2.3,7.84,robotics arm,100.0
+"embedded systems, python, machine learning, verilog, c programming",2.4,8.17,signal analyzer,100.0
+"embedded systems, python, machine learning, vlsi design, pcb design",2.0,9.19,robotics arm,100.0
+"embedded systems, python, machine learning, verilog, signal processing",3.6,9.15,wireless communication model,100.0
+"matlab, c programming",1.6,7.61,iot weather station,82.12
+"embedded systems, python, machine learning, vlsi design",3.7,8.63,smart home automation,100.0
+"vlsi design, c programming",2.2,7.68,iot weather station,100.0
+"embedded systems, python, machine learning, signal processing",2.7,8.03,fpga based design,100.0
+"embedded systems, python, machine learning, signal processing, verilog",3.0,7.49,smart home automation,100.0
+"pcb design, machine learning, python, vlsi design",2.8,7.71,fpga based design,100.0
+"c programming, verilog, python, signal processing",1.8,7.5,image processing system,76.83
+"embedded systems, python, machine learning, c programming",2.6,9.25,iot weather station,100.0
+"embedded systems, python, machine learning, iot, signal processing",1.5,7.7,signal analyzer,88.69
+"embedded systems, python, machine learning, iot, pcb design",3.7,9.4,iot weather station,100.0
+"python, c programming, machine learning",2.0,7.75,wireless communication model,100.0
+"embedded systems, python, machine learning, c programming",2.7,9.5,signal analyzer,100.0
+"embedded systems, python, machine learning, signal processing, verilog",1.7,9.13,iot weather station,100.0
+"embedded systems, python, machine learning, verilog, iot",4.4,7.53,image processing system,100.0
+"embedded systems, python, machine learning, signal processing, verilog",1.8,9.02,robotics arm,100.0
+"embedded systems, python, machine learning, matlab",3.2,7.96,signal analyzer,100.0
+"embedded systems, python, machine learning, iot",3.7,8.44,wireless communication model,100.0
+"python, embedded systems, vlsi design, signal processing",2.6,7.51,wireless communication model,100.0
+"embedded systems, python, machine learning, vlsi design",3.3,8.48,ai based fault detection,100.0
+"embedded systems, c programming",2.5,7.4,wireless communication model,90.33
+"c programming, embedded systems",0.4,8.0,signal analyzer,83.53
+"pcb design, embedded systems, vlsi design",2.9,7.48,fpga based design,100.0
+"embedded systems, python, machine learning, c programming, signal processing",4.4,8.38,iot weather station,100.0
+"pcb design, c programming, machine learning",0.6,7.96,ai based fault detection,86.1
+"embedded systems, python, machine learning, verilog, matlab",1.2,8.82,iot weather station,100.0
+"embedded systems, python, machine learning, iot, vlsi design",3.8,8.66,robotics arm,100.0
+"verilog, pcb design",2.9,7.94,image processing system,100.0
+"embedded systems, python, machine learning, vlsi design, iot",1.4,9.37,robotics arm,100.0
+"embedded systems, python, machine learning, pcb design, verilog",1.0,9.72,iot weather station,100.0
+"pcb design, iot, signal processing, machine learning",2.7,7.73,iot weather station,100.0
+"pcb design, machine learning, verilog",2.9,7.25,wireless communication model,87.61
+"embedded systems, python, machine learning, vlsi design, signal processing",3.4,8.08,ai based fault detection,100.0
+"embedded systems, python, machine learning, c programming, pcb design",4.5,8.76,image processing system,100.0
+"embedded systems, python, machine learning, signal processing, matlab",4.1,8.73,fpga based design,100.0
+"embedded systems, python, machine learning, iot, c programming",1.0,9.2,image processing system,100.0
+"embedded systems, python, machine learning, verilog",1.7,9.42,ai based fault detection,100.0
+"pcb design, signal processing, vlsi design",1.9,7.53,signal analyzer,83.73
+"signal processing, pcb design",2.9,7.78,ai based fault detection,100.0
+"embedded systems, python, machine learning",1.8,7.74,wireless communication model,100.0
+"embedded systems, python, machine learning, pcb design",4.0,9.33,robotics arm,100.0
+"embedded systems, python, machine learning, matlab, verilog",1.7,7.83,robotics arm,100.0
+"embedded systems, python, machine learning, verilog",4.0,7.79,wireless communication model,100.0
+"embedded systems, python, machine learning, pcb design, matlab",4.4,9.95,robotics arm,100.0
+"vlsi design, python, c programming",1.7,7.53,wireless communication model,76.67
+"embedded systems, python, machine learning, pcb design, signal processing",2.1,7.7,smart home automation,100.0
+"embedded systems, python, machine learning, signal processing",2.2,8.65,iot weather station,100.0
+"embedded systems, python, machine learning, matlab",4.0,7.46,fpga based design,100.0
+"matlab, pcb design, signal processing, c programming",1.0,7.75,robotics arm,76.65
+"embedded systems, python, machine learning, verilog",3.4,8.22,smart home automation,100.0
+"embedded systems, python, machine learning, iot, vlsi design",1.8,7.76,image processing system,100.0
+"pcb design, vlsi design, matlab",1.2,7.7,fpga based design,78.1
+"embedded systems, python, machine learning, vlsi design, matlab",1.3,8.99,robotics arm,100.0
+"embedded systems, python, machine learning, c programming, pcb design",1.5,8.43,robotics arm,100.0
+"embedded systems, python, machine learning, matlab",1.8,9.86,ai based fault detection,100.0
+"embedded systems, python, machine learning, pcb design",3.7,9.8,wireless communication model,100.0
+"embedded systems, python, machine learning, vlsi design",3.9,8.26,robotics arm,100.0
+"embedded systems, python, machine learning, signal processing, c programming",5.0,9.94,signal analyzer,100.0
+"signal processing, python, pcb design",1.6,7.63,signal analyzer,84.37
+"python, verilog",1.6,7.74,image processing system,96.72
+"verilog, embedded systems, vlsi design, c programming",1.3,7.92,ai based fault detection,100.0
+"verilog, python",2.7,7.64,ai based fault detection,100.0
+"embedded systems, python, machine learning, c programming, verilog",2.3,7.53,signal analyzer,97.86
+"c programming, signal processing, embedded systems, matlab",3.0,7.21,wireless communication model,86.65
+"embedded systems, python, machine learning, c programming, iot",4.1,8.09,ai based fault detection,100.0
+"pcb design, machine learning, matlab",1.9,7.5,iot weather station,80.36
+"embedded systems, python, machine learning, signal processing",3.3,7.57,fpga based design,100.0
+"embedded systems, python, machine learning, pcb design, iot",3.8,9.24,wireless communication model,100.0
+"matlab, pcb design, signal processing, c programming",1.5,7.74,signal analyzer,93.19
+"embedded systems, python, machine learning, c programming",4.2,8.48,image processing system,100.0
+"machine learning, signal processing, iot, vlsi design",2.8,7.18,wireless communication model,76.22
+"python, c programming, signal processing",1.0,7.86,ai based fault detection,89.0
+"embedded systems, python, machine learning, signal processing, iot",3.4,9.11,signal analyzer,100.0
+"embedded systems, python, machine learning, iot, c programming",4.8,8.55,ai based fault detection,100.0
+"embedded systems, python, machine learning, verilog",4.2,8.66,iot weather station,100.0
+"embedded systems, python, machine learning, iot",1.7,8.77,fpga based design,100.0
+"signal processing, pcb design, python, vlsi design",2.8,7.35,iot weather station,95.31
+"embedded systems, python, machine learning, verilog",4.3,8.47,signal analyzer,100.0
+"embedded systems, python, machine learning, verilog",4.9,8.38,smart home automation,100.0
+"machine learning, iot, vlsi design, verilog",2.8,7.37,signal analyzer,97.55
+"c programming, pcb design, machine learning, signal processing",2.1,7.87,iot weather station,100.0
+"embedded systems, python, machine learning, c programming",3.9,7.5,fpga based design,100.0
+"embedded systems, python, machine learning, matlab",4.4,9.79,fpga based design,100.0
+"embedded systems, python, machine learning, verilog, signal processing",3.2,7.77,image processing system,100.0
+"python, signal processing, matlab",0.5,7.92,wireless communication model,78.08
+"embedded systems, python, machine learning, pcb design, iot",2.4,8.71,fpga based design,100.0
+"embedded systems, python, machine learning, pcb design",1.2,9.59,smart home automation,100.0
+"embedded systems, python, machine learning, verilog, iot",4.9,9.79,iot weather station,100.0
+"embedded systems, python, machine learning, pcb design, signal processing",4.9,9.85,robotics arm,100.0
+"embedded systems, python, machine learning, c programming",4.5,9.37,iot weather station,100.0
+"embedded systems, python, machine learning, c programming",3.7,8.3,signal analyzer,100.0
+"vlsi design, pcb design, matlab, embedded systems",2.7,7.68,ai based fault detection,100.0
+"embedded systems, python, machine learning, iot, pcb design",4.9,8.56,robotics arm,100.0
+"embedded systems, python, machine learning, matlab",1.7,9.0,smart home automation,100.0
+"embedded systems, python, machine learning, c programming",4.9,7.91,ai based fault detection,100.0
+"matlab, verilog, machine learning",1.4,7.64,fpga based design,78.43
+"verilog, python",2.9,7.77,fpga based design,100.0
+"embedded systems, python, machine learning, pcb design, verilog",2.4,8.78,wireless communication model,100.0
+"embedded systems, python, machine learning, verilog",2.8,8.57,signal analyzer,100.0
+"embedded systems, python, machine learning, vlsi design, matlab",1.8,7.61,ai based fault detection,89.18
+"embedded systems, python, machine learning, pcb design, matlab",1.8,8.95,wireless communication model,100.0
+"embedded systems, matlab, verilog, c programming",2.8,7.8,image processing system,100.0
+"embedded systems, python, machine learning, signal processing, c programming",2.2,9.59,robotics arm,100.0
+"verilog, machine learning, matlab",1.4,7.73,wireless communication model,88.53
+"iot, python, pcb design, machine learning",2.7,7.56,fpga based design,100.0
+"embedded systems, python, machine learning, iot, c programming",2.0,8.35,iot weather station,100.0
+"embedded systems, python, machine learning, c programming",2.5,9.16,iot weather station,100.0
+"embedded systems, python, machine learning, verilog, c programming",1.9,9.8,wireless communication model,100.0
+"embedded systems, python, machine learning, matlab, signal processing",1.1,8.46,smart home automation,100.0
+"c programming, signal processing",1.7,7.84,iot weather station,100.0
+"embedded systems, python, machine learning, c programming, signal processing",2.4,7.69,iot weather station,100.0
+"embedded systems, python, machine learning, iot, verilog",1.5,8.97,image processing system,100.0
+"embedded systems, python, machine learning, c programming",1.8,8.22,fpga based design,100.0
+"embedded systems, python, machine learning, c programming, pcb design",1.0,8.9,fpga based design,100.0
+"embedded systems, python, machine learning, iot, vlsi design",3.4,9.42,iot weather station,100.0
+"signal processing, pcb design",2.9,7.52,robotics arm,100.0
+"machine learning, c programming, python",2.1,7.52,fpga based design,89.67
+"embedded systems, python, machine learning, pcb design",3.8,9.18,image processing system,100.0
+"pcb design, iot",2.5,7.94,smart home automation,100.0
+"embedded systems, python, machine learning, verilog",1.6,8.54,smart home automation,100.0
+"embedded systems, python, machine learning, c programming, pcb design",2.5,7.39,signal analyzer,89.2
+"embedded systems, python, machine learning, verilog",4.5,8.03,smart home automation,100.0
+"embedded systems, python, machine learning, signal processing",3.2,8.24,image processing system,100.0
+"python, verilog",1.3,7.82,signal analyzer,95.11
+"embedded systems, python, machine learning, iot",4.3,8.32,fpga based design,100.0
+"embedded systems, python, machine learning, verilog, vlsi design",2.3,8.56,iot weather station,100.0
+"embedded systems, python, machine learning, verilog, iot",3.8,9.92,fpga based design,100.0
+"embedded systems, python, machine learning, c programming, iot",4.1,7.21,image processing system,100.0
+"embedded systems, python, machine learning, c programming, verilog",2.8,9.42,ai based fault detection,100.0
+"embedded systems, python, machine learning, verilog, pcb design",4.3,8.21,image processing system,100.0
+"embedded systems, python, machine learning, pcb design",4.7,9.23,image processing system,100.0
+"embedded systems, python, machine learning, signal processing, vlsi design",1.4,9.47,image processing system,100.0
+"embedded systems, python, machine learning, iot",3.5,9.94,smart home automation,100.0
+"embedded systems, python, machine learning, c programming",4.6,7.58,ai based fault detection,100.0
+"iot, c programming",0.9,7.93,iot weather station,93.33
+"machine learning, iot, python",1.9,7.59,smart home automation,90.47
+"embedded systems, python, machine learning, verilog, iot",4.4,7.52,wireless communication model,100.0
+"embedded systems, python, machine learning, vlsi design, matlab",1.2,8.22,robotics arm,100.0
+"embedded systems, python, machine learning, c programming",3.0,8.92,fpga based design,100.0
+"embedded systems, python, machine learning, matlab",1.1,9.7,fpga based design,100.0
+"vlsi design, verilog, signal processing, iot",2.7,7.65,smart home automation,100.0
+"embedded systems, python, machine learning, c programming, vlsi design",4.8,8.03,wireless communication model,100.0
+"embedded systems, python, machine learning, c programming, pcb design",2.3,9.61,wireless communication model,100.0
+"embedded systems, python, machine learning, matlab",1.5,8.04,image processing system,100.0
+"embedded systems, python, machine learning, verilog",3.2,7.5,fpga based design,100.0
+"embedded systems, python, machine learning, c programming",3.4,7.99,iot weather station,100.0
+"pcb design, signal processing, verilog",1.5,7.85,smart home automation,100.0
+"embedded systems, python, machine learning, pcb design, matlab",3.1,7.31,signal analyzer,100.0
+"embedded systems, python, machine learning, iot",4.5,7.9,fpga based design,100.0
+"machine learning, matlab",1.7,7.53,smart home automation,76.67
+"embedded systems, python, machine learning, signal processing, verilog",2.2,7.38,wireless communication model,77.49
+"embedded systems, python, machine learning, pcb design, iot",4.2,8.43,wireless communication model,100.0
+"embedded systems, python, machine learning, verilog",4.9,9.35,iot weather station,100.0
+"embedded systems, python, machine learning, iot, c programming",2.2,7.58,wireless communication model,99.94
+"verilog, matlab, python",3.0,7.5,ai based fault detection,100.0
+"embedded systems, python, machine learning, signal processing",1.5,8.23,fpga based design,100.0
+"signal processing, matlab",1.2,7.76,image processing system,84.84
+"embedded systems, python, machine learning, iot, signal processing",4.7,9.53,fpga based design,100.0
+"embedded systems, python, machine learning, c programming",2.5,8.23,image processing system,100.0
+"embedded systems, python, machine learning, c programming, pcb design",2.0,8.81,wireless communication model,100.0
+"embedded systems, python, machine learning, iot",4.7,9.84,robotics arm,100.0
+"embedded systems, python, machine learning, signal processing, iot",4.8,9.59,fpga based design,100.0
+"signal processing, pcb design, matlab",2.4,7.32,smart home automation,77.81
+"embedded systems, python, machine learning, signal processing",4.2,7.29,ai based fault detection,100.0
+"matlab, signal processing, iot, python",2.5,7.6,smart home automation,100.0
+"embedded systems, python, machine learning, verilog, matlab",2.8,7.62,smart home automation,100.0
+"embedded systems, python, machine learning, pcb design",2.6,7.91,image processing system,100.0
+"matlab, embedded systems",0.8,7.96,wireless communication model,93.17
+"embedded systems, python, machine learning, verilog, iot",1.5,7.83,wireless communication model,100.0
+"embedded systems, python, machine learning, c programming, matlab",4.1,8.88,image processing system,100.0
+"embedded systems, c programming",2.8,7.75,fpga based design,100.0
+"embedded systems, python, machine learning, signal processing",4.5,9.45,wireless communication model,100.0
+"pcb design, vlsi design, verilog",1.7,7.55,wireless communication model,78.92
+"embedded systems, python, machine learning, iot",2.0,8.86,wireless communication model,100.0
+"embedded systems, python, machine learning, signal processing, verilog",3.3,7.3,ai based fault detection,100.0
+"embedded systems, python, machine learning, iot, pcb design",3.1,9.45,robotics arm,100.0
+"signal processing, verilog, iot",1.1,7.83,image processing system,89.16
+"embedded systems, python, machine learning, matlab",4.7,7.02,signal analyzer,100.0
+"embedded systems, python, machine learning, verilog",2.8,8.44,smart home automation,100.0
+"matlab, iot, machine learning, pcb design",2.8,7.45,signal analyzer,100.0
+"c programming, embedded systems, python, matlab",1.9,7.9,smart home automation,100.0
+"embedded systems, python, machine learning, pcb design",2.6,9.27,signal analyzer,100.0
+"embedded systems, python, machine learning, signal processing",4.4,8.27,fpga based design,100.0
+"embedded systems, python, machine learning, pcb design, matlab",4.6,9.14,fpga based design,100.0
+"embedded systems, python, machine learning, iot, vlsi design",4.9,7.31,iot weather station,100.0
+"embedded systems, machine learning, pcb design, matlab",1.6,7.82,smart home automation,100.0
+"iot, machine learning, c programming, verilog",1.5,7.74,iot weather station,93.19
+"embedded systems, python, machine learning, vlsi design, signal processing",3.7,8.63,fpga based design,100.0
+"machine learning, signal processing",1.1,7.74,image processing system,79.06
+"python, matlab, embedded systems, c programming",2.5,7.91,wireless communication model,100.0
+"embedded systems, python, machine learning, iot, c programming",1.3,9.19,robotics arm,100.0
+"embedded systems, python, machine learning, vlsi design",3.0,7.95,signal analyzer,100.0
+"embedded systems, python, machine learning, vlsi design, verilog",3.7,9.04,wireless communication model,100.0
+"embedded systems, python, machine learning, matlab, c programming",3.7,8.78,iot weather station,100.0
+"signal processing, c programming, iot",2.1,7.89,smart home automation,100.0
+"embedded systems, python, machine learning, iot, matlab",1.9,7.56,iot weather station,87.1
+"verilog, c programming",1.9,7.87,ai based fault detection,100.0
+"embedded systems, python, machine learning, signal processing, matlab",4.7,9.24,robotics arm,100.0
+"machine learning, python, matlab, vlsi design",1.7,7.84,wireless communication model,100.0
+"embedded systems, python, machine learning, iot",2.7,7.23,iot weather station,78.3
+"embedded systems, python, machine learning, iot",1.3,8.85,smart home automation,100.0
+"embedded systems, python, machine learning, matlab",2.0,9.11,signal analyzer,100.0
+"iot, signal processing, verilog, vlsi design",2.9,7.98,smart home automation,100.0
+"embedded systems, python, machine learning, vlsi design",2.7,9.01,signal analyzer,100.0
+"embedded systems, python, machine learning, signal processing, matlab",4.1,7.39,ai based fault detection,100.0
+"verilog, python, vlsi design",0.3,7.99,ai based fault detection,78.88
+"signal processing, c programming",1.9,7.74,image processing system,100.0
+"embedded systems, python, machine learning, signal processing, vlsi design",1.5,8.89,fpga based design,100.0
+"c programming, matlab",1.7,7.81,image processing system,100.0
+"embedded systems, python, machine learning, pcb design",4.3,9.87,signal analyzer,100.0
+"pcb design, iot, signal processing, embedded systems",1.7,7.76,robotics arm,100.0
+"embedded systems, python, machine learning, c programming",3.4,9.26,wireless communication model,100.0
+"embedded systems, python, machine learning, pcb design, verilog",1.9,9.42,signal analyzer,100.0
+"verilog, signal processing",0.5,7.97,signal analyzer,83.69
+"embedded systems, python, machine learning, vlsi design",4.9,7.94,wireless communication model,100.0
+"embedded systems, python, machine learning, vlsi design",3.6,9.46,signal analyzer,100.0
+"signal processing, pcb design, iot, python",1.3,7.74,signal analyzer,86.12
+"embedded systems, python, machine learning, signal processing, iot",2.1,9.55,wireless communication model,100.0
+"embedded systems, python, machine learning, c programming",3.5,7.34,image processing system,100.0
+"embedded systems, python, machine learning, matlab",4.4,7.15,wireless communication model,100.0
+"machine learning, verilog, pcb design, matlab",2.8,7.52,wireless communication model,100.0
+"machine learning, python",2.7,7.93,signal analyzer,100.0
+"matlab, iot, python",1.9,7.66,fpga based design,98.33
+"embedded systems, python, machine learning, vlsi design, signal processing",3.0,7.45,signal analyzer,100.0
+"matlab, python, iot, verilog",2.8,7.66,fpga based design,100.0
+"matlab, signal processing, vlsi design",1.5,7.59,wireless communication model,76.34
+"embedded systems, python, machine learning, iot",4.8,8.58,signal analyzer,100.0
+"embedded systems, python, machine learning, pcb design",3.3,8.27,signal analyzer,100.0
+"c programming, iot",0.9,7.88,fpga based design,87.72
+"matlab, machine learning",0.9,7.99,iot weather station,100.0
+"embedded systems, python, machine learning, vlsi design, matlab",1.8,9.23,smart home automation,100.0
+"embedded systems, python, machine learning, c programming, matlab",4.6,9.24,signal analyzer,100.0
+"vlsi design, signal processing, verilog, python",2.1,7.88,signal analyzer,100.0
+"embedded systems, python, machine learning, pcb design",4.6,9.68,smart home automation,100.0
+"c programming, iot, pcb design, machine learning",2.3,7.66,signal analyzer,100.0
+"embedded systems, python, machine learning, signal processing, iot",3.9,8.49,signal analyzer,100.0
+"matlab, iot, signal processing",2.5,7.93,fpga based design,100.0
+"signal processing, iot, machine learning, pcb design",1.4,7.67,smart home automation,81.79
+"embedded systems, python, machine learning, verilog, matlab",2.4,7.47,fpga based design,94.65
+"embedded systems, python, machine learning, iot, c programming",2.5,7.89,robotics arm,100.0
+"embedded systems, python, machine learning, signal processing, pcb design",2.0,9.84,robotics arm,100.0
+"embedded systems, python, machine learning, pcb design, c programming",3.1,9.93,ai based fault detection,100.0
+"embedded systems, python, machine learning, verilog, matlab",4.1,8.04,signal analyzer,100.0
+"embedded systems, python, machine learning, pcb design, matlab",3.0,8.87,wireless communication model,100.0
+"embedded systems, python, machine learning, signal processing",3.2,9.91,iot weather station,100.0
+"embedded systems, python, machine learning, verilog",4.6,8.37,signal analyzer,100.0
+"embedded systems, python, machine learning, vlsi design",1.2,8.0,robotics arm,100.0
+"embedded systems, python, machine learning, iot",3.5,7.35,signal analyzer,100.0
+"embedded systems, python, machine learning, verilog",1.8,8.0,iot weather station,100.0
+"embedded systems, python, machine learning, c programming, matlab",1.3,7.7,smart home automation,81.63
+"embedded systems, python, machine learning, iot, pcb design",3.4,7.72,image processing system,100.0
+"embedded systems, python, machine learning, c programming",3.8,7.3,smart home automation,100.0
+"embedded systems, python, machine learning, signal processing",2.1,7.79,robotics arm,100.0
+"c programming, verilog, matlab, vlsi design",2.8,7.44,fpga based design,100.0
+"embedded systems, python, machine learning, signal processing",3.0,8.43,iot weather station,100.0
+"machine learning, verilog",1.1,7.76,image processing system,81.31
+"embedded systems, python, machine learning, vlsi design, signal processing",3.4,7.04,signal analyzer,81.69
+"embedded systems, matlab",1.2,7.8,smart home automation,89.33
+"embedded systems, python, machine learning, c programming, iot",3.8,7.06,robotics arm,98.06
+"embedded systems, python, machine learning, verilog, vlsi design",3.3,7.44,fpga based design,100.0
+"embedded systems, python, machine learning, vlsi design",3.5,9.64,signal analyzer,100.0
+"embedded systems, python, machine learning, iot",1.5,8.02,wireless communication model,100.0
+"embedded systems, python, machine learning, verilog, c programming",4.8,9.99,wireless communication model,100.0
+"embedded systems, verilog",1.8,7.86,image processing system,100.0
+"python, verilog, embedded systems",1.6,7.66,wireless communication model,87.74
+"signal processing, iot, vlsi design, machine learning",1.3,7.73,smart home automation,85.0
+"embedded systems, python, machine learning, iot",2.7,8.01,fpga based design,100.0
+"verilog, embedded systems, machine learning",2.2,7.47,fpga based design,87.59
+"python, verilog",2.6,7.91,smart home automation,100.0
+"matlab, pcb design",2.1,7.65,wireless communication model,100.0
+"iot, matlab, c programming",2.1,7.46,robotics arm,82.94
+"embedded systems, python, machine learning, pcb design, signal processing",2.9,7.24,wireless communication model,86.49
+"embedded systems, python, machine learning, vlsi design",2.6,8.11,smart home automation,100.0
+"embedded systems, python, machine learning, signal processing",3.1,9.56,wireless communication model,100.0
+"embedded systems, python, machine learning, vlsi design, c programming",2.3,7.87,wireless communication model,100.0
